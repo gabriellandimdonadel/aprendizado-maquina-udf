@@ -8,30 +8,30 @@ O projeto é um **pipeline reprodutível de análise de dados** acoplado à arqu
 
 ```text
  Cloud Firestore (somente leitura, chave de conta de serviço fora do Git)
-            │  scripts/exportar_gastromatch.py --chave <chave.json> --json-destino Projeto_datascience/dados/brutos
+            │  scripts/exportar_gastromatch.py --chave <chave.json> --json-destino dados/brutos
             ▼     (remove nome, e-mail, telefone, endereço, coordenadas e fotos; pseudonimiza clientes)
  dados/brutos/firestore_*.json ──► src/extracao.py ──► dados/processados/gastromatch_analitico.xlsx / *.csv
                                    (vocabulário oficial,    │   log_validacao.csv
                                     validações, one-hot)    ▼
-                     notebooks/02_modelagem.ipynb ──► figuras/fig1–fig4.png
+                     notebooks/fase4-modelagem.ipynb ──► figuras/fig1–fig4.png
                        (src/recomendacao.py =             resultado_modelagem_gastromatch.csv
                         motor do sistema em Python)       │
                                                           ▼
-                     notebooks/03_avaliacao.ipynb ──► avaliacao_verificacoes.csv
+                     notebooks/fase5-avaliacao.ipynb ──► avaliacao_verificacoes.csv
 ```
 
 | Etapa | Quem | Quando |
 |---|---|---|
 | Exportar o Firestore de **produção** (`thegastromatch`) | Gabriel (dono da chave) | Mensalmente, ou após cada lote de novos parceiros |
-| Rodar `01` → `02` → `03` | Rafael | Logo após a exportação |
+| Rodar os notebooks das fases 3 → 4 → 5 | Rafael | Logo após a exportação |
 | Revisar as verificações (`avaliacao_verificacoes.csv`) e publicar os indicadores no painel do restaurante | Equipe | Se todas as verificações passarem |
 
-Comando de reprodução (a partir de `Projeto_datascience/`):
+Comando de reprodução (a partir de `crisp-dm/`):
 
 ```bash
 pip install -r requirements.txt
 cd notebooks
-jupyter nbconvert --to notebook --execute --inplace 01_extracao_preparacao.ipynb 02_modelagem.ipynb 03_avaliacao.ipynb
+jupyter nbconvert --to notebook --execute --inplace fase3-preparacao-dados.ipynb fase4-modelagem.ipynb fase5-avaliacao.ipynb
 ```
 
 ## 6.2 Plano de monitoramento
@@ -59,7 +59,7 @@ jupyter nbconvert --to notebook --execute --inplace 01_extracao_preparacao.ipynb
 5. O catálogo é **esparso por cidade**: 47% das buscas não encontram a cozinha na cidade pedida.
 6. **Mercado:** 86% dos estabelecimentos que fazem entregas recebem pedidos por aplicativos, que geram 58% das vendas por delivery (ABRASEL/99Food, 2026). O GastroMatch ocupa o espaço da descoberta do salão.
 
-Detalhes: [Modelagem](Modelagem.md) e [Avaliação](Avaliação.md). Base e dicionário: `dados/processados/gastromatch_analitico.xlsx`.
+Detalhes: [Modelagem](fase4-modelagem.md) e [Avaliação](fase5-avaliacao.md). Base e dicionário: `dados/processados/gastromatch_analitico.xlsx`.
 
 ## 6.4 Revisão do projeto (lições aprendidas)
 

@@ -50,11 +50,11 @@ Critério técnico mínimo: toda tabela e gráfico do relatório deve sair do no
 | Etapa CRISP-DM | Atividades | Prazo |
 | --- | --- | --- |
 | 1. Negócio | Este documento + validação com a professora/orientador | **Concluída em 04/11/2026**, revisada em 25/11 |
-| 2. Dados | Exportar o Firestore, inventariar campos e verificar qualidade ([notebook](../notebooks/gastromatch-fase2-entendimento-dados.ipynb)) | **Concluída em 25/11/2026** |
-| 3. Preparação | Remover dados pessoais, padronizar preço/desconto/culinária, juntar coleções por `restauranteId` | Nov/2026 |
-| 4. Modelagem | Análises descritivas P1–P5; regressão logística opcional em P2 | Dez/2026 |
-| 5. Avaliação | Conferir as respostas contra os critérios de sucesso de negócio; testar o painel com parceiros | Dez/2026 |
-| 6. Implementação | Dashboard para parceiros e relatório final para a banca | Dez/2026 |
+| 2. Dados | Exportar o Firestore, inventariar campos e verificar qualidade ([notebook](notebooks/fase2-entendimento-dados.ipynb)) | **Concluída em 25/11/2026** |
+| 3. Preparação | Remover dados pessoais, padronizar preço/desconto/culinária, juntar coleções por `restauranteId` | **Concluída em 25/11/2026** ([Fase 3](fase3-preparacao-dados.md)) |
+| 4. Modelagem | Testes estatísticos, simulação do motor de recomendação e agrupamento | **Concluída em 25/11/2026** ([Fase 4](fase4-modelagem.md)) |
+| 5. Avaliação | Conferir os resultados contra os critérios de sucesso | **Concluída em 25/11/2026** ([Fase 5](fase5-avaliacao.md)) |
+| 6. Implementação | Plano de implementação e de monitoramento, relatório final e revisão | **Concluída em 25/11/2026** ([Fase 6](fase6-implementacao.md)) |
 
 ## 5. Pontos de atenção encontrados na revisão
 
@@ -74,4 +74,28 @@ Estes pontos não invalidam o documento. São ajustes para conversar com a profe
 | Nova meta técnica: comparar a faixa declarada com o preço do cardápio | 24% dos pratos principais de restaurantes "$" passam de R$ 60 |
 | Conclusões só com dados de produção | A base de demonstração é fictícia, com 41 clientes que fizeram cerca de 43 avaliações cada |
 
-[Ir para a Fase 2 →](fase2-entendimento-dados.md) · [Voltar ao início](../README.md)
+## 7. Pergunta central da análise (usada nas fases 3 a 6)
+
+Depois da revisão do §6, a análise das próximas fases foi concentrada numa pergunta respondível com os dados disponíveis. Ela une a P4 (avaliações × culinária/vibe) ao funcionamento da recomendação:
+
+> **Quais fatores (experiência/ambiente, tipo de cozinha, faixa de preço e localidade) mais influenciam a avaliação média e a recomendação de estabelecimentos gastronômicos, e como o mercado de bares e restaurantes se estrutura digitalmente no Brasil e no DF?**
+
+**Problema.** A escolha de um restaurante não depende só do tipo de comida e do preço. Atributos intangíveis, como o ambiente (*vibe*), a iluminação, a acústica e a adequação à ocasião, pesam na satisfação e na intenção de retorno. No Brasil, a presença digital dos restaurantes se concentra em aplicativos de delivery, voltados ao consumo fora do salão. Neles, a atmosfera do local aparece só dispersa em comentários e fotos. Isso dificulta a decisão do consumidor e concentra a visibilidade em quem tem mais orçamento publicitário.
+
+**Objetivos de Ciência de Dados:**
+- Quantificar a distribuição dos estabelecimentos por experiência, cozinha, faixa de preço e localidade.
+- Testar se esses atributos se relacionam com a nota média (`notaMedia`) e com o volume de avaliações.
+- Avaliar o motor de recomendação por regras (cozinha 40, experiência 30, local 15, preço 15; corte mínimo de 30 pontos) e agrupar perfis de restaurantes.
+- Contrastar a proposta centrada no salão com a dependência de aplicativos de delivery no Brasil (pesquisa ABRASEL/99Food, 2026).
+
+**Critérios de sucesso da análise** (verificados na [Fase 5](fase5-avaliacao.md)):
+1. Mapear o perfil dos 188 estabelecimentos e das 1.751 avaliações da base, identificando os atributos predominantes.
+2. Comparar estatisticamente as notas e o engajamento entre experiências e faixas de preço, de forma verificável.
+3. Produzir gráficos, correlações e agrupamentos claros, com fonte e parâmetros declarados.
+4. Explicar as limitações (base de demonstração fictícia; experiência autodeclarada pelo restaurante).
+
+**Fontes complementares:**
+- ABRASEL/99Food (agosto de 2026, 1.710 empresários): 86% dos estabelecimentos que fazem entregas recebem pedidos por aplicativos, que geram 58% das vendas por delivery.
+- Literatura sobre os determinantes da satisfação em restaurantes: Zanetta et al., 2024; Rathnasiri et al., 2025; Raj e Eggers, 2026.
+
+[Ir para a Fase 2 →](fase2-entendimento-dados.md) · [Índice do projeto](README.md)

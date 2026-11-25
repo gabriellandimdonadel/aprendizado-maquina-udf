@@ -24,19 +24,20 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 | [05-revisao.md](05-revisao.md) | Respostas individuais às questões de revisão |
 | [06-autoavaliacao.md](06-autoavaliacao.md) | Checklist, contribuições e reflexão final |
 
-## Projeto GastroMatch — CRISP-DM
+## Projeto GastroMatch — CRISP-DM (fases 1 a 6)
 
-| Arquivo | Entregável |
-| --- | --- |
-| [GastroMatch_Definicao_Projeto_CD.docx](GastroMatch_Definicao_Projeto_CD.docx) | Documento de definição do projeto (template preenchido) |
-| [crisp-dm/fase1-entendimento-negocio.md](crisp-dm/fase1-entendimento-negocio.md) | Fase 1: objetivos, situação, metas técnicas e plano |
-| [crisp-dm/fase2-entendimento-dados.md](crisp-dm/fase2-entendimento-dados.md) | Fase 2: inventário, qualidade e viabilidade dos dados |
-| [notebooks/gastromatch-fase2-entendimento-dados.ipynb](notebooks/gastromatch-fase2-entendimento-dados.ipynb) | Notebook Colab da Fase 2, executado (abre no Colab e baixa os dados do GitHub) |
-| [dados/gastromatch/](dados/gastromatch/) | 3.075 registros exportados do Firebase de demonstração (1.751 avaliações), sem dados pessoais, com dicionário |
-| [scripts/exportar_gastromatch.py](scripts/exportar_gastromatch.py) | Exportação somente leitura do Firestore → CSV, com remoção de dados pessoais |
-| [Projeto_datascience/](Projeto_datascience/) | **Projeto completo nas 6 fases do CRISP-DM**: documentos, `src/`, notebooks 01–03 executados, dados brutos e processados, figuras |
+Tudo fica na pasta **[crisp-dm/](crisp-dm/README.md)**:
 
-> Os dados do GastroMatch vêm do banco de **demonstração** (`gastromatch-demo`), povoado com dados **fictícios** pelo script do sistema. Servem para validar o processo, não para tirar conclusões sobre consumidores reais.
+| Fase | Documento | Notebook executado |
+| --- | --- | --- |
+| 1. Entendimento do Negócio | [fase1-entendimento-negocio.md](crisp-dm/fase1-entendimento-negocio.md) | — |
+| 2. Entendimento dos Dados | [fase2-entendimento-dados.md](crisp-dm/fase2-entendimento-dados.md) | [fase2-entendimento-dados.ipynb](crisp-dm/notebooks/fase2-entendimento-dados.ipynb) |
+| 3. Preparação dos Dados | [fase3-preparacao-dados.md](crisp-dm/fase3-preparacao-dados.md) | [fase3-preparacao-dados.ipynb](crisp-dm/notebooks/fase3-preparacao-dados.ipynb) |
+| 4. Modelagem | [fase4-modelagem.md](crisp-dm/fase4-modelagem.md) | [fase4-modelagem.ipynb](crisp-dm/notebooks/fase4-modelagem.ipynb) |
+| 5. Avaliação | [fase5-avaliacao.md](crisp-dm/fase5-avaliacao.md) | [fase5-avaliacao.ipynb](crisp-dm/notebooks/fase5-avaliacao.ipynb) |
+| 6. Implementação | [fase6-implementacao.md](crisp-dm/fase6-implementacao.md) | — |
+
+Documento de definição do projeto: [GastroMatch_Definicao_Projeto_CD.docx](GastroMatch_Definicao_Projeto_CD.docx) (versão 1.1). Base: 3.075 registros (1.751 avaliações) do banco de **demonstração** do GastroMatch, com dados **fictícios** e sem dados pessoais.
 
 ## Arquivos de apoio
 
@@ -72,7 +73,7 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 
 - [x] CRISP-DM Fase 1: entendimento do negócio (GastroMatch).
 - [x] CRISP-DM Fase 2: entendimento dos dados (GastroMatch, mais de 1.000 registros).
-- [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([Projeto_datascience](Projeto_datascience/README.md)).
+- [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([crisp-dm](crisp-dm/README.md)).
 
 - [ ] Aula 1: quadro comparativo e problemas justificados.
 - [ ] PBL Biblioteca em Foco.

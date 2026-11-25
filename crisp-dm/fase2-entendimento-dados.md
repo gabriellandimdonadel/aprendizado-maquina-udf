@@ -7,8 +7,8 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 - Equipe: Gabriel Landim Donadel de Farias e Rafael Batista Mota
 - Data: 25/11/2026
-- Notebook executado: [gastromatch-fase2-entendimento-dados.ipynb](../notebooks/gastromatch-fase2-entendimento-dados.ipynb). Ele abre no Colab e baixa os dados do próprio GitHub.
-- Dados: [dados/gastromatch/](../dados/gastromatch/) · Dicionário: [dados/gastromatch/README.md](../dados/gastromatch/README.md) · Exportação: [scripts/exportar_gastromatch.py](../scripts/exportar_gastromatch.py)
+- Notebook executado: [gastromatch-fase2-entendimento-dados.ipynb](notebooks/fase2-entendimento-dados.ipynb). Ele abre no Colab e baixa os dados do próprio GitHub.
+- Dados: [dados/gastromatch/](dados/gastromatch/) · Dicionário: [dados/gastromatch/README.md](dados/gastromatch/README.md) · Exportação: [scripts/exportar_gastromatch.py](scripts/exportar_gastromatch.py)
 
 > **Objetivo da fase (Guia):** acessar, quantificar e qualificar a matéria-prima disponível para evitar falhas imprevistas na modelagem.
 
@@ -98,4 +98,14 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
    - Gravar, sem dados pessoais, os **filtros aplicados** (coleção `buscas`) e o **clique em "Reservar pelo WhatsApp"**.
    - Analisar a **produção** quando houver volume real, e usar esta base apenas para validar o processo.
 
-[← Fase 1](fase1-entendimento-negocio.md) · [Voltar ao início](../README.md)
+## 7. Taxonomia e fontes complementares
+
+- **Experiências (`vibes`, até 3 por restaurante, vocabulário fechado):** Romântica, Alegre, Tranquila, Sofisticada, Familiar, Descontraída, Noturna e Cafeteria (exibida na tela como "Cafeteria / Brunch").
+- **Cozinhas (20):** Brasileira, Nordestina, Churrasco, Frutos do Mar, Italiana, Pizzaria, Japonesa, Chinesa, Tailandesa, Indiana, Árabe, Francesa, Portuguesa, Mexicana, Peruana, Contemporânea, Mediterrânea, Vegetariana, Hamburgueria e Cafeteria.
+- **Faixa de preço:** $ até R$ 60 por pessoa · $$ R$ 60–120 · $$$ R$ 120–200 · $$$$ acima de R$ 200.
+- **Categorias de cardápio:** Entrada, Prato Principal, Sobremesa, Bebida e Acompanhamento.
+- **Mercado (ABRASEL/99Food, 2026):** 86% dos estabelecimentos que fazem entregas recebem pedidos por aplicativos, que respondem em média por 58% das vendas por delivery. As grandes plataformas não têm filtros para a atmosfera do salão.
+- **Evidências do sistema** (`dados/brutos/evidencias/`): testes no navegador (147 aprovados), testes unitários (67/67, reexecutados) e medição de desempenho publicada.
+- **Planilha-modelo de importação de cardápio** (`dados/brutos/modelo_cardapio.xlsx`): colunas Prato, Categoria, Descrição e Preço.
+
+[← Fase 1](fase1-entendimento-negocio.md) · [Fase 3 →](fase3-preparacao-dados.md) · [Índice do projeto](README.md)

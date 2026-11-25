@@ -1,7 +1,7 @@
 # Fase 4 — Modelagem (CRISP-DM)
 
 **Pergunta de negócio:** Quais fatores (experiência/ambiente, tipo de cozinha, faixa de preço e localidade) mais influenciam a avaliação média e a recomendação de estabelecimentos gastronômicos?
-**Notebook:** [`notebooks/02_modelagem.ipynb`](notebooks/02_modelagem.ipynb) · **Base:** `dados/processados/` (Fase 3) · **Semente:** 42
+**Notebook:** [`notebooks/fase4-modelagem.ipynb`](notebooks/fase4-modelagem.ipynb) · **Base:** `dados/processados/` (Fase 3) · **Semente:** 42
 
 > Todos os números abaixo saíram do notebook executado. A base é a de demonstração (**dados fictícios**). Os testes descrevem esta base, não consumidores reais.
 

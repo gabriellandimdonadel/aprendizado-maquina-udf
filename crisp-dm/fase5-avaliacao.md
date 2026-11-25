@@ -1,6 +1,6 @@
 # Fase 5 — Avaliação (CRISP-DM)
 
-**Notebook:** [`notebooks/03_avaliacao.ipynb`](notebooks/03_avaliacao.ipynb) · **Resultado das verificações:** `dados/processados/avaliacao_verificacoes.csv`
+**Notebook:** [`notebooks/fase5-avaliacao.ipynb`](notebooks/fase5-avaliacao.ipynb) · **Resultado das verificações:** `dados/processados/avaliacao_verificacoes.csv`
 
 O Guia CRISP-DM define o objetivo desta fase: avaliar os resultados **pelos critérios de sucesso da Fase 1** (o impacto real pesa mais que a precisão técnica) e decidir entre **implementar ou iterar**.
 
@@ -38,7 +38,7 @@ Os **105 testes de regras do Firestore** estão declarados em `app/tests/regras.
 
 | Critério | Situação | Evidência |
 |---|---|---|
-| 1. Mapear os 188 estabelecimentos e as 1.751 avaliações | **Atendido** | notebook 01; fig. 1 e 2 |
+| 1. Mapear os 188 estabelecimentos e as 1.751 avaliações | **Atendido** | notebook da Fase 3; fig. 1 e 2 |
 | 2. Comparar estatisticamente notas e engajamento entre experiências e faixas | **Atendido** | Kruskal-Wallis em dois níveis, Spearman e simulação de 500 buscas (Modelagem, fig. 3) |
 | 3. Gráficos, correlações e clusters com fonte e parâmetros declarados | **Atendido** | fig. 1–4 com fonte; silhueta de k = 2 a 5 (0,195–0,224) declarada |
 | 4. Explicar limitações (dados fictícios e autodeclaração) | **Atendido** | §5.4 |
@@ -55,7 +55,7 @@ Os **105 testes de regras do Firestore** estão declarados em `app/tests/regras.
 
 ## 5.5 Decisão: implementar ou iterar?
 
-**Implementar** o *pipeline* analítico (exportação sem dados pessoais → `src/extracao.py` → notebooks 01–03) como módulo de inteligência do GastroMatch. Ele é reprodutível, passou em todas as verificações de integridade e já usa o esquema de produção.
+**Implementar** o *pipeline* analítico (exportação sem dados pessoais → `src/extracao.py` → notebooks das fases 3 a 5) como módulo de inteligência do GastroMatch. Ele é reprodutível, passou em todas as verificações de integridade e já usa o esquema de produção.
 
 **Iterar** antes de usar os resultados em decisões de negócio:
 

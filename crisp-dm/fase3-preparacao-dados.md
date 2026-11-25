@@ -2,7 +2,7 @@
 
 **Projeto:** Descoberta Gastronômica e Mercado de Alimentação Fora do Lar (GastroMatch)
 **Pergunta de negócio:** Quais fatores (experiência/ambiente, tipo de cozinha, faixa de preço e localidade) mais influenciam a avaliação média e a recomendação de estabelecimentos gastronômicos?
-**Notebook:** [`notebooks/01_extracao_preparacao.ipynb`](notebooks/01_extracao_preparacao.ipynb) · **Código:** [`src/extracao.py`](src/extracao.py)
+**Notebook:** [`notebooks/fase3-preparacao-dados.ipynb`](notebooks/fase3-preparacao-dados.ipynb) · **Código:** [`src/extracao.py`](src/extracao.py)
 
 ## Objetivo
 
@@ -10,7 +10,7 @@ O banco do GastroMatch (Cloud Firestore) é NoSQL, orientado a documentos, com l
 
 ## 3.1 Selecionar (filtrar)
 
-Exportação somente leitura do banco de demonstração `gastromatch-demo` em **25/11/2026**, feita com `scripts/exportar_gastromatch.py` na raiz do repositório. Os dados são **fictícios**, gerados pelo script de seed do sistema.
+Exportação somente leitura do banco de demonstração `gastromatch-demo` em **25/11/2026**, feita com `scripts/exportar_gastromatch.py`. Os dados são **fictícios**, gerados pelo script de seed do sistema.
 
 | Arquivo (`dados/brutos/`) | Coleção | Registros | Uso |
 |---|---|---:|---|
@@ -80,4 +80,4 @@ O **score de recomendação** não é derivado aqui. Ele é simulado na Fase 4 c
 | `dados/processados/log_validacao.csv` | Resultado das verificações de integridade |
 | `src/extracao.py` | Código reutilizável de extração, normalização e validação |
 
-Para reproduzir: `python src/extracao.py dados/brutos dados/processados` ou execute o notebook `01_extracao_preparacao.ipynb`.
+Para reproduzir: `python src/extracao.py dados/brutos dados/processados` ou execute o notebook `fase3-preparacao-dados.ipynb`.
