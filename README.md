@@ -31,7 +31,11 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 | [GastroMatch_Definicao_Projeto_CD.docx](GastroMatch_Definicao_Projeto_CD.docx) | Documento de definição do projeto (template preenchido) |
 | [crisp-dm/fase1-entendimento-negocio.md](crisp-dm/fase1-entendimento-negocio.md) | Fase 1: objetivos, situação, metas técnicas e plano |
 | [crisp-dm/fase2-entendimento-dados.md](crisp-dm/fase2-entendimento-dados.md) | Fase 2: inventário, qualidade e viabilidade dos dados |
-| [notebooks/gastromatch-fase2-entendimento-dados.ipynb](notebooks/gastromatch-fase2-entendimento-dados.ipynb) | Notebook Colab da Fase 2 |
+| [notebooks/gastromatch-fase2-entendimento-dados.ipynb](notebooks/gastromatch-fase2-entendimento-dados.ipynb) | Notebook Colab da Fase 2, executado (abre no Colab e baixa os dados do GitHub) |
+| [dados/gastromatch/](dados/gastromatch/) | 3.075 registros exportados do Firebase de demonstração (1.751 avaliações), sem dados pessoais, com dicionário |
+| [scripts/exportar_gastromatch.py](scripts/exportar_gastromatch.py) | Exportação somente leitura do Firestore → CSV, com remoção de dados pessoais |
+
+> Os dados do GastroMatch vêm do banco de **demonstração** (`gastromatch-demo`), povoado com dados **fictícios** pelo script do sistema. Servem para validar o processo, não para tirar conclusões sobre consumidores reais.
 
 ## Arquivos de apoio
 
@@ -64,6 +68,9 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 - Referencie fontes adicionais consultadas e declare como utilizou ferramentas de IA, se houver, mantendo responsabilidade pelo conteúdo.
 
 ## Situação das entregas
+
+- [x] CRISP-DM Fase 1: entendimento do negócio (GastroMatch).
+- [x] CRISP-DM Fase 2: entendimento dos dados (GastroMatch, mais de 1.000 registros).
 
 - [ ] Aula 1: quadro comparativo e problemas justificados.
 - [ ] PBL Biblioteca em Foco.

@@ -1,0 +1,6 @@
+# chaves de conta de serviço do Firebase nunca vão para o GitHub
+*chave*.json
+*service-account*.json
+*firebase-adminsdk*.json
+__pycache__/
+.ipynb_checkpoints/

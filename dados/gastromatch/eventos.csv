@@ -1,0 +1,23 @@
+id,restauranteId,cozinha,titulo,inicio,fim,diasValidos,horaInicio,horaFim,tipoEvento,vibes,criadoEm
+evento-0,TsyuzyhJaIfai0D06aOH68bSPG62,Churrasco,Noite do Churrasco & Vinho,2026-11-16,2026-11-16,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-1,YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Japonesa,Karaokê japonês,2026-11-18,2026-11-18,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,20:00,01:00,,,2026-11-14T21:43:26.485000+00:00
+evento-10,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Rodada de degustação,2026-12-13,2026-12-15,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-11,YkE1pPPhrPTBXWULtsxe2sWOOqB2,Brasileira,Aula aberta com o chef,2026-11-26,2026-11-28,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-12,m49RAhyipMUp1uSTKIJL3L5wl6g2,Contemporânea,Festival da casa,2026-12-16,2026-12-17,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-13,zkZJFYar6hflIoS7L3gNggmjnHG3,Japonesa,Aula aberta com o chef,2026-11-21,2026-11-23,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-14,ghSGrTq3sISsfkD2VoMGpIS3QN62,Vegetariana,Aula aberta com o chef,2026-11-29,2026-12-01,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-15,CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Chinesa,Aula aberta com o chef,2026-12-05,2026-12-06,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-16,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Aula aberta com o chef,2026-12-01,2026-12-01,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-17,B34rBopYe1cGLWXCq8ODQfpBdrJ3,Japonesa,Jantar harmonizado,2026-11-23,2026-11-25,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-18,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Aula aberta com o chef,2026-11-26,2026-11-27,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-19,Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizzaria,Jantar harmonizado,2026-12-08,2026-12-09,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-2,z2lrmLtvXONaYdrJELsXlHvuQp32,Cafeteria,Feira de cafés especiais,2026-11-20,2026-11-21,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,09:00,14:00,,,2026-11-14T21:43:26.485000+00:00
+evento-20,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Festival da casa,2026-12-11,2026-12-11,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-3,9rnBhKZJXYWGNi8o6alCqDVImCg1,Italiana,Noite de música ao vivo,2026-11-18,2026-11-19,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-4,gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Peruana,Jantar harmonizado,2026-12-18,2026-12-18,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-5,8tWn6Pn5dGYwt2NJaVSoZVKfO872,Mexicana,Noite de música ao vivo,2026-12-16,2026-12-18,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-6,s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Contemporânea,Noite de música ao vivo,2026-12-16,2026-12-18,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-7,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Noite de música ao vivo,2026-11-18,2026-11-18,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-8,HIznVkf8qFhtVPGeC08Fk1qDMwv2,Hamburgueria,Noite de música ao vivo,2026-11-15,2026-11-15,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-9,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Festival da casa,2026-12-19,2026-12-20,Seg|Ter|Qua|Qui|Sex|Sáb|Dom,19:00,23:00,,,2026-11-14T21:43:26.485000+00:00
+evento-global,,Geral,Festival GastroMatch de Primavera,2026-11-14,2026-11-28,Sexta|Sábado,18:00,23:00,geral_plataforma,,2026-11-14T21:43:26.485000+00:00

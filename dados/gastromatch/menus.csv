@@ -1,0 +1,749 @@
+id,restauranteId,cozinha,categoria,titulo,preco,criadoEm
+atelie-gastronomico-0,DUXTXRktFkZCfEuURTbkKc8dYra2,Contemporânea,Prato Principal,Menu degustação 7 tempos,290.0,2026-11-14T21:43:26.485000+00:00
+atelie-gastronomico-1,DUXTXRktFkZCfEuURTbkKc8dYra2,Contemporânea,Entrada,Couvert do chef,45.0,2026-11-14T21:43:26.485000+00:00
+atelie-gastronomico-2,DUXTXRktFkZCfEuURTbkKc8dYra2,Contemporânea,Sobremesa,Sobremesa do dia,36.0,2026-11-14T21:43:26.485000+00:00
+azeite-sal-brasilia-brasilia-0,vnYeTiDsofgVtemkOm26e0AfJfI3,Mediterrânea,Prato Principal,Paella marinera,204.8,2026-11-14T21:43:26.485000+00:00
+azeite-sal-brasilia-brasilia-1,vnYeTiDsofgVtemkOm26e0AfJfI3,Mediterrânea,Entrada,Salada grega,60.8,2026-11-14T21:43:26.485000+00:00
+azeite-sal-brasilia-brasilia-2,vnYeTiDsofgVtemkOm26e0AfJfI3,Mediterrânea,Prato Principal,Moussaka,121.6,2026-11-14T21:43:26.485000+00:00
+azeite-sal-brasilia-brasilia-3,vnYeTiDsofgVtemkOm26e0AfJfI3,Mediterrânea,Sobremesa,Iogurte com mel,35.2,2026-11-14T21:43:26.485000+00:00
+azeite-sal-goiania-goiania-0,RP6XlReFilNed4DG7PKryqbDat32,Mediterrânea,Prato Principal,Paella marinera,160.0,2026-11-14T21:43:26.485000+00:00
+azeite-sal-goiania-goiania-1,RP6XlReFilNed4DG7PKryqbDat32,Mediterrânea,Entrada,Salada grega,47.5,2026-11-14T21:43:26.485000+00:00
+azeite-sal-goiania-goiania-2,RP6XlReFilNed4DG7PKryqbDat32,Mediterrânea,Prato Principal,Moussaka,95.0,2026-11-14T21:43:26.485000+00:00
+azeite-sal-goiania-goiania-3,RP6XlReFilNed4DG7PKryqbDat32,Mediterrânea,Sobremesa,Iogurte com mel,27.5,2026-11-14T21:43:26.485000+00:00
+azeite-sal-rio-de-janeiro-0,AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2,Mediterrânea,Sobremesa,Iogurte com mel,27.5,2026-11-14T21:43:26.485000+00:00
+azeite-sal-rio-de-janeiro-1,AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2,Mediterrânea,Prato Principal,Paella marinera,160.0,2026-11-14T21:43:26.485000+00:00
+azeite-sal-rio-de-janeiro-2,AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2,Mediterrânea,Prato Principal,Moussaka,95.0,2026-11-14T21:43:26.485000+00:00
+bacalhau-vinho-sao-paulo-0,v2UOvqHCH9NgqtOEuvPRxsMZbd72,Portuguesa,Prato Principal,Bacalhau à Gomes de Sá,139.0,2026-11-14T21:43:26.485000+00:00
+bacalhau-vinho-sao-paulo-1,v2UOvqHCH9NgqtOEuvPRxsMZbd72,Portuguesa,Prato Principal,Polvo à lagareiro,149.0,2026-11-14T21:43:26.485000+00:00
+bacalhau-vinho-sao-paulo-2,v2UOvqHCH9NgqtOEuvPRxsMZbd72,Portuguesa,Entrada,Bolinho de bacalhau,38.0,2026-11-14T21:43:26.485000+00:00
+bacalhau-vinho-sao-paulo-3,v2UOvqHCH9NgqtOEuvPRxsMZbd72,Portuguesa,Sobremesa,Pastel de nata,14.0,2026-11-14T21:43:26.485000+00:00
+bangkok-street-brasilia-0,b5pQ5inZtMU1bEXS8ljS7evtFI03,Tailandesa,Prato Principal,Pad thai de camarão,68.0,2026-11-14T21:43:26.485000+00:00
+bangkok-street-brasilia-1,b5pQ5inZtMU1bEXS8ljS7evtFI03,Tailandesa,Prato Principal,Curry verde,62.0,2026-11-14T21:43:26.485000+00:00
+bangkok-street-brasilia-2,b5pQ5inZtMU1bEXS8ljS7evtFI03,Tailandesa,Entrada,Rolinho vietnamita,28.0,2026-11-14T21:43:26.485000+00:00
+bangkok-street-brasilia-3,b5pQ5inZtMU1bEXS8ljS7evtFI03,Tailandesa,Sobremesa,Arroz doce com manga,24.0,2026-11-14T21:43:26.485000+00:00
+bangkok-street-goiania-goiania-0,f8tZBApEGIYLeEJBHr6c0VkuVCK2,Tailandesa,Prato Principal,Pad thai de camarão,54.4,2026-11-14T21:43:26.485000+00:00
+bangkok-street-goiania-goiania-1,f8tZBApEGIYLeEJBHr6c0VkuVCK2,Tailandesa,Prato Principal,Curry verde,49.6,2026-11-14T21:43:26.485000+00:00
+bangkok-street-goiania-goiania-2,f8tZBApEGIYLeEJBHr6c0VkuVCK2,Tailandesa,Entrada,Rolinho vietnamita,22.4,2026-11-14T21:43:26.485000+00:00
+bangkok-street-goiania-goiania-3,f8tZBApEGIYLeEJBHr6c0VkuVCK2,Tailandesa,Sobremesa,Arroz doce com manga,19.2,2026-11-14T21:43:26.485000+00:00
+barco-azul-florianopolis-florianopolis-0,JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-florianopolis-florianopolis-1,JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-florianopolis-florianopolis-2,JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-florianopolis-florianopolis-3,JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-florianopolis-florianopolis-4,JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Frutos do Mar,Sobremesa,Cocada de forno,21.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-goiania-goiania-0,cxiMXBYx7tXueUyMVY8bUWw7uSg1,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-goiania-goiania-1,cxiMXBYx7tXueUyMVY8bUWw7uSg1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-goiania-goiania-2,cxiMXBYx7tXueUyMVY8bUWw7uSg1,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-goiania-goiania-3,cxiMXBYx7tXueUyMVY8bUWw7uSg1,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-goiania-goiania-4,cxiMXBYx7tXueUyMVY8bUWw7uSg1,Frutos do Mar,Sobremesa,Cocada de forno,21.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-olinda-olinda-0,KrLtaEHugyP1syd03MdzvG1NvQX2,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-olinda-olinda-1,KrLtaEHugyP1syd03MdzvG1NvQX2,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-olinda-olinda-2,KrLtaEHugyP1syd03MdzvG1NvQX2,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-olinda-olinda-3,KrLtaEHugyP1syd03MdzvG1NvQX2,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-olinda-olinda-4,KrLtaEHugyP1syd03MdzvG1NvQX2,Frutos do Mar,Sobremesa,Cocada de forno,21.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-rio-de-janeiro-0,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-rio-de-janeiro-1,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-rio-de-janeiro-2,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Sobremesa,Cocada de forno,21.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-rio-de-janeiro-3,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+barco-azul-rio-de-janeiro-4,nPTNVBgi5OgaSkFaW6HcbucYZSj1,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+beirute-grill-campinas-0,KFOqmkV5yiP4zPxrXzKtWdhSOdp2,Árabe,Entrada,Homus com pão,22.4,2026-11-14T21:43:26.485000+00:00
+beirute-grill-campinas-1,KFOqmkV5yiP4zPxrXzKtWdhSOdp2,Árabe,Prato Principal,Shawarma de frango,31.2,2026-11-14T21:43:26.485000+00:00
+beirute-grill-campinas-2,KFOqmkV5yiP4zPxrXzKtWdhSOdp2,Árabe,Prato Principal,Kafta no prato,43.2,2026-11-14T21:43:26.485000+00:00
+bistro-lumiere-0,oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Francesa,Prato Principal,Magret de pato,139.0,2026-11-14T21:43:26.485000+00:00
+bistro-lumiere-1,oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Francesa,Entrada,Sopa de cebola,39.0,2026-11-14T21:43:26.485000+00:00
+bistro-lumiere-2,oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Francesa,Sobremesa,Crème brûlée,34.0,2026-11-14T21:43:26.485000+00:00
+brasa-burger-goiania-0,KgGezBSEozRmj2BfsZYjtiM1vC42,Hamburgueria,Prato Principal,Burger de costela,36.8,2026-11-14T21:43:26.485000+00:00
+brasa-burger-goiania-1,KgGezBSEozRmj2BfsZYjtiM1vC42,Hamburgueria,Acompanhamento,Batata rústica,17.6,2026-11-14T21:43:26.485000+00:00
+brasa-burger-goiania-2,KgGezBSEozRmj2BfsZYjtiM1vC42,Hamburgueria,Sobremesa,Milkshake de doce de leite,19.2,2026-11-14T21:43:26.485000+00:00
+brasa-burger-sao-paulo-sao-paulo-0,HIznVkf8qFhtVPGeC08Fk1qDMwv2,Hamburgueria,Prato Principal,Smash duplo,48.8,2026-11-14T21:43:26.485000+00:00
+brasa-burger-sao-paulo-sao-paulo-1,HIznVkf8qFhtVPGeC08Fk1qDMwv2,Hamburgueria,Prato Principal,Burger de costela,57.5,2026-11-14T21:43:26.485000+00:00
+brasa-burger-sao-paulo-sao-paulo-2,HIznVkf8qFhtVPGeC08Fk1qDMwv2,Hamburgueria,Acompanhamento,Batata rústica,27.5,2026-11-14T21:43:26.485000+00:00
+brasa-burger-sao-paulo-sao-paulo-3,HIznVkf8qFhtVPGeC08Fk1qDMwv2,Hamburgueria,Sobremesa,Milkshake de doce de leite,30.0,2026-11-14T21:43:26.485000+00:00
+brasa-lenha-0,TsyuzyhJaIfai0D06aOH68bSPG62,Churrasco,Prato Principal,Picanha na brasa,129.9,2026-11-14T21:43:26.485000+00:00
+brasa-lenha-1,TsyuzyhJaIfai0D06aOH68bSPG62,Churrasco,Entrada,Provoleta grelhada,42.0,2026-11-14T21:43:26.485000+00:00
+brasa-lenha-2,TsyuzyhJaIfai0D06aOH68bSPG62,Churrasco,Sobremesa,Petit gâteau,32.0,2026-11-14T21:43:26.485000+00:00
+brasa-viva-porto-alegre-0,AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Churrasco,Prato Principal,Picanha fatiada,156.8,2026-11-14T21:43:26.485000+00:00
+brasa-viva-porto-alegre-1,AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Churrasco,Acompanhamento,Farofa de ovos,35.2,2026-11-14T21:43:26.485000+00:00
+brasa-viva-porto-alegre-2,AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Churrasco,Sobremesa,Pudim de leite,30.4,2026-11-14T21:43:26.485000+00:00
+brasa-viva-porto-alegre-3,AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Churrasco,Entrada,Linguiça artesanal,54.4,2026-11-14T21:43:26.485000+00:00
+brasa-viva-rio-de-janeiro-rio-de-janeiro-0,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Prato Principal,Picanha fatiada,122.5,2026-11-14T21:43:26.485000+00:00
+brasa-viva-rio-de-janeiro-rio-de-janeiro-1,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Prato Principal,Costela fogo de chão,111.3,2026-11-14T21:43:26.485000+00:00
+brasa-viva-rio-de-janeiro-rio-de-janeiro-2,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Entrada,Linguiça artesanal,42.5,2026-11-14T21:43:26.485000+00:00
+brasa-viva-rio-de-janeiro-rio-de-janeiro-3,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Acompanhamento,Farofa de ovos,27.5,2026-11-14T21:43:26.485000+00:00
+brasa-viva-rio-de-janeiro-rio-de-janeiro-4,n3QS9ybwgNYzg1SwebNDAuYgZnr1,Churrasco,Sobremesa,Pudim de leite,23.8,2026-11-14T21:43:26.485000+00:00
+burger-garage-brasilia-0,PJgxzV092ogswAe8Y37KgLkVE5U2,Hamburgueria,Prato Principal,Smash duplo,39.0,2026-11-14T21:43:26.485000+00:00
+burger-garage-brasilia-1,PJgxzV092ogswAe8Y37KgLkVE5U2,Hamburgueria,Prato Principal,Burger de costela,46.0,2026-11-14T21:43:26.485000+00:00
+burger-garage-brasilia-2,PJgxzV092ogswAe8Y37KgLkVE5U2,Hamburgueria,Acompanhamento,Batata rústica,22.0,2026-11-14T21:43:26.485000+00:00
+burger-garage-brasilia-3,PJgxzV092ogswAe8Y37KgLkVE5U2,Hamburgueria,Sobremesa,Milkshake de doce de leite,24.0,2026-11-14T21:43:26.485000+00:00
+burger-garage-rio-de-janeiro-rio-de-jane-0,I03VQkhV0fQb3l3joo86ZEORA5t1,Hamburgueria,Prato Principal,Smash duplo,62.4,2026-11-14T21:43:26.485000+00:00
+burger-garage-rio-de-janeiro-rio-de-jane-1,I03VQkhV0fQb3l3joo86ZEORA5t1,Hamburgueria,Prato Principal,Burger de costela,73.6,2026-11-14T21:43:26.485000+00:00
+burger-garage-rio-de-janeiro-rio-de-jane-2,I03VQkhV0fQb3l3joo86ZEORA5t1,Hamburgueria,Acompanhamento,Batata rústica,35.2,2026-11-14T21:43:26.485000+00:00
+burger-garage-rio-de-janeiro-rio-de-jane-3,I03VQkhV0fQb3l3joo86ZEORA5t1,Hamburgueria,Sobremesa,Milkshake de doce de leite,38.4,2026-11-14T21:43:26.485000+00:00
+burrito-loco-goiania-0,nMTqaGFxm0Rowd4C8WIgza84WWV2,Mexicana,Prato Principal,Burrito de carne,35.2,2026-11-14T21:43:26.485000+00:00
+burrito-loco-goiania-1,nMTqaGFxm0Rowd4C8WIgza84WWV2,Mexicana,Prato Principal,Quesadilla,30.4,2026-11-14T21:43:26.485000+00:00
+burrito-loco-goiania-2,nMTqaGFxm0Rowd4C8WIgza84WWV2,Mexicana,Entrada,Guacamole com nachos,27.2,2026-11-14T21:43:26.485000+00:00
+burrito-loco-goiania-3,nMTqaGFxm0Rowd4C8WIgza84WWV2,Mexicana,Sobremesa,Churros com doce de leite,15.2,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-ouro-preto-0,EIfASN2ilsbVlMDMQC4J5cFPJcm2,Cafeteria,Sobremesa,Bolo de cenoura,11.2,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-ouro-preto-1,EIfASN2ilsbVlMDMQC4J5cFPJcm2,Cafeteria,Prato Principal,Brunch completo,41.6,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-ouro-preto-2,EIfASN2ilsbVlMDMQC4J5cFPJcm2,Cafeteria,Prato Principal,Tosta de fermentação natural,27.2,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-sao-paulo-sao-paulo-0,gYSp4zdKXZd22HExgcXvukegiMF2,Cafeteria,Prato Principal,Brunch completo,52.0,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-sao-paulo-sao-paulo-1,gYSp4zdKXZd22HExgcXvukegiMF2,Cafeteria,Prato Principal,Tosta de fermentação natural,34.0,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-sao-paulo-sao-paulo-2,gYSp4zdKXZd22HExgcXvukegiMF2,Cafeteria,Entrada,Pão de queijo,12.0,2026-11-14T21:43:26.485000+00:00
+cafe-com-prosa-sao-paulo-sao-paulo-3,gYSp4zdKXZd22HExgcXvukegiMF2,Cafeteria,Sobremesa,Bolo de cenoura,14.0,2026-11-14T21:43:26.485000+00:00
+cafe-quintal-0,z2lrmLtvXONaYdrJELsXlHvuQp32,Cafeteria,Prato Principal,Brunch do quintal,48.0,2026-11-14T21:43:26.485000+00:00
+cafe-quintal-1,z2lrmLtvXONaYdrJELsXlHvuQp32,Cafeteria,Entrada,Pão de queijo recheado,14.0,2026-11-14T21:43:26.485000+00:00
+cafe-quintal-2,z2lrmLtvXONaYdrJELsXlHvuQp32,Cafeteria,Sobremesa,Bolo de fubá,12.0,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-salvador-0,wUTEYKXPxScw8SRMrTuQQQbrATm1,Frutos do Mar,Entrada,Lula à dorê,61.3,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-salvador-1,wUTEYKXPxScw8SRMrTuQQQbrATm1,Frutos do Mar,Sobremesa,Cocada de forno,26.3,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-salvador-2,wUTEYKXPxScw8SRMrTuQQQbrATm1,Frutos do Mar,Entrada,Casquinha de siri,42.5,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-salvador-3,wUTEYKXPxScw8SRMrTuQQQbrATm1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,115.0,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-sao-paulo-sao-paulo-0,OYbKt8tGDNSDI6n1CObC3qqTPPt1,Frutos do Mar,Prato Principal,Camarão na moranga,220.8,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-sao-paulo-sao-paulo-1,OYbKt8tGDNSDI6n1CObC3qqTPPt1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,147.2,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-sao-paulo-sao-paulo-2,OYbKt8tGDNSDI6n1CObC3qqTPPt1,Frutos do Mar,Entrada,Casquinha de siri,54.4,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-sao-paulo-sao-paulo-3,OYbKt8tGDNSDI6n1CObC3qqTPPt1,Frutos do Mar,Entrada,Lula à dorê,78.4,2026-11-14T21:43:26.485000+00:00
+cais-do-porto-sao-paulo-sao-paulo-4,OYbKt8tGDNSDI6n1CObC3qqTPPt1,Frutos do Mar,Sobremesa,Cocada de forno,33.6,2026-11-14T21:43:26.485000+00:00
+cantina-azteca-brasilia-0,xXkfJqv8ngftW7JJZ3ZSynJeQ053,Mexicana,Prato Principal,Burrito de carne,44.0,2026-11-14T21:43:26.485000+00:00
+cantina-azteca-brasilia-1,xXkfJqv8ngftW7JJZ3ZSynJeQ053,Mexicana,Prato Principal,Quesadilla,38.0,2026-11-14T21:43:26.485000+00:00
+cantina-azteca-brasilia-2,xXkfJqv8ngftW7JJZ3ZSynJeQ053,Mexicana,Entrada,Guacamole com nachos,34.0,2026-11-14T21:43:26.485000+00:00
+cantina-azteca-brasilia-3,xXkfJqv8ngftW7JJZ3ZSynJeQ053,Mexicana,Sobremesa,Churros com doce de leite,19.0,2026-11-14T21:43:26.485000+00:00
+cantina-praca-0,fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Italiana,Prato Principal,Pizza margherita,64.0,2026-11-14T21:43:26.485000+00:00
+cantina-praca-1,fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Italiana,Prato Principal,Lasanha da nonna,58.0,2026-11-14T21:43:26.485000+00:00
+cantina-praca-2,fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Italiana,Sobremesa,Cannoli,22.0,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-goiania-0,YxAhhrGKSiaYz0UcaxiQrWuedYV2,Brasileira,Prato Principal,Tutu à mineira,41.6,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-goiania-1,YxAhhrGKSiaYz0UcaxiQrWuedYV2,Brasileira,Prato Principal,Feijoada completa,47.2,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-goiania-2,YxAhhrGKSiaYz0UcaxiQrWuedYV2,Brasileira,Prato Principal,Frango com quiabo,38.4,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-goiania-3,YxAhhrGKSiaYz0UcaxiQrWuedYV2,Brasileira,Sobremesa,Doce de abóbora,11.2,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-sao-paulo-sao-paulo-0,sPS22OxaGpWtukSirKjZVRdiAbB3,Brasileira,Prato Principal,Feijoada completa,59.0,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-sao-paulo-sao-paulo-1,sPS22OxaGpWtukSirKjZVRdiAbB3,Brasileira,Prato Principal,Frango com quiabo,48.0,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-sao-paulo-sao-paulo-2,sPS22OxaGpWtukSirKjZVRdiAbB3,Brasileira,Prato Principal,Tutu à mineira,52.0,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-sao-paulo-sao-paulo-3,sPS22OxaGpWtukSirKjZVRdiAbB3,Brasileira,Entrada,Torresmo,26.0,2026-11-14T21:43:26.485000+00:00
+casa-da-vo-sao-paulo-sao-paulo-4,sPS22OxaGpWtukSirKjZVRdiAbB3,Brasileira,Sobremesa,Doce de abóbora,14.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-fortaleza-fortaleza-0,C48YT7zdCdTPBJSECYAqafAoDjA3,Nordestina,Entrada,Bolinho de feijão-verde,28.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-fortaleza-fortaleza-1,C48YT7zdCdTPBJSECYAqafAoDjA3,Nordestina,Prato Principal,Carne de sol com macaxeira,72.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-fortaleza-fortaleza-2,C48YT7zdCdTPBJSECYAqafAoDjA3,Nordestina,Prato Principal,Moqueca de peixe,96.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-fortaleza-fortaleza-3,C48YT7zdCdTPBJSECYAqafAoDjA3,Nordestina,Prato Principal,Baião de dois,58.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-fortaleza-fortaleza-4,C48YT7zdCdTPBJSECYAqafAoDjA3,Nordestina,Sobremesa,Cartola,22.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-jericoacoara-jericoacoara-0,mRlxKNrVLbQEQHaM3daLZxp85yl1,Nordestina,Sobremesa,Cartola,17.6,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-jericoacoara-jericoacoara-1,mRlxKNrVLbQEQHaM3daLZxp85yl1,Nordestina,Prato Principal,Moqueca de peixe,76.8,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-jericoacoara-jericoacoara-2,mRlxKNrVLbQEQHaM3daLZxp85yl1,Nordestina,Entrada,Bolinho de feijão-verde,22.4,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-olinda-0,RpeGiZLiPLdDTDUycoS74r46idm2,Nordestina,Prato Principal,Moqueca de peixe,76.8,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-olinda-1,RpeGiZLiPLdDTDUycoS74r46idm2,Nordestina,Sobremesa,Cartola,17.6,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-olinda-2,RpeGiZLiPLdDTDUycoS74r46idm2,Nordestina,Prato Principal,Baião de dois,46.4,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-olinda-3,RpeGiZLiPLdDTDUycoS74r46idm2,Nordestina,Entrada,Bolinho de feijão-verde,22.4,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-sao-paulo-sao-paulo-0,tZOCQC5SPPec1jJFb0wxg1F9hGM2,Nordestina,Prato Principal,Carne de sol com macaxeira,90.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-sao-paulo-sao-paulo-1,tZOCQC5SPPec1jJFb0wxg1F9hGM2,Nordestina,Prato Principal,Baião de dois,72.5,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-sao-paulo-sao-paulo-2,tZOCQC5SPPec1jJFb0wxg1F9hGM2,Nordestina,Prato Principal,Moqueca de peixe,120.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-sao-paulo-sao-paulo-3,tZOCQC5SPPec1jJFb0wxg1F9hGM2,Nordestina,Entrada,Bolinho de feijão-verde,35.0,2026-11-14T21:43:26.485000+00:00
+casa-do-baiao-sao-paulo-sao-paulo-4,tZOCQC5SPPec1jJFb0wxg1F9hGM2,Nordestina,Sobremesa,Cartola,27.5,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-0,mplleegbwlVUqVFj76T42sEVHvq1,Portuguesa,Prato Principal,Polvo à lagareiro,186.3,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-1,mplleegbwlVUqVFj76T42sEVHvq1,Portuguesa,Prato Principal,Bacalhau à Gomes de Sá,173.8,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-2,mplleegbwlVUqVFj76T42sEVHvq1,Portuguesa,Sobremesa,Pastel de nata,17.5,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-rio-de-jane-0,SktLA5vrJ8M3rsbHgeTuSfznB9i1,Portuguesa,Prato Principal,Bacalhau à Gomes de Sá,173.8,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-rio-de-jane-1,SktLA5vrJ8M3rsbHgeTuSfznB9i1,Portuguesa,Prato Principal,Polvo à lagareiro,186.3,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-rio-de-jane-2,SktLA5vrJ8M3rsbHgeTuSfznB9i1,Portuguesa,Entrada,Bolinho de bacalhau,47.5,2026-11-14T21:43:26.485000+00:00
+casa-do-porto-rio-de-janeiro-rio-de-jane-3,SktLA5vrJ8M3rsbHgeTuSfznB9i1,Portuguesa,Sobremesa,Pastel de nata,17.5,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-brasilia-brasilia-0,xH3bfX78XnbdiUXK2LoWeuPNaEI2,Árabe,Prato Principal,Kafta no prato,86.4,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-brasilia-brasilia-1,xH3bfX78XnbdiUXK2LoWeuPNaEI2,Árabe,Prato Principal,Shawarma de frango,62.4,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-brasilia-brasilia-2,xH3bfX78XnbdiUXK2LoWeuPNaEI2,Árabe,Entrada,Esfiha de carne,14.4,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-brasilia-brasilia-3,xH3bfX78XnbdiUXK2LoWeuPNaEI2,Árabe,Entrada,Homus com pão,44.8,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-brasilia-brasilia-4,xH3bfX78XnbdiUXK2LoWeuPNaEI2,Árabe,Sobremesa,Ataif,28.8,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-sao-paulo-0,u80YaNcNoCNmYZRtgmTcgU6UVeF2,Árabe,Entrada,Esfiha de carne,9.0,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-sao-paulo-1,u80YaNcNoCNmYZRtgmTcgU6UVeF2,Árabe,Sobremesa,Ataif,18.0,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-sao-paulo-2,u80YaNcNoCNmYZRtgmTcgU6UVeF2,Árabe,Prato Principal,Kafta no prato,54.0,2026-11-14T21:43:26.485000+00:00
+casa-libanesa-sao-paulo-3,u80YaNcNoCNmYZRtgmTcgU6UVeF2,Árabe,Prato Principal,Shawarma de frango,39.0,2026-11-14T21:43:26.485000+00:00
+casa-xangai-goiania-goiania-0,UoWXDaqf92XH2HUPQFLhQYMNy6U2,Chinesa,Prato Principal,Yakisoba de frango,48.0,2026-11-14T21:43:26.485000+00:00
+casa-xangai-goiania-goiania-1,UoWXDaqf92XH2HUPQFLhQYMNy6U2,Chinesa,Prato Principal,Frango xadrez,52.0,2026-11-14T21:43:26.485000+00:00
+casa-xangai-goiania-goiania-2,UoWXDaqf92XH2HUPQFLhQYMNy6U2,Chinesa,Entrada,Rolinho primavera,18.0,2026-11-14T21:43:26.485000+00:00
+casa-xangai-goiania-goiania-3,UoWXDaqf92XH2HUPQFLhQYMNy6U2,Chinesa,Sobremesa,Banana caramelada,16.0,2026-11-14T21:43:26.485000+00:00
+casa-xangai-sao-paulo-0,FGPrnL031AcCXXH6HoIu5GzDfV82,Chinesa,Prato Principal,Yakisoba de frango,76.8,2026-11-14T21:43:26.485000+00:00
+casa-xangai-sao-paulo-1,FGPrnL031AcCXXH6HoIu5GzDfV82,Chinesa,Prato Principal,Frango xadrez,83.2,2026-11-14T21:43:26.485000+00:00
+casa-xangai-sao-paulo-2,FGPrnL031AcCXXH6HoIu5GzDfV82,Chinesa,Entrada,Rolinho primavera,28.8,2026-11-14T21:43:26.485000+00:00
+casa-xangai-sao-paulo-3,FGPrnL031AcCXXH6HoIu5GzDfV82,Chinesa,Sobremesa,Banana caramelada,25.6,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-curitiba-0,KVXtiyttKkdi7tY2PyKf9FD9ndr1,Árabe,Prato Principal,Shawarma de frango,31.2,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-curitiba-1,KVXtiyttKkdi7tY2PyKf9FD9ndr1,Árabe,Sobremesa,Ataif,14.4,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-curitiba-2,KVXtiyttKkdi7tY2PyKf9FD9ndr1,Árabe,Entrada,Esfiha de carne,7.2,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-curitiba-3,KVXtiyttKkdi7tY2PyKf9FD9ndr1,Árabe,Prato Principal,Kafta no prato,43.2,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-curitiba-4,KVXtiyttKkdi7tY2PyKf9FD9ndr1,Árabe,Entrada,Homus com pão,22.4,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-rio-de-janeiro-rio-de-ja-0,157umf1e5jVMew6YxfP1Stz4hkq1,Árabe,Prato Principal,Kafta no prato,54.0,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-rio-de-janeiro-rio-de-ja-1,157umf1e5jVMew6YxfP1Stz4hkq1,Árabe,Prato Principal,Shawarma de frango,39.0,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-rio-de-janeiro-rio-de-ja-2,157umf1e5jVMew6YxfP1Stz4hkq1,Árabe,Entrada,Esfiha de carne,9.0,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-rio-de-janeiro-rio-de-ja-3,157umf1e5jVMew6YxfP1Stz4hkq1,Árabe,Entrada,Homus com pão,28.0,2026-11-14T21:43:26.485000+00:00
+cedro-do-libano-rio-de-janeiro-rio-de-ja-4,157umf1e5jVMew6YxfP1Stz4hkq1,Árabe,Sobremesa,Ataif,18.0,2026-11-14T21:43:26.485000+00:00
+chama-campeira-porto-alegre-0,Lww6TGtyz2W6wljeuwE6xyW96M93,Churrasco,Prato Principal,Costela fogo de chão,89.0,2026-11-14T21:43:26.485000+00:00
+chama-campeira-porto-alegre-1,Lww6TGtyz2W6wljeuwE6xyW96M93,Churrasco,Entrada,Linguiça artesanal,34.0,2026-11-14T21:43:26.485000+00:00
+chama-campeira-porto-alegre-2,Lww6TGtyz2W6wljeuwE6xyW96M93,Churrasco,Acompanhamento,Farofa de ovos,22.0,2026-11-14T21:43:26.485000+00:00
+chama-campeira-porto-alegre-3,Lww6TGtyz2W6wljeuwE6xyW96M93,Churrasco,Sobremesa,Pudim de leite,19.0,2026-11-14T21:43:26.485000+00:00
+chama-campeira-porto-alegre-4,Lww6TGtyz2W6wljeuwE6xyW96M93,Churrasco,Prato Principal,Picanha fatiada,98.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-brasilia-0,sf2DZijWUcMAPavQNeRLyjwzyqG3,Nordestina,Prato Principal,Carne de sol com macaxeira,90.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-brasilia-1,sf2DZijWUcMAPavQNeRLyjwzyqG3,Nordestina,Prato Principal,Baião de dois,72.5,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-brasilia-2,sf2DZijWUcMAPavQNeRLyjwzyqG3,Nordestina,Entrada,Bolinho de feijão-verde,35.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-fortaleza-fortaleza-0,F8BCC6MCCNTlItaWfG5LjqFXr4i2,Nordestina,Prato Principal,Carne de sol com macaxeira,72.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-fortaleza-fortaleza-1,F8BCC6MCCNTlItaWfG5LjqFXr4i2,Nordestina,Sobremesa,Cartola,22.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-fortaleza-fortaleza-2,F8BCC6MCCNTlItaWfG5LjqFXr4i2,Nordestina,Prato Principal,Moqueca de peixe,96.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-fortaleza-fortaleza-3,F8BCC6MCCNTlItaWfG5LjqFXr4i2,Nordestina,Prato Principal,Baião de dois,58.0,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-goiania-goiania-0,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Prato Principal,Carne de sol com macaxeira,57.6,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-goiania-goiania-1,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Prato Principal,Baião de dois,46.4,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-goiania-goiania-2,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Prato Principal,Moqueca de peixe,76.8,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-goiania-goiania-3,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Entrada,Bolinho de feijão-verde,22.4,2026-11-14T21:43:26.485000+00:00
+cheiro-de-terra-goiania-goiania-4,icqw9v4kgNNzDEcijuclV3kVF9l1,Nordestina,Sobremesa,Cartola,17.6,2026-11-14T21:43:26.485000+00:00
+chez-marie-rio-de-janeiro-rio-de-janeiro-0,5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Francesa,Prato Principal,Boeuf bourguignon,102.4,2026-11-14T21:43:26.485000+00:00
+chez-marie-rio-de-janeiro-rio-de-janeiro-1,5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Francesa,Entrada,Quiche lorraine,33.6,2026-11-14T21:43:26.485000+00:00
+chez-marie-rio-de-janeiro-rio-de-janeiro-2,5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Francesa,Prato Principal,Ratatouille,68.8,2026-11-14T21:43:26.485000+00:00
+chez-marie-rio-de-janeiro-rio-de-janeiro-3,5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Francesa,Sobremesa,Mousse au chocolat,25.6,2026-11-14T21:43:26.485000+00:00
+chez-marie-sao-paulo-0,rhdWPErHrfdFWSEpbnlmGwcbSfM2,Francesa,Sobremesa,Mousse au chocolat,40.0,2026-11-14T21:43:26.485000+00:00
+chez-marie-sao-paulo-1,rhdWPErHrfdFWSEpbnlmGwcbSfM2,Francesa,Prato Principal,Boeuf bourguignon,160.0,2026-11-14T21:43:26.485000+00:00
+chez-marie-sao-paulo-2,rhdWPErHrfdFWSEpbnlmGwcbSfM2,Francesa,Entrada,Quiche lorraine,52.5,2026-11-14T21:43:26.485000+00:00
+churrascaria-alegria-0,bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrasco,Prato Principal,Rodízio completo,89.9,2026-11-14T21:43:26.485000+00:00
+churrascaria-alegria-1,bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrasco,Entrada,Pão de queijo,18.0,2026-11-14T21:43:26.485000+00:00
+churrascaria-alegria-2,bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrasco,Sobremesa,Pudim da casa,16.0,2026-11-14T21:43:26.485000+00:00
+coado-cia-goiania-goiania-0,fJr26eaG1lQhlRyFtKqw3765SUn2,Cafeteria,Prato Principal,Brunch completo,83.2,2026-11-14T21:43:26.485000+00:00
+coado-cia-goiania-goiania-1,fJr26eaG1lQhlRyFtKqw3765SUn2,Cafeteria,Prato Principal,Tosta de fermentação natural,54.4,2026-11-14T21:43:26.485000+00:00
+coado-cia-goiania-goiania-2,fJr26eaG1lQhlRyFtKqw3765SUn2,Cafeteria,Entrada,Pão de queijo,19.2,2026-11-14T21:43:26.485000+00:00
+coado-cia-goiania-goiania-3,fJr26eaG1lQhlRyFtKqw3765SUn2,Cafeteria,Sobremesa,Bolo de cenoura,22.4,2026-11-14T21:43:26.485000+00:00
+coado-cia-tiradentes-0,FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Cafeteria,Entrada,Pão de queijo,9.6,2026-11-14T21:43:26.485000+00:00
+coado-cia-tiradentes-1,FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Cafeteria,Prato Principal,Brunch completo,41.6,2026-11-14T21:43:26.485000+00:00
+coado-cia-tiradentes-2,FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Cafeteria,Sobremesa,Bolo de cenoura,11.2,2026-11-14T21:43:26.485000+00:00
+coado-cia-tiradentes-3,FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Cafeteria,Prato Principal,Tosta de fermentação natural,27.2,2026-11-14T21:43:26.485000+00:00
+costa-grega-florianopolis-0,1aN3oquSisRY3p6B6oL8EByvdi82,Mediterrânea,Sobremesa,Iogurte com mel,27.5,2026-11-14T21:43:26.485000+00:00
+costa-grega-florianopolis-1,1aN3oquSisRY3p6B6oL8EByvdi82,Mediterrânea,Prato Principal,Moussaka,95.0,2026-11-14T21:43:26.485000+00:00
+costa-grega-florianopolis-2,1aN3oquSisRY3p6B6oL8EByvdi82,Mediterrânea,Prato Principal,Paella marinera,160.0,2026-11-14T21:43:26.485000+00:00
+costa-grega-florianopolis-3,1aN3oquSisRY3p6B6oL8EByvdi82,Mediterrânea,Entrada,Salada grega,47.5,2026-11-14T21:43:26.485000+00:00
+costa-grega-sao-paulo-sao-paulo-0,79yzHCYiNcgy6TdQyk7fFdyOmVK2,Mediterrânea,Prato Principal,Paella marinera,102.4,2026-11-14T21:43:26.485000+00:00
+costa-grega-sao-paulo-sao-paulo-1,79yzHCYiNcgy6TdQyk7fFdyOmVK2,Mediterrânea,Entrada,Salada grega,30.4,2026-11-14T21:43:26.485000+00:00
+costa-grega-sao-paulo-sao-paulo-2,79yzHCYiNcgy6TdQyk7fFdyOmVK2,Mediterrânea,Prato Principal,Moussaka,60.8,2026-11-14T21:43:26.485000+00:00
+costa-grega-sao-paulo-sao-paulo-3,79yzHCYiNcgy6TdQyk7fFdyOmVK2,Mediterrânea,Sobremesa,Iogurte com mel,17.6,2026-11-14T21:43:26.485000+00:00
+costela-cia-belo-horizonte-0,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Entrada,Linguiça artesanal,54.4,2026-11-14T21:43:26.485000+00:00
+costela-cia-belo-horizonte-1,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Sobremesa,Pudim de leite,30.4,2026-11-14T21:43:26.485000+00:00
+costela-cia-belo-horizonte-2,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Prato Principal,Costela fogo de chão,142.4,2026-11-14T21:43:26.485000+00:00
+costela-cia-belo-horizonte-3,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Prato Principal,Picanha fatiada,156.8,2026-11-14T21:43:26.485000+00:00
+costela-cia-belo-horizonte-4,SZFjIdL2MLRuDWYssldu0Q0xkPA3,Churrasco,Acompanhamento,Farofa de ovos,35.2,2026-11-14T21:43:26.485000+00:00
+costela-cia-caxias-do-sul-caxias-do-sul-0,zSLudZ49vnM8ieBAYNisC3yAWsj2,Churrasco,Prato Principal,Picanha fatiada,122.5,2026-11-14T21:43:26.485000+00:00
+costela-cia-caxias-do-sul-caxias-do-sul-1,zSLudZ49vnM8ieBAYNisC3yAWsj2,Churrasco,Acompanhamento,Farofa de ovos,27.5,2026-11-14T21:43:26.485000+00:00
+costela-cia-caxias-do-sul-caxias-do-sul-2,zSLudZ49vnM8ieBAYNisC3yAWsj2,Churrasco,Prato Principal,Costela fogo de chão,111.3,2026-11-14T21:43:26.485000+00:00
+costela-cia-caxias-do-sul-caxias-do-sul-3,zSLudZ49vnM8ieBAYNisC3yAWsj2,Churrasco,Entrada,Linguiça artesanal,42.5,2026-11-14T21:43:26.485000+00:00
+costela-cia-sao-paulo-sao-paulo-0,NlFh0BSXGWUIqt7KEWNA3WPLgj83,Churrasco,Prato Principal,Picanha fatiada,98.0,2026-11-14T21:43:26.485000+00:00
+costela-cia-sao-paulo-sao-paulo-1,NlFh0BSXGWUIqt7KEWNA3WPLgj83,Churrasco,Prato Principal,Costela fogo de chão,89.0,2026-11-14T21:43:26.485000+00:00
+costela-cia-sao-paulo-sao-paulo-2,NlFh0BSXGWUIqt7KEWNA3WPLgj83,Churrasco,Entrada,Linguiça artesanal,34.0,2026-11-14T21:43:26.485000+00:00
+costela-cia-sao-paulo-sao-paulo-3,NlFh0BSXGWUIqt7KEWNA3WPLgj83,Churrasco,Acompanhamento,Farofa de ovos,22.0,2026-11-14T21:43:26.485000+00:00
+costela-cia-sao-paulo-sao-paulo-4,NlFh0BSXGWUIqt7KEWNA3WPLgj83,Churrasco,Sobremesa,Pudim de leite,19.0,2026-11-14T21:43:26.485000+00:00
+damasco-campinas-0,Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Árabe,Prato Principal,Shawarma de frango,39.0,2026-11-14T21:43:26.485000+00:00
+damasco-campinas-1,Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Árabe,Entrada,Homus com pão,28.0,2026-11-14T21:43:26.485000+00:00
+damasco-campinas-2,Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Árabe,Entrada,Esfiha de carne,9.0,2026-11-14T21:43:26.485000+00:00
+damasco-goiania-goiania-0,Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Árabe,Prato Principal,Kafta no prato,67.5,2026-11-14T21:43:26.485000+00:00
+damasco-goiania-goiania-1,Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Árabe,Prato Principal,Shawarma de frango,48.8,2026-11-14T21:43:26.485000+00:00
+damasco-goiania-goiania-2,Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Árabe,Entrada,Esfiha de carne,11.3,2026-11-14T21:43:26.485000+00:00
+damasco-goiania-goiania-3,Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Árabe,Entrada,Homus com pão,35.0,2026-11-14T21:43:26.485000+00:00
+damasco-goiania-goiania-4,Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Árabe,Sobremesa,Ataif,22.5,2026-11-14T21:43:26.485000+00:00
+dragao-dourado-sao-paulo-0,N6yRH6gVlzgiY57MWYKRYwHcJAa2,Chinesa,Prato Principal,Yakisoba de frango,38.4,2026-11-14T21:43:26.485000+00:00
+dragao-dourado-sao-paulo-1,N6yRH6gVlzgiY57MWYKRYwHcJAa2,Chinesa,Sobremesa,Banana caramelada,12.8,2026-11-14T21:43:26.485000+00:00
+dragao-dourado-sao-paulo-2,N6yRH6gVlzgiY57MWYKRYwHcJAa2,Chinesa,Entrada,Rolinho primavera,14.4,2026-11-14T21:43:26.485000+00:00
+el-mariachi-sao-paulo-0,U3AwLR0e6Gccq2seb0Wo59hNm2w2,Mexicana,Prato Principal,Burrito de carne,55.0,2026-11-14T21:43:26.485000+00:00
+el-mariachi-sao-paulo-1,U3AwLR0e6Gccq2seb0Wo59hNm2w2,Mexicana,Prato Principal,Quesadilla,47.5,2026-11-14T21:43:26.485000+00:00
+el-mariachi-sao-paulo-2,U3AwLR0e6Gccq2seb0Wo59hNm2w2,Mexicana,Entrada,Guacamole com nachos,42.5,2026-11-14T21:43:26.485000+00:00
+el-mariachi-sao-paulo-3,U3AwLR0e6Gccq2seb0Wo59hNm2w2,Mexicana,Sobremesa,Churros com doce de leite,23.8,2026-11-14T21:43:26.485000+00:00
+estacao-autoral-brasilia-0,SXMYgfnuTANeCb7fSHWLQAodv5j2,Contemporânea,Prato Principal,Menu degustação 5 tempos,384.0,2026-11-14T21:43:26.485000+00:00
+estacao-autoral-brasilia-1,SXMYgfnuTANeCb7fSHWLQAodv5j2,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,188.8,2026-11-14T21:43:26.485000+00:00
+estacao-autoral-brasilia-2,SXMYgfnuTANeCb7fSHWLQAodv5j2,Contemporânea,Entrada,Tartar de atum,92.8,2026-11-14T21:43:26.485000+00:00
+estacao-autoral-brasilia-3,SXMYgfnuTANeCb7fSHWLQAodv5j2,Contemporânea,Sobremesa,Sorvete artesanal da estação,44.8,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-brasilia-brasilia-0,crX2pHRX3gYufKL9aQXCv9oLdB12,Brasileira,Prato Principal,Feijoada completa,47.2,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-brasilia-brasilia-1,crX2pHRX3gYufKL9aQXCv9oLdB12,Brasileira,Prato Principal,Frango com quiabo,38.4,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-brasilia-brasilia-2,crX2pHRX3gYufKL9aQXCv9oLdB12,Brasileira,Prato Principal,Tutu à mineira,41.6,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-brasilia-brasilia-3,crX2pHRX3gYufKL9aQXCv9oLdB12,Brasileira,Entrada,Torresmo,20.8,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-brasilia-brasilia-4,crX2pHRX3gYufKL9aQXCv9oLdB12,Brasileira,Sobremesa,Doce de abóbora,11.2,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-rio-de-janeiro-0,OH0CG2JgGmh73B1X192bsPgwquo2,Brasileira,Prato Principal,Tutu à mineira,52.0,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-rio-de-janeiro-1,OH0CG2JgGmh73B1X192bsPgwquo2,Brasileira,Prato Principal,Feijoada completa,59.0,2026-11-14T21:43:26.485000+00:00
+fogao-de-minas-rio-de-janeiro-2,OH0CG2JgGmh73B1X192bsPgwquo2,Brasileira,Sobremesa,Doce de abóbora,14.0,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-brasilia-brasilia-0,dzPYpzvcw2TmGY4M85LfMvCXa1K2,Churrasco,Prato Principal,Picanha fatiada,78.4,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-brasilia-brasilia-1,dzPYpzvcw2TmGY4M85LfMvCXa1K2,Churrasco,Prato Principal,Costela fogo de chão,71.2,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-brasilia-brasilia-2,dzPYpzvcw2TmGY4M85LfMvCXa1K2,Churrasco,Entrada,Linguiça artesanal,27.2,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-brasilia-brasilia-3,dzPYpzvcw2TmGY4M85LfMvCXa1K2,Churrasco,Acompanhamento,Farofa de ovos,17.6,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-brasilia-brasilia-4,dzPYpzvcw2TmGY4M85LfMvCXa1K2,Churrasco,Sobremesa,Pudim de leite,15.2,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-pirenopolis-0,gsT7chP54zMOvxcRyrqldayGwP13,Churrasco,Entrada,Linguiça artesanal,42.5,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-pirenopolis-1,gsT7chP54zMOvxcRyrqldayGwP13,Churrasco,Sobremesa,Pudim de leite,23.8,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-pirenopolis-2,gsT7chP54zMOvxcRyrqldayGwP13,Churrasco,Prato Principal,Costela fogo de chão,111.3,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-pirenopolis-3,gsT7chP54zMOvxcRyrqldayGwP13,Churrasco,Acompanhamento,Farofa de ovos,27.5,2026-11-14T21:43:26.485000+00:00
+fogo-de-chao-gaucho-pirenopolis-4,gsT7chP54zMOvxcRyrqldayGwP13,Churrasco,Prato Principal,Picanha fatiada,122.5,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-brasilia-brasilia-0,hKwH7q9JL8co5ucPidEhL3Vyr3t1,Pizzaria,Prato Principal,Pizza calabresa,99.2,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-brasilia-brasilia-1,hKwH7q9JL8co5ucPidEhL3Vyr3t1,Pizzaria,Prato Principal,Pizza quatro queijos,108.8,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-brasilia-brasilia-2,hKwH7q9JL8co5ucPidEhL3Vyr3t1,Pizzaria,Entrada,Pão de alho,35.2,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-brasilia-brasilia-3,hKwH7q9JL8co5ucPidEhL3Vyr3t1,Pizzaria,Sobremesa,Pizza de chocolate,78.4,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-0,YPd70fq5IoXUaaEy30A1Z4wJmh23,Pizzaria,Prato Principal,Pizza quatro queijos,54.4,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-1,YPd70fq5IoXUaaEy30A1Z4wJmh23,Pizzaria,Entrada,Pão de alho,17.6,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-2,YPd70fq5IoXUaaEy30A1Z4wJmh23,Pizzaria,Prato Principal,Pizza calabresa,49.6,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-3,YPd70fq5IoXUaaEy30A1Z4wJmh23,Pizzaria,Sobremesa,Pizza de chocolate,39.2,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-santos-0,FpGRRGRE8mSlEL7FmYSUVWLLOtu1,Pizzaria,Prato Principal,Pizza quatro queijos,68.0,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-santos-1,FpGRRGRE8mSlEL7FmYSUVWLLOtu1,Pizzaria,Entrada,Pão de alho,22.0,2026-11-14T21:43:26.485000+00:00
+forno-a-lenha-santos-santos-2,FpGRRGRE8mSlEL7FmYSUVWLLOtu1,Pizzaria,Sobremesa,Pizza de chocolate,49.0,2026-11-14T21:43:26.485000+00:00
+galpao-crioulo-gramado-0,7IxZabB2CrafJl0QnladUOoVYzn2,Churrasco,Acompanhamento,Farofa de ovos,35.2,2026-11-14T21:43:26.485000+00:00
+galpao-crioulo-gramado-1,7IxZabB2CrafJl0QnladUOoVYzn2,Churrasco,Prato Principal,Picanha fatiada,156.8,2026-11-14T21:43:26.485000+00:00
+galpao-crioulo-gramado-2,7IxZabB2CrafJl0QnladUOoVYzn2,Churrasco,Entrada,Linguiça artesanal,54.4,2026-11-14T21:43:26.485000+00:00
+galpao-crioulo-gramado-3,7IxZabB2CrafJl0QnladUOoVYzn2,Churrasco,Sobremesa,Pudim de leite,30.4,2026-11-14T21:43:26.485000+00:00
+grao-folha-brasilia-0,ghSGrTq3sISsfkD2VoMGpIS3QN62,Vegetariana,Prato Principal,Bowl de grãos,46.0,2026-11-14T21:43:26.485000+00:00
+grao-folha-brasilia-1,ghSGrTq3sISsfkD2VoMGpIS3QN62,Vegetariana,Sobremesa,Brownie vegano,18.0,2026-11-14T21:43:26.485000+00:00
+grao-folha-brasilia-2,ghSGrTq3sISsfkD2VoMGpIS3QN62,Vegetariana,Prato Principal,Moqueca de banana-da-terra,52.0,2026-11-14T21:43:26.485000+00:00
+grao-folha-brasilia-3,ghSGrTq3sISsfkD2VoMGpIS3QN62,Vegetariana,Entrada,Bolinho de quinoa,24.0,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-brasilia-brasilia-0,aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Cafeteria,Prato Principal,Brunch completo,41.6,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-brasilia-brasilia-1,aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Cafeteria,Prato Principal,Tosta de fermentação natural,27.2,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-brasilia-brasilia-2,aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Cafeteria,Entrada,Pão de queijo,9.6,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-brasilia-brasilia-3,aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Cafeteria,Sobremesa,Bolo de cenoura,11.2,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-curitiba-0,PUrJAUFx83XylGAOyJF3TNppCGh1,Cafeteria,Sobremesa,Bolo de cenoura,11.2,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-curitiba-1,PUrJAUFx83XylGAOyJF3TNppCGh1,Cafeteria,Entrada,Pão de queijo,9.6,2026-11-14T21:43:26.485000+00:00
+grao-nobre-cafe-curitiba-2,PUrJAUFx83XylGAOyJF3TNppCGh1,Cafeteria,Prato Principal,Tosta de fermentação natural,27.2,2026-11-14T21:43:26.485000+00:00
+hanami-rio-de-janeiro-0,jJ5XpykrH0MLbnOKWV3vqgBpABU2,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+hanami-rio-de-janeiro-1,jJ5XpykrH0MLbnOKWV3vqgBpABU2,Japonesa,Prato Principal,Temaki de salmão,38.0,2026-11-14T21:43:26.485000+00:00
+hanami-rio-de-janeiro-2,jJ5XpykrH0MLbnOKWV3vqgBpABU2,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+hanami-rio-de-janeiro-3,jJ5XpykrH0MLbnOKWV3vqgBpABU2,Japonesa,Entrada,Sunomono,18.0,2026-11-14T21:43:26.485000+00:00
+hanami-sao-paulo-sao-paulo-0,iUXfBDMKKmeruJoF5D7gA1kOsdy1,Japonesa,Prato Principal,Combinado 30 peças,148.8,2026-11-14T21:43:26.485000+00:00
+hanami-sao-paulo-sao-paulo-1,iUXfBDMKKmeruJoF5D7gA1kOsdy1,Japonesa,Prato Principal,Temaki de salmão,47.5,2026-11-14T21:43:26.485000+00:00
+hanami-sao-paulo-sao-paulo-2,iUXfBDMKKmeruJoF5D7gA1kOsdy1,Japonesa,Entrada,Sunomono,22.5,2026-11-14T21:43:26.485000+00:00
+hanami-sao-paulo-sao-paulo-3,iUXfBDMKKmeruJoF5D7gA1kOsdy1,Japonesa,Entrada,Harumaki,30.0,2026-11-14T21:43:26.485000+00:00
+hanami-sao-paulo-sao-paulo-4,iUXfBDMKKmeruJoF5D7gA1kOsdy1,Japonesa,Sobremesa,Tempurá de sorvete,32.5,2026-11-14T21:43:26.485000+00:00
+horta-viva-brasilia-0,tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Vegetariana,Prato Principal,Bowl de grãos,36.8,2026-11-14T21:43:26.485000+00:00
+horta-viva-brasilia-1,tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Vegetariana,Prato Principal,Moqueca de banana-da-terra,41.6,2026-11-14T21:43:26.485000+00:00
+horta-viva-brasilia-2,tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Vegetariana,Entrada,Bolinho de quinoa,19.2,2026-11-14T21:43:26.485000+00:00
+horta-viva-brasilia-3,tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Vegetariana,Sobremesa,Brownie vegano,14.4,2026-11-14T21:43:26.485000+00:00
+il-forno-goiania-goiania-0,vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Italiana,Prato Principal,Risoto de funghi,82.0,2026-11-14T21:43:26.485000+00:00
+il-forno-goiania-goiania-1,vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Italiana,Prato Principal,Fettuccine alfredo,69.0,2026-11-14T21:43:26.485000+00:00
+il-forno-goiania-goiania-2,vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Italiana,Entrada,Carpaccio,46.0,2026-11-14T21:43:26.485000+00:00
+il-forno-goiania-goiania-3,vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Italiana,Entrada,Bruschetta,32.0,2026-11-14T21:43:26.485000+00:00
+il-forno-goiania-goiania-4,vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Italiana,Sobremesa,Panna cotta,28.0,2026-11-14T21:43:26.485000+00:00
+il-forno-gramado-gramado-0,n2ASm5fB9yfQd2PWDPf9qhaf66s2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+il-forno-gramado-gramado-1,n2ASm5fB9yfQd2PWDPf9qhaf66s2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+il-forno-gramado-gramado-2,n2ASm5fB9yfQd2PWDPf9qhaf66s2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+il-forno-sao-paulo-0,9rnBhKZJXYWGNi8o6alCqDVImCg1,Italiana,Entrada,Carpaccio,46.0,2026-11-14T21:43:26.485000+00:00
+il-forno-sao-paulo-1,9rnBhKZJXYWGNi8o6alCqDVImCg1,Italiana,Prato Principal,Risoto de funghi,82.0,2026-11-14T21:43:26.485000+00:00
+il-forno-sao-paulo-2,9rnBhKZJXYWGNi8o6alCqDVImCg1,Italiana,Sobremesa,Panna cotta,28.0,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-salvador-0,NfeMsFbGlHRn7YHMDJO7omB38J12,Peruana,Sobremesa,Suspiro limeño,46.4,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-salvador-1,NfeMsFbGlHRn7YHMDJO7omB38J12,Peruana,Prato Principal,Arroz chaufa,118.4,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-salvador-2,NfeMsFbGlHRn7YHMDJO7omB38J12,Peruana,Entrada,Ceviche clássico,92.8,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-salvador-3,NfeMsFbGlHRn7YHMDJO7omB38J12,Peruana,Prato Principal,Lomo saltado,142.4,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-sao-paulo-sao-paulo-0,57WKZE4yOxQzLB641ud1mfWvTyH3,Peruana,Entrada,Ceviche clássico,46.4,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-sao-paulo-sao-paulo-1,57WKZE4yOxQzLB641ud1mfWvTyH3,Peruana,Prato Principal,Lomo saltado,71.2,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-sao-paulo-sao-paulo-2,57WKZE4yOxQzLB641ud1mfWvTyH3,Peruana,Prato Principal,Arroz chaufa,59.2,2026-11-14T21:43:26.485000+00:00
+inca-cozinha-sao-paulo-sao-paulo-3,57WKZE4yOxQzLB641ud1mfWvTyH3,Peruana,Sobremesa,Suspiro limeño,23.2,2026-11-14T21:43:26.485000+00:00
+izakaya-noite-0,YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Japonesa,Entrada,Guioza (6 un.),29.0,2026-11-14T21:43:26.485000+00:00
+izakaya-noite-1,YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Japonesa,Prato Principal,Lámen tonkotsu,54.0,2026-11-14T21:43:26.485000+00:00
+izakaya-noite-2,YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Japonesa,Prato Principal,Combinado 20 peças,79.0,2026-11-14T21:43:26.485000+00:00
+jardim-de-pequim-sao-paulo-0,l4CpZCM2tGSyonKKGyYeHLiT8M52,Chinesa,Prato Principal,Frango xadrez,52.0,2026-11-14T21:43:26.485000+00:00
+jardim-de-pequim-sao-paulo-1,l4CpZCM2tGSyonKKGyYeHLiT8M52,Chinesa,Entrada,Rolinho primavera,18.0,2026-11-14T21:43:26.485000+00:00
+jardim-de-pequim-sao-paulo-2,l4CpZCM2tGSyonKKGyYeHLiT8M52,Chinesa,Sobremesa,Banana caramelada,16.0,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-0,W0mxUZwWDPWhr67kNyV4HgQXr9A2,Japonesa,Entrada,Harumaki,38.4,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-1,W0mxUZwWDPWhr67kNyV4HgQXr9A2,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-2,W0mxUZwWDPWhr67kNyV4HgQXr9A2,Japonesa,Prato Principal,Temaki de salmão,60.8,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-3,W0mxUZwWDPWhr67kNyV4HgQXr9A2,Japonesa,Prato Principal,Combinado 30 peças,190.4,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-brasilia-0,Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Japonesa,Prato Principal,Combinado 30 peças,119.0,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-brasilia-1,Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Japonesa,Prato Principal,Temaki de salmão,38.0,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-brasilia-2,Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Japonesa,Entrada,Sunomono,18.0,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-brasilia-3,Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+kaze-sushi-brasilia-brasilia-4,Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-belo-horizonte-0,0G7HC0EknIZmQe9igMmdDaWBAKD3,Contemporânea,Entrada,Tartar de atum,72.5,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-belo-horizonte-1,0G7HC0EknIZmQe9igMmdDaWBAKD3,Contemporânea,Sobremesa,Sorvete artesanal da estação,35.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-belo-horizonte-2,0G7HC0EknIZmQe9igMmdDaWBAKD3,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,147.5,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-belo-horizonte-3,0G7HC0EknIZmQe9igMmdDaWBAKD3,Contemporânea,Prato Principal,Menu degustação 5 tempos,300.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-rio-de-janeiro--0,Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Contemporânea,Prato Principal,Menu degustação 5 tempos,240.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-rio-de-janeiro--1,Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,118.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-rio-de-janeiro--2,Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Contemporânea,Entrada,Tartar de atum,58.0,2026-11-14T21:43:26.485000+00:00
+laboratorio-gastronomico-rio-de-janeiro--3,Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Contemporânea,Sobremesa,Sorvete artesanal da estação,28.0,2026-11-14T21:43:26.485000+00:00
+lata-burger-fortaleza-0,U4MKMbOrkSZNc9DPW8AYDXTLsAp2,Hamburgueria,Prato Principal,Smash duplo,31.2,2026-11-14T21:43:26.485000+00:00
+lata-burger-fortaleza-1,U4MKMbOrkSZNc9DPW8AYDXTLsAp2,Hamburgueria,Acompanhamento,Batata rústica,17.6,2026-11-14T21:43:26.485000+00:00
+lata-burger-fortaleza-2,U4MKMbOrkSZNc9DPW8AYDXTLsAp2,Hamburgueria,Prato Principal,Burger de costela,36.8,2026-11-14T21:43:26.485000+00:00
+le-jardin-sao-paulo-0,iH610GY48MSdGiwjZ26e3nlqPk63,Francesa,Prato Principal,Boeuf bourguignon,204.8,2026-11-14T21:43:26.485000+00:00
+le-jardin-sao-paulo-1,iH610GY48MSdGiwjZ26e3nlqPk63,Francesa,Entrada,Quiche lorraine,67.2,2026-11-14T21:43:26.485000+00:00
+le-jardin-sao-paulo-2,iH610GY48MSdGiwjZ26e3nlqPk63,Francesa,Prato Principal,Ratatouille,137.6,2026-11-14T21:43:26.485000+00:00
+le-jardin-sao-paulo-3,iH610GY48MSdGiwjZ26e3nlqPk63,Francesa,Sobremesa,Mousse au chocolat,51.2,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-brasilia-brasilia-0,3F7xVMgAGsMEnaECh8BACBGRj953,Peruana,Entrada,Ceviche clássico,92.8,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-brasilia-brasilia-1,3F7xVMgAGsMEnaECh8BACBGRj953,Peruana,Prato Principal,Lomo saltado,142.4,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-brasilia-brasilia-2,3F7xVMgAGsMEnaECh8BACBGRj953,Peruana,Prato Principal,Arroz chaufa,118.4,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-brasilia-brasilia-3,3F7xVMgAGsMEnaECh8BACBGRj953,Peruana,Sobremesa,Suspiro limeño,46.4,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-goiania-goiania-0,C2czLDMvCdeQRf37rX6ngGPojY03,Peruana,Entrada,Ceviche clássico,72.5,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-goiania-goiania-1,C2czLDMvCdeQRf37rX6ngGPojY03,Peruana,Prato Principal,Lomo saltado,111.3,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-goiania-goiania-2,C2czLDMvCdeQRf37rX6ngGPojY03,Peruana,Prato Principal,Arroz chaufa,92.5,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-goiania-goiania-3,C2czLDMvCdeQRf37rX6ngGPojY03,Peruana,Sobremesa,Suspiro limeño,36.3,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-sao-paulo-0,vYVsKOgxYPMXtANrgIQbKGnbyJk1,Peruana,Entrada,Ceviche clássico,92.8,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-sao-paulo-1,vYVsKOgxYPMXtANrgIQbKGnbyJk1,Peruana,Prato Principal,Lomo saltado,142.4,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-sao-paulo-2,vYVsKOgxYPMXtANrgIQbKGnbyJk1,Peruana,Prato Principal,Arroz chaufa,118.4,2026-11-14T21:43:26.485000+00:00
+lima-cevicheria-sao-paulo-3,vYVsKOgxYPMXtANrgIQbKGnbyJk1,Peruana,Sobremesa,Suspiro limeño,46.4,2026-11-14T21:43:26.485000+00:00
+mandacaru-recife-0,fk2VQU16hCXhFiH5vylznSr8vs82,Nordestina,Entrada,Bolinho de feijão-verde,28.0,2026-11-14T21:43:26.485000+00:00
+mandacaru-recife-1,fk2VQU16hCXhFiH5vylznSr8vs82,Nordestina,Prato Principal,Moqueca de peixe,96.0,2026-11-14T21:43:26.485000+00:00
+mandacaru-recife-2,fk2VQU16hCXhFiH5vylznSr8vs82,Nordestina,Prato Principal,Baião de dois,58.0,2026-11-14T21:43:26.485000+00:00
+mandacaru-recife-3,fk2VQU16hCXhFiH5vylznSr8vs82,Nordestina,Prato Principal,Carne de sol com macaxeira,72.0,2026-11-14T21:43:26.485000+00:00
+mandacaru-recife-4,fk2VQU16hCXhFiH5vylznSr8vs82,Nordestina,Sobremesa,Cartola,22.0,2026-11-14T21:43:26.485000+00:00
+mandacaru-rio-de-janeiro-rio-de-janeiro-0,IKRBzXrE5JcnoPIJrAwfCDQX29C2,Nordestina,Prato Principal,Carne de sol com macaxeira,115.2,2026-11-14T21:43:26.485000+00:00
+mandacaru-rio-de-janeiro-rio-de-janeiro-1,IKRBzXrE5JcnoPIJrAwfCDQX29C2,Nordestina,Prato Principal,Baião de dois,92.8,2026-11-14T21:43:26.485000+00:00
+mandacaru-rio-de-janeiro-rio-de-janeiro-2,IKRBzXrE5JcnoPIJrAwfCDQX29C2,Nordestina,Prato Principal,Moqueca de peixe,153.6,2026-11-14T21:43:26.485000+00:00
+mandacaru-rio-de-janeiro-rio-de-janeiro-3,IKRBzXrE5JcnoPIJrAwfCDQX29C2,Nordestina,Entrada,Bolinho de feijão-verde,44.8,2026-11-14T21:43:26.485000+00:00
+mandacaru-rio-de-janeiro-rio-de-janeiro-4,IKRBzXrE5JcnoPIJrAwfCDQX29C2,Nordestina,Sobremesa,Cartola,35.2,2026-11-14T21:43:26.485000+00:00
+mar-oliva-0,MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mediterrânea,Prato Principal,Polvo grelhado,118.0,2026-11-14T21:43:26.485000+00:00
+mar-oliva-1,MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mediterrânea,Entrada,Homus com pão sírio,34.0,2026-11-14T21:43:26.485000+00:00
+mar-oliva-2,MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mediterrânea,Sobremesa,Baklava,26.0,2026-11-14T21:43:26.485000+00:00
+mare-cheia-salvador-0,yJLMaelXgFYymQwgBsQi7QIhKKm1,Nordestina,Sobremesa,Cartola,27.5,2026-11-14T21:43:26.485000+00:00
+mare-cheia-salvador-1,yJLMaelXgFYymQwgBsQi7QIhKKm1,Nordestina,Entrada,Bolinho de feijão-verde,35.0,2026-11-14T21:43:26.485000+00:00
+mare-cheia-salvador-2,yJLMaelXgFYymQwgBsQi7QIhKKm1,Nordestina,Prato Principal,Carne de sol com macaxeira,90.0,2026-11-14T21:43:26.485000+00:00
+maresia-manaus-manaus-0,niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Frutos do Mar,Prato Principal,Camarão na moranga,220.8,2026-11-14T21:43:26.485000+00:00
+maresia-manaus-manaus-1,niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Frutos do Mar,Sobremesa,Cocada de forno,33.6,2026-11-14T21:43:26.485000+00:00
+maresia-manaus-manaus-2,niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Frutos do Mar,Entrada,Lula à dorê,78.4,2026-11-14T21:43:26.485000+00:00
+maresia-recife-0,uu7b2EzekfgMsEBCMIqREUQ2w2H3,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+maresia-recife-1,uu7b2EzekfgMsEBCMIqREUQ2w2H3,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+maresia-recife-2,uu7b2EzekfgMsEBCMIqREUQ2w2H3,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+maresia-recife-3,uu7b2EzekfgMsEBCMIqREUQ2w2H3,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-anapolis-0,jSfWBoQmYIM49whWStLPWgM5fgw2,Pizzaria,Entrada,Pão de alho,17.6,2026-11-14T21:43:26.485000+00:00
+margherita-co-anapolis-1,jSfWBoQmYIM49whWStLPWgM5fgw2,Pizzaria,Prato Principal,Pizza calabresa,49.6,2026-11-14T21:43:26.485000+00:00
+margherita-co-anapolis-2,jSfWBoQmYIM49whWStLPWgM5fgw2,Pizzaria,Prato Principal,Pizza quatro queijos,54.4,2026-11-14T21:43:26.485000+00:00
+margherita-co-anapolis-3,jSfWBoQmYIM49whWStLPWgM5fgw2,Pizzaria,Sobremesa,Pizza de chocolate,39.2,2026-11-14T21:43:26.485000+00:00
+margherita-co-porto-alegre-porto-alegre-0,A1XrUkVEyCQL5RKBZNdutMOxTth2,Pizzaria,Prato Principal,Pizza calabresa,62.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-porto-alegre-porto-alegre-1,A1XrUkVEyCQL5RKBZNdutMOxTth2,Pizzaria,Prato Principal,Pizza quatro queijos,68.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-porto-alegre-porto-alegre-2,A1XrUkVEyCQL5RKBZNdutMOxTth2,Pizzaria,Entrada,Pão de alho,22.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-porto-alegre-porto-alegre-3,A1XrUkVEyCQL5RKBZNdutMOxTth2,Pizzaria,Sobremesa,Pizza de chocolate,49.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-rio-de-janeiro-rio-de-jane-0,Y8MFGhqpu2e89JG1edx0Tr1ClP82,Pizzaria,Prato Principal,Pizza calabresa,62.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-rio-de-janeiro-rio-de-jane-1,Y8MFGhqpu2e89JG1edx0Tr1ClP82,Pizzaria,Prato Principal,Pizza quatro queijos,68.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-rio-de-janeiro-rio-de-jane-2,Y8MFGhqpu2e89JG1edx0Tr1ClP82,Pizzaria,Entrada,Pão de alho,22.0,2026-11-14T21:43:26.485000+00:00
+margherita-co-rio-de-janeiro-rio-de-jane-3,Y8MFGhqpu2e89JG1edx0Tr1ClP82,Pizzaria,Sobremesa,Pizza de chocolate,49.0,2026-11-14T21:43:26.485000+00:00
+masala-house-sao-paulo-0,Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Indiana,Prato Principal,Frango tikka masala,102.4,2026-11-14T21:43:26.485000+00:00
+masala-house-sao-paulo-1,Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Indiana,Prato Principal,Biryani de cordeiro,124.8,2026-11-14T21:43:26.485000+00:00
+masala-house-sao-paulo-2,Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Indiana,Entrada,Samosa,41.6,2026-11-14T21:43:26.485000+00:00
+masala-house-sao-paulo-3,Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Indiana,Sobremesa,Gulab jamun,35.2,2026-11-14T21:43:26.485000+00:00
+massa-madre-pirenopolis-0,wNAp8JFAzFXg7lVbUePDQITFhzF2,Pizzaria,Prato Principal,Pizza quatro queijos,54.4,2026-11-14T21:43:26.485000+00:00
+massa-madre-pirenopolis-1,wNAp8JFAzFXg7lVbUePDQITFhzF2,Pizzaria,Sobremesa,Pizza de chocolate,39.2,2026-11-14T21:43:26.485000+00:00
+massa-madre-pirenopolis-2,wNAp8JFAzFXg7lVbUePDQITFhzF2,Pizzaria,Entrada,Pão de alho,17.6,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-belo-horizonte-0,s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,147.5,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-belo-horizonte-1,s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Contemporânea,Sobremesa,Sorvete artesanal da estação,35.0,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-belo-horizonte-2,s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Contemporânea,Entrada,Tartar de atum,72.5,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-belo-horizonte-3,s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Contemporânea,Prato Principal,Menu degustação 5 tempos,300.0,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-sao-paulo-sao-paulo-0,scc34LM9dVeb0OafuVyk6KGybG13,Contemporânea,Prato Principal,Menu degustação 5 tempos,192.0,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-sao-paulo-sao-paulo-1,scc34LM9dVeb0OafuVyk6KGybG13,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,94.4,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-sao-paulo-sao-paulo-2,scc34LM9dVeb0OafuVyk6KGybG13,Contemporânea,Entrada,Tartar de atum,46.4,2026-11-14T21:43:26.485000+00:00
+mesa-do-chef-sao-paulo-sao-paulo-3,scc34LM9dVeb0OafuVyk6KGybG13,Contemporânea,Sobremesa,Sorvete artesanal da estação,22.4,2026-11-14T21:43:26.485000+00:00
+namaste-cozinha-rio-de-janeiro-0,hxw0qBeNpHP3jO9oeXIj6vpXTh23,Indiana,Prato Principal,Frango tikka masala,51.2,2026-11-14T21:43:26.485000+00:00
+namaste-cozinha-rio-de-janeiro-1,hxw0qBeNpHP3jO9oeXIj6vpXTh23,Indiana,Prato Principal,Biryani de cordeiro,62.4,2026-11-14T21:43:26.485000+00:00
+namaste-cozinha-rio-de-janeiro-2,hxw0qBeNpHP3jO9oeXIj6vpXTh23,Indiana,Entrada,Samosa,20.8,2026-11-14T21:43:26.485000+00:00
+namaste-cozinha-rio-de-janeiro-3,hxw0qBeNpHP3jO9oeXIj6vpXTh23,Indiana,Sobremesa,Gulab jamun,17.6,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-0,Q4SKKMuaVgemq8sGHhaMn4DkOJr1,Japonesa,Prato Principal,Combinado 30 peças,190.4,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-1,Q4SKKMuaVgemq8sGHhaMn4DkOJr1,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-2,Q4SKKMuaVgemq8sGHhaMn4DkOJr1,Japonesa,Prato Principal,Temaki de salmão,60.8,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-goiania-0,9q4UJFpoOKRDH4ivVduXbRJgScI3,Japonesa,Prato Principal,Combinado 30 peças,95.2,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-goiania-1,9q4UJFpoOKRDH4ivVduXbRJgScI3,Japonesa,Prato Principal,Temaki de salmão,30.4,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-goiania-2,9q4UJFpoOKRDH4ivVduXbRJgScI3,Japonesa,Entrada,Sunomono,14.4,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-goiania-3,9q4UJFpoOKRDH4ivVduXbRJgScI3,Japonesa,Entrada,Harumaki,19.2,2026-11-14T21:43:26.485000+00:00
+nihon-bar-goiania-goiania-4,9q4UJFpoOKRDH4ivVduXbRJgScI3,Japonesa,Sobremesa,Tempurá de sorvete,20.8,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-campinas-0,0lMIuurajnZ1WP2pqeJA6rMlufS2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-campinas-1,0lMIuurajnZ1WP2pqeJA6rMlufS2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-campinas-2,0lMIuurajnZ1WP2pqeJA6rMlufS2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-campinas-3,0lMIuurajnZ1WP2pqeJA6rMlufS2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-campinas-4,0lMIuurajnZ1WP2pqeJA6rMlufS2,Italiana,Sobremesa,Panna cotta,35.0,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-sao-paulo-sao-paulo-0,P1i49Id2LBPx7GDsnIQZZeGNPN03,Italiana,Prato Principal,Risoto de funghi,131.2,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-sao-paulo-sao-paulo-1,P1i49Id2LBPx7GDsnIQZZeGNPN03,Italiana,Prato Principal,Fettuccine alfredo,110.4,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-sao-paulo-sao-paulo-2,P1i49Id2LBPx7GDsnIQZZeGNPN03,Italiana,Entrada,Carpaccio,73.6,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-sao-paulo-sao-paulo-3,P1i49Id2LBPx7GDsnIQZZeGNPN03,Italiana,Entrada,Bruschetta,51.2,2026-11-14T21:43:26.485000+00:00
+nonna-rosa-sao-paulo-sao-paulo-4,P1i49Id2LBPx7GDsnIQZZeGNPN03,Italiana,Sobremesa,Panna cotta,44.8,2026-11-14T21:43:26.485000+00:00
+osteria-aurora-0,thzihYT0TPS9YResd7sJDRIiYEN2,Italiana,Prato Principal,Tagliolini al tartufo,168.0,2026-11-14T21:43:26.485000+00:00
+osteria-aurora-1,thzihYT0TPS9YResd7sJDRIiYEN2,Italiana,Entrada,Burrata com tomates,69.0,2026-11-14T21:43:26.485000+00:00
+osteria-aurora-2,thzihYT0TPS9YResd7sJDRIiYEN2,Italiana,Sobremesa,Tiramisù,38.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-florianopolis-floriano-0,jPbGuBWN22eKTDR0OdbrRM1szEJ2,Italiana,Sobremesa,Panna cotta,28.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-florianopolis-floriano-1,jPbGuBWN22eKTDR0OdbrRM1szEJ2,Italiana,Prato Principal,Risoto de funghi,82.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-florianopolis-floriano-2,jPbGuBWN22eKTDR0OdbrRM1szEJ2,Italiana,Prato Principal,Fettuccine alfredo,69.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-gramado-gramado-0,aL2HXsGiQyfmHldz1XzQCjSjZXB2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-gramado-gramado-1,aL2HXsGiQyfmHldz1XzQCjSjZXB2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-gramado-gramado-2,aL2HXsGiQyfmHldz1XzQCjSjZXB2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-sao-paulo-0,losH7rYMciPER9eWeSbGTJYdAw72,Italiana,Prato Principal,Fettuccine alfredo,69.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-sao-paulo-1,losH7rYMciPER9eWeSbGTJYdAw72,Italiana,Sobremesa,Panna cotta,28.0,2026-11-14T21:43:26.485000+00:00
+osteria-del-ponte-sao-paulo-2,losH7rYMciPER9eWeSbGTJYdAw72,Italiana,Entrada,Carpaccio,46.0,2026-11-14T21:43:26.485000+00:00
+ostra-mar-rio-de-janeiro-rio-de-janeiro-0,vcCg31M7I1eNvhO5w1XevB7qiPo1,Frutos do Mar,Prato Principal,Camarão na moranga,110.4,2026-11-14T21:43:26.485000+00:00
+ostra-mar-rio-de-janeiro-rio-de-janeiro-1,vcCg31M7I1eNvhO5w1XevB7qiPo1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,73.6,2026-11-14T21:43:26.485000+00:00
+ostra-mar-rio-de-janeiro-rio-de-janeiro-2,vcCg31M7I1eNvhO5w1XevB7qiPo1,Frutos do Mar,Entrada,Casquinha de siri,27.2,2026-11-14T21:43:26.485000+00:00
+ostra-mar-rio-de-janeiro-rio-de-janeiro-3,vcCg31M7I1eNvhO5w1XevB7qiPo1,Frutos do Mar,Entrada,Lula à dorê,39.2,2026-11-14T21:43:26.485000+00:00
+ostra-mar-rio-de-janeiro-rio-de-janeiro-4,vcCg31M7I1eNvhO5w1XevB7qiPo1,Frutos do Mar,Sobremesa,Cocada de forno,16.8,2026-11-14T21:43:26.485000+00:00
+ostra-mar-salvador-0,Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,147.2,2026-11-14T21:43:26.485000+00:00
+ostra-mar-salvador-1,Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Frutos do Mar,Sobremesa,Cocada de forno,33.6,2026-11-14T21:43:26.485000+00:00
+ostra-mar-salvador-2,Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Frutos do Mar,Entrada,Lula à dorê,78.4,2026-11-14T21:43:26.485000+00:00
+ostra-mar-salvador-3,Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Frutos do Mar,Prato Principal,Camarão na moranga,220.8,2026-11-14T21:43:26.485000+00:00
+ostra-mar-salvador-4,Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Frutos do Mar,Entrada,Casquinha de siri,54.4,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-belo-horizonte-0,j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Brasileira,Sobremesa,Doce de abóbora,11.2,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-belo-horizonte-1,j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Brasileira,Entrada,Torresmo,20.8,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-belo-horizonte-2,j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Brasileira,Prato Principal,Frango com quiabo,38.4,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-belo-horizonte-3,j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Brasileira,Prato Principal,Feijoada completa,47.2,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-goiania-goiania-0,m4Vd4ONXrXMA41E1gQv8ySYATqA2,Brasileira,Prato Principal,Feijoada completa,94.4,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-goiania-goiania-1,m4Vd4ONXrXMA41E1gQv8ySYATqA2,Brasileira,Prato Principal,Frango com quiabo,76.8,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-goiania-goiania-2,m4Vd4ONXrXMA41E1gQv8ySYATqA2,Brasileira,Prato Principal,Tutu à mineira,83.2,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-goiania-goiania-3,m4Vd4ONXrXMA41E1gQv8ySYATqA2,Brasileira,Entrada,Torresmo,41.6,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-goiania-goiania-4,m4Vd4ONXrXMA41E1gQv8ySYATqA2,Brasileira,Sobremesa,Doce de abóbora,22.4,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-manaus-manaus-0,i7aKXDQI68XYmPHUUZSJrqF24rs1,Brasileira,Entrada,Torresmo,26.0,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-manaus-manaus-1,i7aKXDQI68XYmPHUUZSJrqF24rs1,Brasileira,Sobremesa,Doce de abóbora,14.0,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-manaus-manaus-2,i7aKXDQI68XYmPHUUZSJrqF24rs1,Brasileira,Prato Principal,Frango com quiabo,48.0,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-tiradentes-tiradentes-0,b0zf6tsrgFgETNXlwpAENa0XVpF2,Brasileira,Prato Principal,Frango com quiabo,38.4,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-tiradentes-tiradentes-1,b0zf6tsrgFgETNXlwpAENa0XVpF2,Brasileira,Prato Principal,Tutu à mineira,41.6,2026-11-14T21:43:26.485000+00:00
+panela-de-barro-tiradentes-tiradentes-2,b0zf6tsrgFgETNXlwpAENa0XVpF2,Brasileira,Sobremesa,Doce de abóbora,11.2,2026-11-14T21:43:26.485000+00:00
+pao-blend-goiania-goiania-0,eKkCZG47QHfXXnyIvFuAb20PxVG2,Hamburgueria,Prato Principal,Smash duplo,31.2,2026-11-14T21:43:26.485000+00:00
+pao-blend-goiania-goiania-1,eKkCZG47QHfXXnyIvFuAb20PxVG2,Hamburgueria,Prato Principal,Burger de costela,36.8,2026-11-14T21:43:26.485000+00:00
+pao-blend-goiania-goiania-2,eKkCZG47QHfXXnyIvFuAb20PxVG2,Hamburgueria,Acompanhamento,Batata rústica,17.6,2026-11-14T21:43:26.485000+00:00
+pao-blend-goiania-goiania-3,eKkCZG47QHfXXnyIvFuAb20PxVG2,Hamburgueria,Sobremesa,Milkshake de doce de leite,19.2,2026-11-14T21:43:26.485000+00:00
+pao-blend-porto-alegre-0,Bwv6TSaEmRez5QK4l6YwqILDxYO2,Hamburgueria,Sobremesa,Milkshake de doce de leite,19.2,2026-11-14T21:43:26.485000+00:00
+pao-blend-porto-alegre-1,Bwv6TSaEmRez5QK4l6YwqILDxYO2,Hamburgueria,Prato Principal,Smash duplo,31.2,2026-11-14T21:43:26.485000+00:00
+pao-blend-porto-alegre-2,Bwv6TSaEmRez5QK4l6YwqILDxYO2,Hamburgueria,Acompanhamento,Batata rústica,17.6,2026-11-14T21:43:26.485000+00:00
+pao-blend-porto-alegre-3,Bwv6TSaEmRez5QK4l6YwqILDxYO2,Hamburgueria,Prato Principal,Burger de costela,36.8,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-belo-horizonte-belo-horizon-0,UtamE2BbhvNb71WcQG1UmT0rfmO2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-belo-horizonte-belo-horizon-1,UtamE2BbhvNb71WcQG1UmT0rfmO2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-belo-horizonte-belo-horizon-2,UtamE2BbhvNb71WcQG1UmT0rfmO2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-belo-horizonte-belo-horizon-3,UtamE2BbhvNb71WcQG1UmT0rfmO2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-brasilia-0,mvrFia69mggQmaa8ZZWGOG6dwfv2,Italiana,Sobremesa,Panna cotta,44.8,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-brasilia-1,mvrFia69mggQmaa8ZZWGOG6dwfv2,Italiana,Prato Principal,Fettuccine alfredo,110.4,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-brasilia-2,mvrFia69mggQmaa8ZZWGOG6dwfv2,Italiana,Entrada,Bruschetta,51.2,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-brasilia-3,mvrFia69mggQmaa8ZZWGOG6dwfv2,Italiana,Entrada,Carpaccio,73.6,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-brasilia-4,mvrFia69mggQmaa8ZZWGOG6dwfv2,Italiana,Prato Principal,Risoto de funghi,131.2,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-curitiba-curitiba-0,3pXLsI5tznTCA0OYy4KLmhYoLBl1,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-curitiba-curitiba-1,3pXLsI5tznTCA0OYy4KLmhYoLBl1,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-curitiba-curitiba-2,3pXLsI5tznTCA0OYy4KLmhYoLBl1,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-rio-de-janeiro-rio-de-janei-0,NFfkT1ovyLNo7PD1flkbZr6ASdi2,Italiana,Prato Principal,Risoto de funghi,65.6,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-rio-de-janeiro-rio-de-janei-1,NFfkT1ovyLNo7PD1flkbZr6ASdi2,Italiana,Prato Principal,Fettuccine alfredo,55.2,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-rio-de-janeiro-rio-de-janei-2,NFfkT1ovyLNo7PD1flkbZr6ASdi2,Italiana,Entrada,Carpaccio,36.8,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-rio-de-janeiro-rio-de-janei-3,NFfkT1ovyLNo7PD1flkbZr6ASdi2,Italiana,Entrada,Bruschetta,25.6,2026-11-14T21:43:26.485000+00:00
+pasta-fresca-rio-de-janeiro-rio-de-janei-4,NFfkT1ovyLNo7PD1flkbZr6ASdi2,Italiana,Sobremesa,Panna cotta,22.4,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-brasilia-brasilia-0,CiISKiidJ7XEqmSXDvNTIKW5wD22,Frutos do Mar,Prato Principal,Camarão na moranga,172.5,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-brasilia-brasilia-1,CiISKiidJ7XEqmSXDvNTIKW5wD22,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,115.0,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-brasilia-brasilia-2,CiISKiidJ7XEqmSXDvNTIKW5wD22,Frutos do Mar,Entrada,Casquinha de siri,42.5,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-brasilia-brasilia-3,CiISKiidJ7XEqmSXDvNTIKW5wD22,Frutos do Mar,Entrada,Lula à dorê,61.3,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-brasilia-brasilia-4,CiISKiidJ7XEqmSXDvNTIKW5wD22,Frutos do Mar,Sobremesa,Cocada de forno,26.3,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-salvador-0,mQ67YAEHpQOaT5wSng9bGKTNuc73,Frutos do Mar,Prato Principal,Camarão na moranga,220.8,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-salvador-1,mQ67YAEHpQOaT5wSng9bGKTNuc73,Frutos do Mar,Entrada,Lula à dorê,78.4,2026-11-14T21:43:26.485000+00:00
+peixe-na-telha-salvador-2,mQ67YAEHpQOaT5wSng9bGKTNuc73,Frutos do Mar,Sobremesa,Cocada de forno,33.6,2026-11-14T21:43:26.485000+00:00
+petit-paris-brasilia-0,qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Francesa,Prato Principal,Boeuf bourguignon,160.0,2026-11-14T21:43:26.485000+00:00
+petit-paris-brasilia-1,qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Francesa,Entrada,Quiche lorraine,52.5,2026-11-14T21:43:26.485000+00:00
+petit-paris-brasilia-2,qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Francesa,Prato Principal,Ratatouille,107.5,2026-11-14T21:43:26.485000+00:00
+petit-paris-brasilia-3,qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Francesa,Sobremesa,Mousse au chocolat,40.0,2026-11-14T21:43:26.485000+00:00
+petit-paris-goiania-goiania-0,K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Francesa,Prato Principal,Boeuf bourguignon,128.0,2026-11-14T21:43:26.485000+00:00
+petit-paris-goiania-goiania-1,K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Francesa,Entrada,Quiche lorraine,42.0,2026-11-14T21:43:26.485000+00:00
+petit-paris-goiania-goiania-2,K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Francesa,Prato Principal,Ratatouille,86.0,2026-11-14T21:43:26.485000+00:00
+petit-paris-goiania-goiania-3,K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Francesa,Sobremesa,Mousse au chocolat,32.0,2026-11-14T21:43:26.485000+00:00
+pisco-mar-rio-de-janeiro-rio-de-janeiro-0,gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Peruana,Entrada,Ceviche clássico,58.0,2026-11-14T21:43:26.485000+00:00
+pisco-mar-rio-de-janeiro-rio-de-janeiro-1,gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Peruana,Prato Principal,Lomo saltado,89.0,2026-11-14T21:43:26.485000+00:00
+pisco-mar-rio-de-janeiro-rio-de-janeiro-2,gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Peruana,Prato Principal,Arroz chaufa,74.0,2026-11-14T21:43:26.485000+00:00
+pisco-mar-rio-de-janeiro-rio-de-janeiro-3,gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Peruana,Sobremesa,Suspiro limeño,29.0,2026-11-14T21:43:26.485000+00:00
+pisco-mar-sao-paulo-0,QKIC43UnbfRDQPRz2j0NiXBjGWR2,Peruana,Prato Principal,Arroz chaufa,118.4,2026-11-14T21:43:26.485000+00:00
+pisco-mar-sao-paulo-1,QKIC43UnbfRDQPRz2j0NiXBjGWR2,Peruana,Entrada,Ceviche clássico,92.8,2026-11-14T21:43:26.485000+00:00
+pisco-mar-sao-paulo-2,QKIC43UnbfRDQPRz2j0NiXBjGWR2,Peruana,Sobremesa,Suspiro limeño,46.4,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-0,xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizzaria,Sobremesa,Pizza de chocolate,49.0,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-1,xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizzaria,Prato Principal,Pizza quatro queijos,68.0,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-2,xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizzaria,Prato Principal,Pizza calabresa,62.0,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-sao-paulo-0,Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizzaria,Prato Principal,Pizza calabresa,49.6,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-sao-paulo-1,Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizzaria,Prato Principal,Pizza quatro queijos,54.4,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-sao-paulo-2,Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizzaria,Entrada,Pão de alho,17.6,2026-11-14T21:43:26.485000+00:00
+pizza-nostra-sao-paulo-sao-paulo-3,Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizzaria,Sobremesa,Pizza de chocolate,39.2,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-goiania-goiania-0,CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria,Prato Principal,Pizza calabresa,77.5,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-goiania-goiania-1,CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria,Prato Principal,Pizza quatro queijos,85.0,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-goiania-goiania-2,CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria,Entrada,Pão de alho,27.5,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-goiania-goiania-3,CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria,Sobremesa,Pizza de chocolate,61.3,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-santos-0,nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria,Entrada,Pão de alho,22.0,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-santos-1,nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria,Sobremesa,Pizza de chocolate,49.0,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-santos-2,nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria,Prato Principal,Pizza quatro queijos,68.0,2026-11-14T21:43:26.485000+00:00
+pizzaria-do-largo-santos-3,nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria,Prato Principal,Pizza calabresa,62.0,2026-11-14T21:43:26.485000+00:00
+prana-rio-de-janeiro-0,OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Vegetariana,Prato Principal,Bowl de grãos,57.5,2026-11-14T21:43:26.485000+00:00
+prana-rio-de-janeiro-1,OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Vegetariana,Prato Principal,Moqueca de banana-da-terra,65.0,2026-11-14T21:43:26.485000+00:00
+prana-rio-de-janeiro-2,OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Vegetariana,Entrada,Bolinho de quinoa,30.0,2026-11-14T21:43:26.485000+00:00
+prana-rio-de-janeiro-3,OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Vegetariana,Sobremesa,Brownie vegano,22.5,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-porto-seguro-porto-segur-0,YkE1pPPhrPTBXWULtsxe2sWOOqB2,Brasileira,Prato Principal,Feijoada completa,47.2,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-porto-seguro-porto-segur-1,YkE1pPPhrPTBXWULtsxe2sWOOqB2,Brasileira,Entrada,Torresmo,20.8,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-porto-seguro-porto-segur-2,YkE1pPPhrPTBXWULtsxe2sWOOqB2,Brasileira,Prato Principal,Tutu à mineira,41.6,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-rio-de-janeiro-0,xhlnGcz5oFhIL0FMZDxIMLc3de02,Brasileira,Entrada,Torresmo,26.0,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-rio-de-janeiro-1,xhlnGcz5oFhIL0FMZDxIMLc3de02,Brasileira,Prato Principal,Frango com quiabo,48.0,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-rio-de-janeiro-2,xhlnGcz5oFhIL0FMZDxIMLc3de02,Brasileira,Prato Principal,Tutu à mineira,52.0,2026-11-14T21:43:26.485000+00:00
+quintal-mineiro-rio-de-janeiro-3,xhlnGcz5oFhIL0FMZDxIMLc3de02,Brasileira,Prato Principal,Feijoada completa,59.0,2026-11-14T21:43:26.485000+00:00
+raiz-verde-sao-paulo-0,CTOYedpbh6NWsfI7aQXGbqX7VDO2,Vegetariana,Prato Principal,Bowl de grãos,46.0,2026-11-14T21:43:26.485000+00:00
+raiz-verde-sao-paulo-1,CTOYedpbh6NWsfI7aQXGbqX7VDO2,Vegetariana,Prato Principal,Moqueca de banana-da-terra,52.0,2026-11-14T21:43:26.485000+00:00
+raiz-verde-sao-paulo-2,CTOYedpbh6NWsfI7aQXGbqX7VDO2,Vegetariana,Entrada,Bolinho de quinoa,24.0,2026-11-14T21:43:26.485000+00:00
+raiz-verde-sao-paulo-3,CTOYedpbh6NWsfI7aQXGbqX7VDO2,Vegetariana,Sobremesa,Brownie vegano,18.0,2026-11-14T21:43:26.485000+00:00
+raizes-do-sertao-recife-0,6yhok9y7xjNTBkGsOdDhwB11XrB3,Nordestina,Prato Principal,Moqueca de peixe,76.8,2026-11-14T21:43:26.485000+00:00
+raizes-do-sertao-recife-1,6yhok9y7xjNTBkGsOdDhwB11XrB3,Nordestina,Prato Principal,Carne de sol com macaxeira,57.6,2026-11-14T21:43:26.485000+00:00
+raizes-do-sertao-recife-2,6yhok9y7xjNTBkGsOdDhwB11XrB3,Nordestina,Sobremesa,Cartola,17.6,2026-11-14T21:43:26.485000+00:00
+raizes-do-sertao-recife-3,6yhok9y7xjNTBkGsOdDhwB11XrB3,Nordestina,Entrada,Bolinho de feijão-verde,22.4,2026-11-14T21:43:26.485000+00:00
+raizes-do-sertao-recife-4,6yhok9y7xjNTBkGsOdDhwB11XrB3,Nordestina,Prato Principal,Baião de dois,46.4,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-anapolis-0,vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Churrasco,Sobremesa,Pudim de leite,30.4,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-anapolis-1,vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Churrasco,Prato Principal,Picanha fatiada,156.8,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-anapolis-2,vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Churrasco,Prato Principal,Costela fogo de chão,142.4,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-caxias-do-sul-caxias-d-0,0bofN4cvpaV1HafFDBqoQCY8N592,Churrasco,Acompanhamento,Farofa de ovos,22.0,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-caxias-do-sul-caxias-d-1,0bofN4cvpaV1HafFDBqoQCY8N592,Churrasco,Entrada,Linguiça artesanal,34.0,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-caxias-do-sul-caxias-d-2,0bofN4cvpaV1HafFDBqoQCY8N592,Churrasco,Prato Principal,Picanha fatiada,98.0,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-goiania-goiania-0,CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Churrasco,Prato Principal,Picanha fatiada,156.8,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-goiania-goiania-1,CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Churrasco,Prato Principal,Costela fogo de chão,142.4,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-goiania-goiania-2,CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Churrasco,Entrada,Linguiça artesanal,54.4,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-goiania-goiania-3,CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Churrasco,Acompanhamento,Farofa de ovos,35.2,2026-11-14T21:43:26.485000+00:00
+rancho-da-picanha-goiania-goiania-4,CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Churrasco,Sobremesa,Pudim de leite,30.4,2026-11-14T21:43:26.485000+00:00
+rede-de-pesca-niteroi-0,QoEEVYsvulgt1YtKGSPCajusOfx2,Frutos do Mar,Prato Principal,Camarão na moranga,138.0,2026-11-14T21:43:26.485000+00:00
+rede-de-pesca-niteroi-1,QoEEVYsvulgt1YtKGSPCajusOfx2,Frutos do Mar,Entrada,Lula à dorê,49.0,2026-11-14T21:43:26.485000+00:00
+rede-de-pesca-niteroi-2,QoEEVYsvulgt1YtKGSPCajusOfx2,Frutos do Mar,Prato Principal,Peixe grelhado com legumes,92.0,2026-11-14T21:43:26.485000+00:00
+rede-de-pesca-niteroi-3,QoEEVYsvulgt1YtKGSPCajusOfx2,Frutos do Mar,Entrada,Casquinha de siri,34.0,2026-11-14T21:43:26.485000+00:00
+sabor-cerrado-0,L2QBYkeNHhdNgmYhabcdXTb9qgt2,Brasileira,Prato Principal,Galinhada com pequi,52.0,2026-11-14T21:43:26.485000+00:00
+sabor-cerrado-1,L2QBYkeNHhdNgmYhabcdXTb9qgt2,Brasileira,Entrada,Pamonha frita,16.0,2026-11-14T21:43:26.485000+00:00
+sabor-cerrado-2,L2QBYkeNHhdNgmYhabcdXTb9qgt2,Brasileira,Sobremesa,Doce de leite,14.0,2026-11-14T21:43:26.485000+00:00
+sabor-da-roca-belo-horizonte-0,1gfp6wtPYZSFjAKmYKgG1acXS4L2,Brasileira,Sobremesa,Doce de abóbora,14.0,2026-11-14T21:43:26.485000+00:00
+sabor-da-roca-belo-horizonte-1,1gfp6wtPYZSFjAKmYKgG1acXS4L2,Brasileira,Prato Principal,Feijoada completa,59.0,2026-11-14T21:43:26.485000+00:00
+sabor-da-roca-belo-horizonte-2,1gfp6wtPYZSFjAKmYKgG1acXS4L2,Brasileira,Prato Principal,Tutu à mineira,52.0,2026-11-14T21:43:26.485000+00:00
+sabor-da-roca-belo-horizonte-3,1gfp6wtPYZSFjAKmYKgG1acXS4L2,Brasileira,Entrada,Torresmo,26.0,2026-11-14T21:43:26.485000+00:00
+sahtein-brasilia-0,cE9SgK78TdRVIyHIbJUzeixdCi12,Árabe,Prato Principal,Shawarma de frango,31.2,2026-11-14T21:43:26.485000+00:00
+sahtein-brasilia-1,cE9SgK78TdRVIyHIbJUzeixdCi12,Árabe,Entrada,Homus com pão,22.4,2026-11-14T21:43:26.485000+00:00
+sahtein-brasilia-2,cE9SgK78TdRVIyHIbJUzeixdCi12,Árabe,Prato Principal,Kafta no prato,43.2,2026-11-14T21:43:26.485000+00:00
+sahtein-sao-paulo-sao-paulo-0,RioFA3OAIWUBCJSIXdPr7NXpvyW2,Árabe,Prato Principal,Kafta no prato,43.2,2026-11-14T21:43:26.485000+00:00
+sahtein-sao-paulo-sao-paulo-1,RioFA3OAIWUBCJSIXdPr7NXpvyW2,Árabe,Prato Principal,Shawarma de frango,31.2,2026-11-14T21:43:26.485000+00:00
+sahtein-sao-paulo-sao-paulo-2,RioFA3OAIWUBCJSIXdPr7NXpvyW2,Árabe,Entrada,Esfiha de carne,7.2,2026-11-14T21:43:26.485000+00:00
+sahtein-sao-paulo-sao-paulo-3,RioFA3OAIWUBCJSIXdPr7NXpvyW2,Árabe,Entrada,Homus com pão,22.4,2026-11-14T21:43:26.485000+00:00
+sahtein-sao-paulo-sao-paulo-4,RioFA3OAIWUBCJSIXdPr7NXpvyW2,Árabe,Sobremesa,Ataif,14.4,2026-11-14T21:43:26.485000+00:00
+sakura-zen-0,Yr2fN2DMrneMduzfoCDUk8s9tSu2,Japonesa,Prato Principal,Omakase 12 peças,149.0,2026-11-14T21:43:26.485000+00:00
+sakura-zen-1,Yr2fN2DMrneMduzfoCDUk8s9tSu2,Japonesa,Entrada,Missoshiru,19.0,2026-11-14T21:43:26.485000+00:00
+sakura-zen-2,Yr2fN2DMrneMduzfoCDUk8s9tSu2,Japonesa,Sobremesa,Mochi de chá verde,24.0,2026-11-14T21:43:26.485000+00:00
+santorini-florianopolis-0,b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Mediterrânea,Prato Principal,Paella marinera,160.0,2026-11-14T21:43:26.485000+00:00
+santorini-florianopolis-1,b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Mediterrânea,Sobremesa,Iogurte com mel,27.5,2026-11-14T21:43:26.485000+00:00
+santorini-florianopolis-2,b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Mediterrânea,Prato Principal,Moussaka,95.0,2026-11-14T21:43:26.485000+00:00
+santorini-florianopolis-3,b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Mediterrânea,Entrada,Salada grega,47.5,2026-11-14T21:43:26.485000+00:00
+santorini-rio-de-janeiro-rio-de-janeiro-0,9RHuHDlnxwTOtcLx3V0akyT7Mny2,Mediterrânea,Prato Principal,Paella marinera,128.0,2026-11-14T21:43:26.485000+00:00
+santorini-rio-de-janeiro-rio-de-janeiro-1,9RHuHDlnxwTOtcLx3V0akyT7Mny2,Mediterrânea,Entrada,Salada grega,38.0,2026-11-14T21:43:26.485000+00:00
+santorini-rio-de-janeiro-rio-de-janeiro-2,9RHuHDlnxwTOtcLx3V0akyT7Mny2,Mediterrânea,Prato Principal,Moussaka,76.0,2026-11-14T21:43:26.485000+00:00
+santorini-rio-de-janeiro-rio-de-janeiro-3,9RHuHDlnxwTOtcLx3V0akyT7Mny2,Mediterrânea,Sobremesa,Iogurte com mel,22.0,2026-11-14T21:43:26.485000+00:00
+semente-goiania-0,CIz2GBP1CictltIzbKAJMXmkzfs2,Vegetariana,Prato Principal,Bowl de grãos,73.6,2026-11-14T21:43:26.485000+00:00
+semente-goiania-1,CIz2GBP1CictltIzbKAJMXmkzfs2,Vegetariana,Prato Principal,Moqueca de banana-da-terra,83.2,2026-11-14T21:43:26.485000+00:00
+semente-goiania-2,CIz2GBP1CictltIzbKAJMXmkzfs2,Vegetariana,Entrada,Bolinho de quinoa,38.4,2026-11-14T21:43:26.485000+00:00
+semente-goiania-3,CIz2GBP1CictltIzbKAJMXmkzfs2,Vegetariana,Sobremesa,Brownie vegano,28.8,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-brasilia-brasilia-0,RQvSpduGNuh4UL1JE10ik5ApQRy2,Nordestina,Prato Principal,Carne de sol com macaxeira,72.0,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-brasilia-brasilia-1,RQvSpduGNuh4UL1JE10ik5ApQRy2,Nordestina,Prato Principal,Baião de dois,58.0,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-brasilia-brasilia-2,RQvSpduGNuh4UL1JE10ik5ApQRy2,Nordestina,Prato Principal,Moqueca de peixe,96.0,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-brasilia-brasilia-3,RQvSpduGNuh4UL1JE10ik5ApQRy2,Nordestina,Entrada,Bolinho de feijão-verde,28.0,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-brasilia-brasilia-4,RQvSpduGNuh4UL1JE10ik5ApQRy2,Nordestina,Sobremesa,Cartola,22.0,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-porto-seguro-0,8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Nordestina,Entrada,Bolinho de feijão-verde,22.4,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-porto-seguro-1,8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Nordestina,Sobremesa,Cartola,17.6,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-porto-seguro-2,8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Nordestina,Prato Principal,Moqueca de peixe,76.8,2026-11-14T21:43:26.485000+00:00
+sertao-nordestino-porto-seguro-3,8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Nordestina,Prato Principal,Baião de dois,46.4,2026-11-14T21:43:26.485000+00:00
+siam-cozinha-rio-de-janeiro-0,40v4VVpZr0fJ30BctjJeH4Vjn6o1,Tailandesa,Prato Principal,Pad thai de camarão,108.8,2026-11-14T21:43:26.485000+00:00
+siam-cozinha-rio-de-janeiro-1,40v4VVpZr0fJ30BctjJeH4Vjn6o1,Tailandesa,Prato Principal,Curry verde,99.2,2026-11-14T21:43:26.485000+00:00
+siam-cozinha-rio-de-janeiro-2,40v4VVpZr0fJ30BctjJeH4Vjn6o1,Tailandesa,Entrada,Rolinho vietnamita,44.8,2026-11-14T21:43:26.485000+00:00
+siam-cozinha-rio-de-janeiro-3,40v4VVpZr0fJ30BctjJeH4Vjn6o1,Tailandesa,Sobremesa,Arroz doce com manga,38.4,2026-11-14T21:43:26.485000+00:00
+smash-burger-co-porto-alegre-0,pO1lVlzOKSSWGu3eoi3tTioFyl12,Hamburgueria,Acompanhamento,Batata rústica,22.0,2026-11-14T21:43:26.485000+00:00
+smash-burger-co-porto-alegre-1,pO1lVlzOKSSWGu3eoi3tTioFyl12,Hamburgueria,Prato Principal,Burger de costela,46.0,2026-11-14T21:43:26.485000+00:00
+smash-burger-co-porto-alegre-2,pO1lVlzOKSSWGu3eoi3tTioFyl12,Hamburgueria,Sobremesa,Milkshake de doce de leite,24.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-manaus-manaus-0,JdBmWMoHA7TajiROqq5NbXidfEz2,Japonesa,Prato Principal,Temaki de salmão,38.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-manaus-manaus-1,JdBmWMoHA7TajiROqq5NbXidfEz2,Japonesa,Prato Principal,Combinado 30 peças,119.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-manaus-manaus-2,JdBmWMoHA7TajiROqq5NbXidfEz2,Japonesa,Entrada,Sunomono,18.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-manaus-manaus-3,JdBmWMoHA7TajiROqq5NbXidfEz2,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-manaus-manaus-4,JdBmWMoHA7TajiROqq5NbXidfEz2,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-recife-recife-0,MECGMju79aWRNUFOKOLhfHYXRXZ2,Japonesa,Sobremesa,Tempurá de sorvete,41.6,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-recife-recife-1,MECGMju79aWRNUFOKOLhfHYXRXZ2,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-recife-recife-2,MECGMju79aWRNUFOKOLhfHYXRXZ2,Japonesa,Entrada,Harumaki,38.4,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-recife-recife-3,MECGMju79aWRNUFOKOLhfHYXRXZ2,Japonesa,Prato Principal,Combinado 30 peças,190.4,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-recife-recife-4,MECGMju79aWRNUFOKOLhfHYXRXZ2,Japonesa,Prato Principal,Temaki de salmão,60.8,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-rio-de-janeiro-0,c52QjljOAEPwO8J9e2gFNrjXueO2,Japonesa,Sobremesa,Tempurá de sorvete,41.6,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-rio-de-janeiro-1,c52QjljOAEPwO8J9e2gFNrjXueO2,Japonesa,Prato Principal,Combinado 30 peças,190.4,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-rio-de-janeiro-2,c52QjljOAEPwO8J9e2gFNrjXueO2,Japonesa,Entrada,Harumaki,38.4,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-rio-de-janeiro-3,c52QjljOAEPwO8J9e2gFNrjXueO2,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+sushi-kyoto-rio-de-janeiro-4,c52QjljOAEPwO8J9e2gFNrjXueO2,Japonesa,Prato Principal,Temaki de salmão,60.8,2026-11-14T21:43:26.485000+00:00
+taj-mahal-brasilia-0,r3VDZfVzefczTm5skgAhRYiHgMy2,Indiana,Prato Principal,Frango tikka masala,80.0,2026-11-14T21:43:26.485000+00:00
+taj-mahal-brasilia-1,r3VDZfVzefczTm5skgAhRYiHgMy2,Indiana,Prato Principal,Biryani de cordeiro,97.5,2026-11-14T21:43:26.485000+00:00
+taj-mahal-brasilia-2,r3VDZfVzefczTm5skgAhRYiHgMy2,Indiana,Entrada,Samosa,32.5,2026-11-14T21:43:26.485000+00:00
+taj-mahal-brasilia-3,r3VDZfVzefczTm5skgAhRYiHgMy2,Indiana,Sobremesa,Gulab jamun,27.5,2026-11-14T21:43:26.485000+00:00
+taj-mahal-goiania-goiania-0,8pEU53NVlJN8z7ltxvD1iwHFCQE3,Indiana,Prato Principal,Frango tikka masala,64.0,2026-11-14T21:43:26.485000+00:00
+taj-mahal-goiania-goiania-1,8pEU53NVlJN8z7ltxvD1iwHFCQE3,Indiana,Prato Principal,Biryani de cordeiro,78.0,2026-11-14T21:43:26.485000+00:00
+taj-mahal-goiania-goiania-2,8pEU53NVlJN8z7ltxvD1iwHFCQE3,Indiana,Entrada,Samosa,26.0,2026-11-14T21:43:26.485000+00:00
+taj-mahal-goiania-goiania-3,8pEU53NVlJN8z7ltxvD1iwHFCQE3,Indiana,Sobremesa,Gulab jamun,22.0,2026-11-14T21:43:26.485000+00:00
+taqueria-sol-0,SQ0Z89rPr5OFi1uazaKhmdTARBW2,Mexicana,Prato Principal,Trio de tacos,36.0,2026-11-14T21:43:26.485000+00:00
+taqueria-sol-1,SQ0Z89rPr5OFi1uazaKhmdTARBW2,Mexicana,Entrada,Nachos supremos,32.0,2026-11-14T21:43:26.485000+00:00
+taqueria-sol-2,SQ0Z89rPr5OFi1uazaKhmdTARBW2,Mexicana,Sobremesa,Churros,18.0,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-brasilia-0,uzPSSKT20lgUivLd0uU4uUdaxm42,Portuguesa,Prato Principal,Bacalhau à Gomes de Sá,111.2,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-brasilia-1,uzPSSKT20lgUivLd0uU4uUdaxm42,Portuguesa,Prato Principal,Polvo à lagareiro,119.2,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-brasilia-2,uzPSSKT20lgUivLd0uU4uUdaxm42,Portuguesa,Entrada,Bolinho de bacalhau,30.4,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-brasilia-3,uzPSSKT20lgUivLd0uU4uUdaxm42,Portuguesa,Sobremesa,Pastel de nata,11.2,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-goiania-goiania-0,k02fVSybQPMjo39wyRodH8vvG7z2,Portuguesa,Prato Principal,Bacalhau à Gomes de Sá,222.4,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-goiania-goiania-1,k02fVSybQPMjo39wyRodH8vvG7z2,Portuguesa,Prato Principal,Polvo à lagareiro,238.4,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-goiania-goiania-2,k02fVSybQPMjo39wyRodH8vvG7z2,Portuguesa,Entrada,Bolinho de bacalhau,60.8,2026-11-14T21:43:26.485000+00:00
+tasca-lusitana-goiania-goiania-3,k02fVSybQPMjo39wyRodH8vvG7z2,Portuguesa,Sobremesa,Pastel de nata,22.4,2026-11-14T21:43:26.485000+00:00
+temaki-mar-fortaleza-fortaleza-0,TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Japonesa,Entrada,Sunomono,22.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-fortaleza-fortaleza-1,TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Japonesa,Entrada,Harumaki,30.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-fortaleza-fortaleza-2,TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Japonesa,Prato Principal,Combinado 30 peças,148.8,2026-11-14T21:43:26.485000+00:00
+temaki-mar-fortaleza-fortaleza-3,TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Japonesa,Sobremesa,Tempurá de sorvete,32.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-fortaleza-fortaleza-4,TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Japonesa,Prato Principal,Temaki de salmão,47.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-foz-do-iguacu-foz-do-iguacu-0,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Entrada,Sunomono,18.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-foz-do-iguacu-foz-do-iguacu-1,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-foz-do-iguacu-foz-do-iguacu-2,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Prato Principal,Temaki de salmão,38.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-foz-do-iguacu-foz-do-iguacu-3,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-foz-do-iguacu-foz-do-iguacu-4,06ZxJA7tejevVj7PUnjXME6Xzgq2,Japonesa,Prato Principal,Combinado 30 peças,119.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-goiania-0,F9RPyWTceUeQq8dAA5ESRCwrS513,Japonesa,Entrada,Harumaki,30.0,2026-11-14T21:43:26.485000+00:00
+temaki-mar-goiania-1,F9RPyWTceUeQq8dAA5ESRCwrS513,Japonesa,Entrada,Sunomono,22.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-goiania-2,F9RPyWTceUeQq8dAA5ESRCwrS513,Japonesa,Sobremesa,Tempurá de sorvete,32.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-goiania-3,F9RPyWTceUeQq8dAA5ESRCwrS513,Japonesa,Prato Principal,Temaki de salmão,47.5,2026-11-14T21:43:26.485000+00:00
+temaki-mar-rio-de-janeiro-rio-de-janeiro-0,XQmyR1jL5jW33Ohw8J019n9cSxD2,Japonesa,Prato Principal,Combinado 30 peças,190.4,2026-11-14T21:43:26.485000+00:00
+temaki-mar-rio-de-janeiro-rio-de-janeiro-1,XQmyR1jL5jW33Ohw8J019n9cSxD2,Japonesa,Prato Principal,Temaki de salmão,60.8,2026-11-14T21:43:26.485000+00:00
+temaki-mar-rio-de-janeiro-rio-de-janeiro-2,XQmyR1jL5jW33Ohw8J019n9cSxD2,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+temaki-mar-rio-de-janeiro-rio-de-janeiro-3,XQmyR1jL5jW33Ohw8J019n9cSxD2,Japonesa,Entrada,Harumaki,38.4,2026-11-14T21:43:26.485000+00:00
+temaki-mar-rio-de-janeiro-rio-de-janeiro-4,XQmyR1jL5jW33Ohw8J019n9cSxD2,Japonesa,Sobremesa,Tempurá de sorvete,41.6,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-ouro-preto-0,ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Brasileira,Prato Principal,Frango com quiabo,38.4,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-ouro-preto-1,ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Brasileira,Prato Principal,Feijoada completa,47.2,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-ouro-preto-2,ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Brasileira,Prato Principal,Tutu à mineira,41.6,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-ouro-preto-3,ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Brasileira,Sobremesa,Doce de abóbora,11.2,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-recife-recife-0,1BgHDIiGloRQu51YFXMOQcwPYey1,Brasileira,Prato Principal,Frango com quiabo,48.0,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-recife-recife-1,1BgHDIiGloRQu51YFXMOQcwPYey1,Brasileira,Sobremesa,Doce de abóbora,14.0,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-recife-recife-2,1BgHDIiGloRQu51YFXMOQcwPYey1,Brasileira,Prato Principal,Feijoada completa,59.0,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-rio-de-janeiro-rio-de-ja-0,9WadS2rnzlSpmQbbL7PznPicXzB3,Brasileira,Prato Principal,Feijoada completa,73.8,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-rio-de-janeiro-rio-de-ja-1,9WadS2rnzlSpmQbbL7PznPicXzB3,Brasileira,Prato Principal,Frango com quiabo,60.0,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-rio-de-janeiro-rio-de-ja-2,9WadS2rnzlSpmQbbL7PznPicXzB3,Brasileira,Prato Principal,Tutu à mineira,65.0,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-rio-de-janeiro-rio-de-ja-3,9WadS2rnzlSpmQbbL7PznPicXzB3,Brasileira,Entrada,Torresmo,32.5,2026-11-14T21:43:26.485000+00:00
+tempero-caseiro-rio-de-janeiro-rio-de-ja-4,9WadS2rnzlSpmQbbL7PznPicXzB3,Brasileira,Sobremesa,Doce de abóbora,17.5,2026-11-14T21:43:26.485000+00:00
+tequila-bar-rio-de-janeiro-0,8tWn6Pn5dGYwt2NJaVSoZVKfO872,Mexicana,Prato Principal,Burrito de carne,70.4,2026-11-14T21:43:26.485000+00:00
+tequila-bar-rio-de-janeiro-1,8tWn6Pn5dGYwt2NJaVSoZVKfO872,Mexicana,Prato Principal,Quesadilla,60.8,2026-11-14T21:43:26.485000+00:00
+tequila-bar-rio-de-janeiro-2,8tWn6Pn5dGYwt2NJaVSoZVKfO872,Mexicana,Entrada,Guacamole com nachos,54.4,2026-11-14T21:43:26.485000+00:00
+tequila-bar-rio-de-janeiro-3,8tWn6Pn5dGYwt2NJaVSoZVKfO872,Mexicana,Sobremesa,Churros com doce de leite,30.4,2026-11-14T21:43:26.485000+00:00
+terroir-goiania-goiania-0,m49RAhyipMUp1uSTKIJL3L5wl6g2,Contemporânea,Prato Principal,Menu degustação 5 tempos,300.0,2026-11-14T21:43:26.485000+00:00
+terroir-goiania-goiania-1,m49RAhyipMUp1uSTKIJL3L5wl6g2,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,147.5,2026-11-14T21:43:26.485000+00:00
+terroir-goiania-goiania-2,m49RAhyipMUp1uSTKIJL3L5wl6g2,Contemporânea,Entrada,Tartar de atum,72.5,2026-11-14T21:43:26.485000+00:00
+terroir-goiania-goiania-3,m49RAhyipMUp1uSTKIJL3L5wl6g2,Contemporânea,Sobremesa,Sorvete artesanal da estação,35.0,2026-11-14T21:43:26.485000+00:00
+terroir-sao-paulo-0,4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Contemporânea,Prato Principal,Peixe do dia com purê de baroa,188.8,2026-11-14T21:43:26.485000+00:00
+terroir-sao-paulo-1,4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Contemporânea,Sobremesa,Sorvete artesanal da estação,44.8,2026-11-14T21:43:26.485000+00:00
+terroir-sao-paulo-2,4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Contemporânea,Entrada,Tartar de atum,92.8,2026-11-14T21:43:26.485000+00:00
+terroir-sao-paulo-3,4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Contemporânea,Prato Principal,Menu degustação 5 tempos,384.0,2026-11-14T21:43:26.485000+00:00
+thai-garden-sao-paulo-0,WoKU9i0yNvUwuWOBQFGtlmtIinf1,Tailandesa,Prato Principal,Pad thai de camarão,85.0,2026-11-14T21:43:26.485000+00:00
+thai-garden-sao-paulo-1,WoKU9i0yNvUwuWOBQFGtlmtIinf1,Tailandesa,Prato Principal,Curry verde,77.5,2026-11-14T21:43:26.485000+00:00
+thai-garden-sao-paulo-2,WoKU9i0yNvUwuWOBQFGtlmtIinf1,Tailandesa,Entrada,Rolinho vietnamita,35.0,2026-11-14T21:43:26.485000+00:00
+thai-garden-sao-paulo-3,WoKU9i0yNvUwuWOBQFGtlmtIinf1,Tailandesa,Sobremesa,Arroz doce com manga,30.0,2026-11-14T21:43:26.485000+00:00
+torra-fina-foz-do-iguacu-0,BqFJSA7w9ORFSlIbuHrnao68Bu63,Cafeteria,Prato Principal,Brunch completo,41.6,2026-11-14T21:43:26.485000+00:00
+torra-fina-foz-do-iguacu-1,BqFJSA7w9ORFSlIbuHrnao68Bu63,Cafeteria,Sobremesa,Bolo de cenoura,11.2,2026-11-14T21:43:26.485000+00:00
+torra-fina-foz-do-iguacu-2,BqFJSA7w9ORFSlIbuHrnao68Bu63,Cafeteria,Prato Principal,Tosta de fermentação natural,27.2,2026-11-14T21:43:26.485000+00:00
+torra-fina-rio-de-janeiro-rio-de-janeiro-0,Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Cafeteria,Prato Principal,Brunch completo,65.0,2026-11-14T21:43:26.485000+00:00
+torra-fina-rio-de-janeiro-rio-de-janeiro-1,Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Cafeteria,Prato Principal,Tosta de fermentação natural,42.5,2026-11-14T21:43:26.485000+00:00
+torra-fina-rio-de-janeiro-rio-de-janeiro-2,Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Cafeteria,Entrada,Pão de queijo,15.0,2026-11-14T21:43:26.485000+00:00
+torra-fina-rio-de-janeiro-rio-de-janeiro-3,Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Cafeteria,Sobremesa,Bolo de cenoura,17.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-0,Em2HzAu02QX9PmWuNhIumgV09bg2,Italiana,Sobremesa,Panna cotta,35.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-1,Em2HzAu02QX9PmWuNhIumgV09bg2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-2,Em2HzAu02QX9PmWuNhIumgV09bg2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-3,Em2HzAu02QX9PmWuNhIumgV09bg2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-4,Em2HzAu02QX9PmWuNhIumgV09bg2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-brasilia-0,AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-brasilia-1,AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-brasilia-2,AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-brasilia-3,AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-brasilia-brasilia-4,AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Italiana,Sobremesa,Panna cotta,35.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-salvador-salvador-0,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Prato Principal,Risoto de funghi,102.5,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-salvador-salvador-1,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Entrada,Bruschetta,40.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-salvador-salvador-2,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Prato Principal,Fettuccine alfredo,86.3,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-salvador-salvador-3,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Sobremesa,Panna cotta,35.0,2026-11-14T21:43:26.485000+00:00
+trattoria-bella-salvador-salvador-4,vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Italiana,Entrada,Carpaccio,57.5,2026-11-14T21:43:26.485000+00:00
+vicolo-italiano-petropolis-0,qaN1cXhZzDNg2RDtGoxP3j5FGXz1,Italiana,Entrada,Bruschetta,32.0,2026-11-14T21:43:26.485000+00:00
+vicolo-italiano-petropolis-1,qaN1cXhZzDNg2RDtGoxP3j5FGXz1,Italiana,Prato Principal,Fettuccine alfredo,69.0,2026-11-14T21:43:26.485000+00:00
+vicolo-italiano-petropolis-2,qaN1cXhZzDNg2RDtGoxP3j5FGXz1,Italiana,Sobremesa,Panna cotta,28.0,2026-11-14T21:43:26.485000+00:00
+wok-express-brasilia-0,AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Chinesa,Prato Principal,Yakisoba de frango,60.0,2026-11-14T21:43:26.485000+00:00
+wok-express-brasilia-1,AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Chinesa,Prato Principal,Frango xadrez,65.0,2026-11-14T21:43:26.485000+00:00
+wok-express-brasilia-2,AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Chinesa,Entrada,Rolinho primavera,22.5,2026-11-14T21:43:26.485000+00:00
+wok-express-brasilia-3,AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Chinesa,Sobremesa,Banana caramelada,20.0,2026-11-14T21:43:26.485000+00:00
+wok-express-rio-de-janeiro-rio-de-janeir-0,CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Chinesa,Prato Principal,Yakisoba de frango,38.4,2026-11-14T21:43:26.485000+00:00
+wok-express-rio-de-janeiro-rio-de-janeir-1,CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Chinesa,Prato Principal,Frango xadrez,41.6,2026-11-14T21:43:26.485000+00:00
+wok-express-rio-de-janeiro-rio-de-janeir-2,CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Chinesa,Entrada,Rolinho primavera,14.4,2026-11-14T21:43:26.485000+00:00
+wok-express-rio-de-janeiro-rio-de-janeir-3,CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Chinesa,Sobremesa,Banana caramelada,12.8,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-curitiba-curitiba-0,zkZJFYar6hflIoS7L3gNggmjnHG3,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-curitiba-curitiba-1,zkZJFYar6hflIoS7L3gNggmjnHG3,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-curitiba-curitiba-2,zkZJFYar6hflIoS7L3gNggmjnHG3,Japonesa,Entrada,Sunomono,18.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-curitiba-curitiba-3,zkZJFYar6hflIoS7L3gNggmjnHG3,Japonesa,Prato Principal,Combinado 30 peças,119.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-jericoacoara-jericoacoara-0,AkIMz30FZyfwqbDG20BoeBZbaN33,Japonesa,Prato Principal,Combinado 30 peças,119.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-jericoacoara-jericoacoara-1,AkIMz30FZyfwqbDG20BoeBZbaN33,Japonesa,Entrada,Harumaki,24.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-jericoacoara-jericoacoara-2,AkIMz30FZyfwqbDG20BoeBZbaN33,Japonesa,Prato Principal,Temaki de salmão,38.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-jericoacoara-jericoacoara-3,AkIMz30FZyfwqbDG20BoeBZbaN33,Japonesa,Sobremesa,Tempurá de sorvete,26.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-niteroi-niteroi-0,yzA8lUKfxzRKvznjZmB22TTngb03,Japonesa,Entrada,Sunomono,22.5,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-niteroi-niteroi-1,yzA8lUKfxzRKvznjZmB22TTngb03,Japonesa,Entrada,Harumaki,30.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-niteroi-niteroi-2,yzA8lUKfxzRKvznjZmB22TTngb03,Japonesa,Prato Principal,Combinado 30 peças,148.8,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-niteroi-niteroi-3,yzA8lUKfxzRKvznjZmB22TTngb03,Japonesa,Prato Principal,Temaki de salmão,47.5,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-petropolis-petropolis-0,B34rBopYe1cGLWXCq8ODQfpBdrJ3,Japonesa,Entrada,Harumaki,38.4,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-petropolis-petropolis-1,B34rBopYe1cGLWXCq8ODQfpBdrJ3,Japonesa,Sobremesa,Tempurá de sorvete,41.6,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-petropolis-petropolis-2,B34rBopYe1cGLWXCq8ODQfpBdrJ3,Japonesa,Entrada,Sunomono,28.8,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-rio-de-janeiro-0,zEuprxc9HMQ01GtMzMOZX9EGq7K2,Japonesa,Entrada,Harumaki,30.0,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-rio-de-janeiro-1,zEuprxc9HMQ01GtMzMOZX9EGq7K2,Japonesa,Sobremesa,Tempurá de sorvete,32.5,2026-11-14T21:43:26.485000+00:00
+yume-izakaya-rio-de-janeiro-2,zEuprxc9HMQ01GtMzMOZX9EGq7K2,Japonesa,Entrada,Sunomono,22.5,2026-11-14T21:43:26.485000+00:00
