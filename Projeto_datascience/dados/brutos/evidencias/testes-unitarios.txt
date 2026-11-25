@@ -1,0 +1,15 @@
+Execução: 25/11/2026 18:09 · comando: npm test (vitest run tests/unit) · repositório TCC---Sistema-de-Informacao
+
+> gastromatch-app@0.1.0 test
+> vitest run tests/unit
+
+
+ RUN  v5.0.3 C:/Users/vlogt/Desktop/TCC---Sistema-de-Informacao-main/app
+
+
+ Test Files  9 passed (9)
+      Tests  67 passed (67)
+   Start at  18:09:40
+   Duration  2.18s (transform 46%, import 38%, tests 12%, worker 4%)
+
+

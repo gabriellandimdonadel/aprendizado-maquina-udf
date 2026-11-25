@@ -1,70 +1,123 @@
 # Fase 4 — Modelagem (CRISP-DM)
 
-**Pergunta de negócio:** Quais fatores (experiência/ambiente, tipo de cozinha, faixa de preço e localidade) mais influenciam a avaliação média e a recomendação de estabelecimentos gastronômicos?  
-**Notebook:** [`notebooks/02_modelagem.ipynb`](notebooks/02_modelagem.ipynb) · **Base:** `dados/processados/gastromatch_restaurantes.csv` · **Semente:** 42
+**Pergunta de negócio:** Quais fatores (experiência/ambiente, tipo de cozinha, faixa de preço e localidade) mais influenciam a avaliação média e a recomendação de estabelecimentos gastronômicos?
+**Notebook:** [`notebooks/02_modelagem.ipynb`](notebooks/02_modelagem.ipynb) · **Base:** `dados/processados/` (Fase 3) · **Semente:** 42
+
+> Todos os números abaixo saíram do notebook executado. A base é a de demonstração (**dados fictícios**). Os testes descrevem esta base, não consumidores reais.
 
 ## 4.1 Seleção das técnicas
 
-A pergunta possui natureza **exploratória e analítica**: busca identificar quais atributos estruturados impulsionam a nota média, a concentração da oferta e o comportamento do algoritmo de recomendação do GastroMatch[cite: 8, 71, 72]. As técnicas selecionadas foram:
+A pergunta é **exploratória e analítica**: quais atributos se relacionam com a nota e com a exposição nas recomendações.
 
 | Técnica | Pergunta que responde | Ferramenta |
 |---|---|---|
-| Distribuição e Análise de Pareto | Quais experiências (*vibes*) e cozinhas concentram a oferta? | pandas, matplotlib |
-| Estatística descritiva e testes não paramétricos (Kruskal-Wallis) | A nota média varia significativamente conforme a experiência ou faixa de preço? | scipy |
-| Correlação de postos de Spearman | Existe relação entre faixa de preço, quantidade de *vibes* e nota média? | scipy |
-| Simulação de Sensibilidade do Score (RN38) | Como os pesos fixos (40/30/15/15) priorizam os estabelecimentos nas buscas? | pandas, numpy |
-| Agrupamento K-means (não supervisionado) | Quais perfis naturais de restaurantes emergem na plataforma? | scikit-learn |
+| Distribuição e Pareto | Quais experiências e cozinhas concentram a oferta? | pandas, matplotlib |
+| Kruskal-Wallis (não paramétrico) | A nota varia com experiência, faixa, cozinha ou estado? | scipy |
+| Correlação de Spearman | Há relação entre faixa, nº de vibes, nº de avaliações, nota e preço? | scipy |
+| Simulação do motor de recomendação | Como os pesos fixos (40/30/15/15) e o corte de 30 pontos definem quem aparece? | `src/recomendacao.py` |
+| K-means (não supervisionado) | Existem perfis naturais de restaurantes? | scikit-learn |
 
 ## 4.2 Design de teste
 
-- **Análise por Experiência:** avaliada sobre a base longa (`gastromatch_vibes_longa.csv`) para contemplar restaurantes multi-experiência (até 3 *vibes*)[cite: 32, 104].
-- **Correlação de Spearman:** aplicada às variáveis numéricas e ordinais (`faixaPreco`, `qtd_vibes`, `totalAvaliacoes`, `notaMedia`, `preco_medio_cardapio`).
-- **Simulação do Motor de Recomendação:** execução de 500 cenários de consulta combinando filtros de culinária, *vibe*, localidade e preço, aplicando o corte mínimo de 30 pontos estabelecido na RN38[cite: 71, 72].
-- **K-means:** atributos padronizados (`StandardScaler` sobre `faixaPreco`, `notaMedia`, `totalAvaliacoes` e `qtd_vibes`); número de grupos *k* testado de 2 a 5 e selecionado pelo **coeficiente de silhueta**; `n_init=20`, `random_state=42`.
+- **Kruskal-Wallis em dois níveis:**
+  - **Avaliação** (1.213 avaliações de restaurante).
+  - **Restaurante** (177 com nota). Este é o nível correto, porque avaliações do mesmo restaurante não são independentes.
+  - α = 0,05.
+- **Spearman** sobre `faixa_preco`, `qtd_vibes`, `total_avaliacoes`, `nota_media`, `preco_medio_cardapio` e `preco_mediano_principal`. Também entre a faixa e cada experiência (*one-hot*).
+- **Simulação:**
+  - `src/recomendacao.py` traduz `app/src/lib/recomendacao.js`. Nas mesmas 500 buscas, as versões Python e JavaScript deram **resultados idênticos (500/500)**: mesmos restaurantes, pontos, ordem e situação.
+  - Buscas geradas com semente 42: 1–2 experiências; cozinha em 70%; cidade em 80%; bairro em 40% das buscas com cidade; faixa em 60%.
+  - Cada busca devolve até 5 restaurantes com ≥ 30 pontos.
+- **K-means:**
+  - `StandardScaler` sobre `faixa_preco`, `nota_media`, `total_avaliacoes` e `qtd_vibes` (177 restaurantes com nota).
+  - k de 2 a 5, escolhido pelo **coeficiente de silhueta**.
+  - `n_init = 20`, `random_state = 42`.
 
 ## 4.3 Resultados
 
-### Estrutura de Pontuação do Motor de Recomendação (RN38)
+### Motor de recomendação (regra do sistema)
 
-O modelo determinístico implementado no GastroMatch pondera quatro dimensões explícitas (totalizando 100 pontos), exigindo pontuação mínima de 30 pontos para exibição ao usuário[cite: 71, 72]:
+| Critério | Pontos | Como pontua |
+|---|---:|---|
+| Cozinha | 40 | Igual à pedida: 40. Sem cozinha pedida: 20. **Antes de pontuar, o motor já filtra pela cozinha pedida** |
+| Experiência | 30 | Proporcional às experiências pedidas que o restaurante tem. Sem experiência pedida: 15 |
+| Localidade | 15 | Mesmo bairro: 15. Outro bairro: 7,5. Sem bairro pedido: 15 |
+| Faixa de preço | 15 | Exata: 15. Vizinha: 5. Sem faixa pedida: 15 |
+| **Corte mínimo** | **30** | Desempate pela **nota média** |
 
-| Critério de Compatibilidade | Peso Máximo | Participação no Score | Impacto na Decisão |
+![Pesos e distribuição de experiências](figuras/fig1_distribuicao_vibes.png)
+
+### Concentração da oferta (188 restaurantes)
+
+- **Experiências** (429 marcações): Familiar 16,3% · Tranquila 15,4% · Descontraída 14,7% · Sofisticada 13,5% · Romântica 11,9% · Alegre 11,9% · Noturna 9,3% · Cafeteria 7,0%. A distribuição é **equilibrada**, sem uma experiência dominante. As quatro primeiras somam 60%.
+- **Cozinhas:** as 5 maiores (Japonesa, Italiana, Brasileira, Churrasco, Nordestina) somam 42,6%. São precisas **13 das 20** cozinhas para chegar a 80%.
+- **Faixas:** $ 45 · $$ 57 · $$$ 46 · $$$$ 40.
+
+![Pareto de cozinhas e faixas](figuras/fig2_pareto_cozinhas.png)
+
+### A nota muda com os atributos? (Kruskal-Wallis)
+
+| Fator | Grupos | p (nível avaliação) | **p (nível restaurante)** | Conclusão |
+|---|---:|---:|---:|---|
+| Experiência (vibe) | 8 | 0,53 | **0,89** | sem diferença |
+| Faixa de preço | 4 | 0,84 | **0,88** | sem diferença |
+| Cozinha | 20 | 1,0 × 10⁻⁷ | **0,30** | sem diferença |
+| Estado | 12 | 9,5 × 10⁻⁶ | **0,09** | sem diferença |
+
+As médias por experiência vão de 3,91 (Cafeteria) a 4,05 (Sofisticada). **Nenhum fator explica a nota.**
+
+No nível de avaliação, cozinha e estado pareciam significativos. Isso é **pseudorreplicação**: cada restaurante entra várias vezes, e a variação entre restaurantes vira falsa "diferença entre grupos". É coerente com a origem dos dados, porque o seed sorteia a qualidade de cada restaurante sem relação com os atributos.
+
+### Correlações (Spearman)
+
+| Par | rho | p | Leitura |
 |---|---:|---:|---|
-| Tipo de Cozinha (`cozinha`) | 40 pts | 40% | Prioridade máxima; define elegibilidade principal[cite: 71, 72] |
-| Experiência / Ambiente (`vibes`) | 30 pts | 30% | Diferencial central; sozinho atinge o corte mínimo (30 pts)[cite: 71, 72] |
-| Localidade (`cidade` / `bairro`) | 15 pts | 15% | Refinamento geográfico de conveniência[cite: 71, 72] |
-| Faixa de Preço (`faixaPreco`) | 15 pts | 15% | Adequação orçamentária ($ a $$$$)[cite: 71, 72, 142] |
-| **Score Total Máximo** | **100 pts** | **100%** | **Corte mínimo de recomendação: 30 pontos**[cite: 71, 72] |
+| Faixa × preço do prato principal | 0,72 | < 10⁻²⁹ | Faixa declarada coerente com o cardápio |
+| Faixa × preço médio do cardápio | 0,71 | < 10⁻²⁹ | Idem |
+| Faixa × experiência Sofisticada | 0,25 | 0,0005 | Associação **fraca**: 11% dos "$" e 40–46% dos "$$$/$$$$" |
+| Faixa × experiência Descontraída | −0,23 | 0,002 | Associação fraca, no sentido oposto |
+| Faixa × experiência Romântica | 0,18 | 0,01 | Associação fraca |
+| Faixa × nº de avaliações | −0,20 | 0,005 | Restaurantes caros têm um pouco menos avaliações |
+| Nota média × qualquer atributo | \|rho\| ≤ 0,14 | n.s. | Sem relação |
 
-![Pesos e Distribuição de Experiências](figuras/fig1_distribuicao_vibes.png)
+Há **coerência semântica** no cadastro, mas as associações entre faixa e experiência são **fracas** (\|rho\| ≤ 0,25), não "moderadas a fortes".
 
-### Concentração da Oferta e Desempenho por Experiência (Base: 188 Restaurantes)
+### Simulação de 500 buscas
 
-- **Concentração de experiências (Pareto):** as experiências *Descontraída*, *Familiar*, *Romântica* e *Alegre* concentram a maior parcela dos cadastros na base de demonstração, refletindo a vocação para encontros sociais e refeições em grupo.
-- **Faixas de preço predominantes:** estabelecimentos nas faixas intermediárias (`$$` — R$ 60 a R$ 120 e `$$$` — R$ 120 a R$ 200) representam o núcleo da plataforma, enquanto a faixa `$$$$` (acima de R$ 200) associa-se majoritariamente às experiências *Sofisticada* e *Romântica*[cite: 142, 143, 169].
-- **Contraste de mercado (ABRASEL, 2026):** enquanto 86% dos restaurantes brasileiros com entrega dependem de aplicativos de delivery (que geram 58% das vendas nessa modalidade)[cite: 21], a modelagem do GastroMatch estrutura 100% da descoberta em atributos de permanência no salão[cite: 26, 27].
+| Indicador | Resultado |
+|---|---|
+| Situação "normal" (cozinha encontrada na cidade) | 264 buscas (52,8%) |
+| Situação "cozinha em outra cidade" | **236 buscas (47,2%)**: o catálogo é esparso (188 restaurantes, 26 cidades, 20 cozinhas) |
+| Pontuação dos recomendados | média 74,4; mínimo 33; máximo 100 |
+| Aparições médias por nº de vibes declaradas | 1 vibe: 8,0 · 2 vibes: 11,2 · 3 vibes: 12,4 (**1,54×** entre 3 e 1) |
+| Spearman aparições × nota média | **rho = 0,50** (p ≈ 10⁻¹²) |
+| Spearman aparições × nº de vibes · × faixa | 0,21 (p = 0,003) · −0,05 (n.s.) |
+| Restaurantes nunca recomendados | 1 de 188 |
 
-![Pareto de Cozinhas e Preços](figuras/fig2_pareto_cozinhas.png)
+A cozinha decide **quem entra**. A experiência e o nº de vibes aumentam a pontuação. Mas, como muitos restaurantes empatam, a **nota média, que só serve de desempate, é o atributo mais associado à exposição**.
 
-### Correlações e Sensibilidade da Recomendação (Spearman)
+![Correlações e simulação](figuras/fig3_correlacao_sensibilidade.png)
 
-- **Faixa de Preço × Experiência Sofisticada/Romântica:** correlação positiva moderada a forte, confirmando coerência semântica nos dados cadastrados.
-- **Completude do Perfil (`qtd_vibes` e cardápio) × Taxa de Recomendação:** restaurantes que preenchem o limite de 3 experiências[cite: 32] aparecem em **2,4 vezes mais** resultados acima do corte de 30 pontos nas simulações de busca do que estabelecimentos com apenas 1 experiência cadastrada.
-- **Nota Média (`notaMedia`):** atua como critério de desempate e ordenação na vitrine principal (após o destaque administrativo, conforme RN18)[cite: 67], sem distorcer o cálculo de compatibilidade de perfil.
+### Agrupamento K-means
 
-![Correlações e Sensibilidade](figuras/fig3_correlacao_sensibilidade.png)
+| k | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|
+| Silhueta | 0,195 | 0,200 | 0,217 | **0,224** |
 
-### Agrupamento K-means dos Estabelecimentos (k = 3, silhueta = 0,482)
+Pelo critério definido, **k = 5**. Porém, todas as silhuetas estão **bem abaixo de 0,5**: não há grupos naturais bem separados. Os grupos abaixo são só uma **descrição** da base:
 
-| Grupo (Cluster) | Perfil Predominante | Características Principais |
-|---|---|---|
-| **Experiência Premium e Alta Avaliação** | Ticket médio elevado (`$$$` a `$$$$`), foco em *Sofisticada* e *Romântica*[cite: 142, 143] | Notas médias mais altas e maior detalhamento de cardápio |
-| **Casual / Cotidiano de Alto Giro** | Ticket acessível (`$` a `$$`), foco em *Descontraída*, *Familiar* e *Alegre*[cite: 142] | Maior volume de estabelecimentos e maior uso de promoções/cupons |
-| **Nicho / Especializado** | Cozinhas específicas (*Japonesa*, *Vegetariana*, *Cafeteria / Brunch*)[cite: 142] | Alta compatibilidade em buscas específicas, menor volume absoluto de avaliações |
+| Grupo | Restaurantes | Faixa média | Nota média | Avaliações | Vibes | Preço médio | Perfil |
+|---:|---:|---:|---:|---:|---:|---:|---|
+| 0 | 41 | 1,95 | 4,36 | 10,0 | 2,6 | R$ 48,86 | Acessível, bem avaliado e muito avaliado; Familiar |
+| 1 | 37 | 2,70 | 4,41 | 4,7 | 1,5 | R$ 67,74 | Bem avaliado, com poucas vibes declaradas |
+| 2 | 40 | 3,60 | 3,81 | 6,0 | 2,8 | R$ 82,95 | Caro; Sofisticada |
+| 3 | 24 | 1,54 | 3,87 | 4,6 | 3,0 | R$ 48,17 | Barato; Tranquila; perfil completo |
+| 4 | 35 | 1,86 | 3,36 | 8,0 | 1,8 | R$ 44,15 | Notas mais baixas e menos exposição (7,5 aparições) |
 
 ![Agrupamento K-means](figuras/fig4_kmeans_restaurantes.png)
 
 ## 4.4 Saídas
 
-- `dados/processados/resultado_modelagem_gastromatch.csv`: métricas derivadas, score médio simulado e cluster atribuído a cada um dos 188 restaurantes.
-- `figuras/fig1` a `fig4`: gráficos analíticos gerados para documentação.
+- `dados/processados/resultado_modelagem_gastromatch.csv`: por restaurante, as métricas derivadas, as aparições e o score médio na simulação e o cluster.
+- `dados/processados/testes_kruskal.csv` e `resumo_modelagem.json`: resultados dos testes e da simulação.
+- `figuras/fig1` a `fig4`.

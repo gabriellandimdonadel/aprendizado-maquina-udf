@@ -1,0 +1,19 @@
+{
+ "kw_vibe_p_restaurante": 0.892975902693662,
+ "silhueta": {
+  "2": 0.195,
+  "3": 0.2,
+  "4": 0.217,
+  "5": 0.224
+ },
+ "k": 5,
+ "aparicoes_por_qtd_vibes": {
+  "1": 8.03,
+  "2": 11.18,
+  "3": 12.36
+ },
+ "situacoes": {
+  "normal": 264,
+  "cozinha-em-outra-cidade": 236
+ }
+}

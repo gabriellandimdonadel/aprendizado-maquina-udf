@@ -1,0 +1,189 @@
+﻿restaurante_id,nome_restaurante,cozinha,faixa_preco,estado,cidade,bairro,destaque,qtd_vibes,vibes_lista,qtd_ocasioes,total_avaliacoes,nota_media,nota_media_recalculada,qtd_itens_menu,preco_medio_cardapio,preco_mediano_principal,cupons_resgatados,cupons_usados,taxa_conversao_cupom,vibe_romantica,vibe_alegre,vibe_tranquila,vibe_sofisticada,vibe_familiar,vibe_descontraida,vibe_noturna,vibe_cafeteria,ocasiao_aniversario,ocasiao_confraternizacao,ocasiao_dia_dos_namorados,ocasiao_dia_das_maes,ocasiao_dia_dos_pais
+06ZxJA7tejevVj7PUnjXME6Xzgq2,Temaki Mar Foz do Iguaçu,Japonesa,2,PR,Foz do Iguaçu,Centro,True,2,Sofisticada; Tranquila,2,4,4.75,4.75,5,45.0,78.5,0,0,,0,0,1,1,0,0,0,0,1,0,1,0,0
+0G7HC0EknIZmQe9igMmdDaWBAKD3,Laboratório Gastronômico,Contemporânea,3,MG,Belo Horizonte,Santa Tereza,False,2,Romântica; Sofisticada,2,3,4.3333,4.3333,4,138.75,223.75,0,0,,1,0,0,1,0,0,0,0,1,0,1,0,0
+0bofN4cvpaV1HafFDBqoQCY8N592,Rancho da Picanha Caxias do Sul,Churrasco,2,RS,Caxias do Sul,Centro,False,2,Descontraída; Familiar,4,3,5.0,5.0,3,51.33,98.0,1,0,0.0,0,0,0,0,1,1,0,0,1,1,0,1,1
+0lMIuurajnZ1WP2pqeJA6rMlufS2,Nonna Rosa,Italiana,3,SP,Campinas,Taquaral,True,1,Romântica,2,3,3.0,3.0,5,64.26,94.4,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,0
+157umf1e5jVMew6YxfP1Stz4hkq1,Cedro do Líbano Rio de Janeiro,Árabe,2,RJ,Rio de Janeiro,Botafogo,False,2,Descontraída; Noturna,1,8,4.125,4.125,5,29.6,46.5,0,0,,0,0,0,0,0,1,1,0,0,1,0,0,0
+1BgHDIiGloRQu51YFXMOQcwPYey1,Tempero Caseiro Recife,Brasileira,2,PE,Recife,Recife Antigo,False,2,Descontraída; Tranquila,1,5,4.2,4.2,3,40.33,53.5,2,1,0.5,0,0,1,0,0,1,0,0,0,1,0,0,0
+1aN3oquSisRY3p6B6oL8EByvdi82,Costa Grega,Mediterrânea,3,SC,Florianópolis,Lagoa da Conceição,False,1,Tranquila,0,0,,,4,82.5,127.5,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0
+1gfp6wtPYZSFjAKmYKgG1acXS4L2,Sabor da Roça,Brasileira,2,MG,Belo Horizonte,Savassi,False,1,Tranquila,0,8,3.0,3.0,4,37.75,55.5,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0
+3F7xVMgAGsMEnaECh8BACBGRj953,Lima Cevicheria Brasília,Peruana,4,DF,Brasília,Lago Sul,False,3,Sofisticada; Familiar; Descontraída,5,5,3.4,3.4,4,100.0,130.4,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+3pXLsI5tznTCA0OYy4KLmhYoLBl1,Pasta Fresca Curitiba,Italiana,3,PR,Curitiba,Batel,False,1,Romântica,2,5,4.8,4.8,3,82.1,94.4,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,0
+40v4VVpZr0fJ30BctjJeH4Vjn6o1,Siam Cozinha,Tailandesa,4,RJ,Rio de Janeiro,Leblon,False,2,Cafeteria; Romântica,2,12,4.5833,4.5833,4,72.8,104.0,0,0,,1,0,0,0,0,0,0,1,1,0,1,0,0
+4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Terroir,Contemporânea,4,SP,São Paulo,Vila Madalena,False,2,Sofisticada; Romântica,2,8,3.75,3.75,4,177.6,286.4,0,0,,1,0,0,1,0,0,0,0,1,0,1,0,0
+57WKZE4yOxQzLB641ud1mfWvTyH3,Inca Cozinha São Paulo,Peruana,1,SP,São Paulo,Pinheiros,False,3,Noturna; Cafeteria; Romântica,3,11,3.8182,3.8182,4,50.0,65.2,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Chez Marie Rio de Janeiro,Francesa,1,RJ,Rio de Janeiro,Copacabana,False,2,Familiar; Descontraída,4,11,4.4545,4.4545,4,57.6,85.6,4,2,0.5,0,0,0,0,1,1,0,0,1,1,0,1,1
+6yhok9y7xjNTBkGsOdDhwB11XrB3,Raízes do Sertão,Nordestina,1,PE,Recife,Boa Viagem,False,3,Familiar; Alegre; Descontraída,4,11,3.1818,3.1818,5,44.16,57.6,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+79yzHCYiNcgy6TdQyk7fFdyOmVK2,Costa Grega São Paulo,Mediterrânea,1,SP,São Paulo,Vila Madalena,False,3,Noturna; Cafeteria; Romântica,3,6,4.5,4.5,4,52.8,81.6,4,2,0.5,1,0,0,0,0,0,1,1,1,1,1,0,0
+7IxZabB2CrafJl0QnladUOoVYzn2,Galpão Crioulo,Churrasco,4,RS,Gramado,Centro,True,1,Descontraída,1,8,4.375,4.375,4,69.2,156.8,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Sertão Nordestino,Nordestina,1,BA,Porto Seguro,Centro,False,1,Familiar,3,10,4.5,4.5,4,40.8,61.6,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+8pEU53NVlJN8z7ltxvD1iwHFCQE3,Taj Mahal Goiânia,Indiana,2,GO,Goiânia,Setor Bueno,False,3,Tranquila; Sofisticada; Familiar,5,9,4.1111,4.1111,4,47.5,71.0,0,0,,0,0,1,1,1,0,0,0,1,1,1,1,1
+8tWn6Pn5dGYwt2NJaVSoZVKfO872,Tequila Bar,Mexicana,4,RJ,Rio de Janeiro,Ipanema,False,2,Sofisticada; Familiar,4,5,3.8,3.8,4,54.0,65.6,0,0,,0,0,0,1,1,0,0,0,1,0,1,1,1
+9RHuHDlnxwTOtcLx3V0akyT7Mny2,Santorini Rio de Janeiro,Mediterrânea,2,RJ,Rio de Janeiro,Botafogo,False,2,Alegre; Tranquila,2,9,3.3333,3.3333,4,66.0,102.0,0,0,,0,1,1,0,0,0,0,0,1,1,0,0,0
+9WadS2rnzlSpmQbbL7PznPicXzB3,Tempero Caseiro Rio de Janeiro,Brasileira,3,RJ,Rio de Janeiro,Copacabana,False,2,Tranquila; Sofisticada,2,6,4.6667,4.6667,5,49.76,65.0,0,0,,0,0,1,1,0,0,0,0,1,0,1,0,0
+9q4UJFpoOKRDH4ivVduXbRJgScI3,Nihon Bar Goiânia,Japonesa,1,GO,Goiânia,Setor Oeste,False,3,Alegre; Tranquila; Sofisticada,3,10,4.8,4.8,5,36.0,62.8,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+9rnBhKZJXYWGNi8o6alCqDVImCg1,Il Forno,Italiana,2,SP,São Paulo,Pinheiros,False,3,Sofisticada; Romântica; Familiar,4,7,4.5714,4.5714,3,52.0,82.0,0,0,,1,0,0,1,1,0,0,0,1,0,1,1,1
+A1XrUkVEyCQL5RKBZNdutMOxTth2,Margherita & Co Porto Alegre,Pizzaria,2,RS,Porto Alegre,Menino Deus,False,3,Familiar; Alegre; Descontraída,4,5,4.4,4.4,4,50.25,65.0,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Wok Express,Chinesa,3,DF,Brasília,Sudoeste,False,3,Tranquila; Sofisticada; Familiar,4,8,4.25,4.25,4,41.88,62.5,0,0,,0,0,1,1,1,0,0,0,1,0,1,1,1
+AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2,Azeite & Sal,Mediterrânea,3,RJ,Rio de Janeiro,Leblon,False,1,Romântica,2,5,4.0,4.0,3,94.17,127.5,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,0
+AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Trattoria Bella Brasília,Italiana,3,DF,Brasília,Águas Claras,False,3,Tranquila; Sofisticada; Familiar,4,6,3.5,3.5,5,64.26,94.4,0,0,,0,0,1,1,1,0,0,0,1,0,1,1,1
+AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Brasa Viva,Churrasco,4,RS,Porto Alegre,Moinhos de Vento,False,2,Familiar; Alegre,4,9,2.7778,2.7778,4,69.2,156.8,0,0,,0,1,0,0,1,0,0,0,1,1,0,1,1
+AkIMz30FZyfwqbDG20BoeBZbaN33,Yume Izakaya Jericoacoara,Japonesa,2,CE,Jericoacoara,Vila,True,3,Tranquila; Sofisticada; Noturna,3,7,4.5714,4.5714,4,51.75,78.5,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+B34rBopYe1cGLWXCq8ODQfpBdrJ3,Yume Izakaya Petrópolis,Japonesa,4,RJ,Petrópolis,Centro,True,1,Tranquila,0,8,3.5,3.5,3,36.27,,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0
+BqFJSA7w9ORFSlIbuHrnao68Bu63,Torra Fina,Cafeteria,1,PR,Foz do Iguaçu,Centro,False,1,Cafeteria,0,11,3.0909,3.0909,3,26.67,34.4,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bwv6TSaEmRez5QK4l6YwqILDxYO2,Pão & Blend,Hamburgueria,1,RS,Porto Alegre,Cidade Baixa,False,3,Alegre; Noturna; Descontraída,2,9,4.2222,4.2222,4,26.2,34.0,0,0,,0,1,0,0,0,1,1,0,1,1,0,0,0
+C2czLDMvCdeQRf37rX6ngGPojY03,Lima Cevicheria Goiânia,Peruana,3,GO,Goiânia,Setor Bueno,False,3,Sofisticada; Familiar; Descontraída,5,9,3.6667,3.6667,4,78.15,101.9,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+C48YT7zdCdTPBJSECYAqafAoDjA3,Casa do Baião Fortaleza,Nordestina,2,CE,Fortaleza,Meireles,True,1,Alegre,2,7,4.1429,4.1429,5,55.2,72.0,0,0,,0,1,0,0,0,0,0,0,1,1,0,0,0
+CIz2GBP1CictltIzbKAJMXmkzfs2,Semente,Vegetariana,4,GO,Goiânia,Setor Marista,False,3,Romântica; Alegre; Tranquila,3,10,3.8,3.8,4,56.0,78.4,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Wok Express Rio de Janeiro,Chinesa,1,RJ,Rio de Janeiro,Botafogo,False,2,Romântica; Alegre,3,10,3.4,3.4,4,26.8,40.0,0,0,,1,1,0,0,0,0,0,0,1,1,1,0,0
+CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria do Largo Goiânia,Pizzaria,3,GO,Goiânia,Setor Oeste,False,3,Sofisticada; Familiar; Descontraída,5,4,3.75,3.75,4,62.82,81.25,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+CTOYedpbh6NWsfI7aQXGbqX7VDO2,Raiz Verde,Vegetariana,2,SP,São Paulo,Liberdade,False,3,Sofisticada; Familiar; Descontraída,5,8,4.375,4.375,4,35.0,49.0,4,2,0.5,0,0,0,1,1,1,0,0,1,1,1,1,1
+CiISKiidJ7XEqmSXDvNTIKW5wD22,Peixe na Telha Brasília,Frutos do Mar,3,DF,Brasília,Asa Sul,False,3,Noturna; Cafeteria; Romântica,3,12,3.25,3.25,5,83.52,143.75,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Rancho da Picanha Goiânia,Churrasco,4,GO,Goiânia,Setor Bueno,False,3,Romântica; Alegre; Tranquila,3,3,4.0,4.0,5,83.84,149.6,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+DUXTXRktFkZCfEuURTbkKc8dYra2,Ateliê Gastronômico,Contemporânea,4,GO,Goiânia,Setor Marista,False,1,Sofisticada,1,5,4.4,4.4,3,123.67,290.0,0,0,,0,0,0,1,0,0,0,0,1,0,0,0,0
+EIfASN2ilsbVlMDMQC4J5cFPJcm2,Café com Prosa,Cafeteria,1,MG,Ouro Preto,Centro,False,2,Tranquila; Cafeteria,0,0,,,3,26.67,34.4,0,0,,0,0,1,0,0,0,0,1,0,0,0,0,0
+Em2HzAu02QX9PmWuNhIumgV09bg2,Trattoria Bella,Italiana,3,DF,Brasília,Sudoeste,False,1,Romântica,2,3,4.3333,4.3333,5,64.26,94.4,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,0
+F8BCC6MCCNTlItaWfG5LjqFXr4i2,Cheiro de Terra Fortaleza,Nordestina,2,CE,Fortaleza,Praia de Iracema,False,3,Familiar; Descontraída; Alegre,4,7,3.5714,3.5714,4,62.0,72.0,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+F9RPyWTceUeQq8dAA5ESRCwrS513,Temaki Mar,Japonesa,3,GO,Goiânia,Setor Oeste,False,2,Tranquila; Noturna,1,0,,,4,33.12,47.5,0,0,,0,0,1,0,0,0,1,0,0,1,0,0,0
+FGPrnL031AcCXXH6HoIu5GzDfV82,Casa Xangai,Chinesa,4,SP,São Paulo,Pinheiros,False,3,Descontraída; Noturna; Cafeteria,1,12,4.75,4.75,4,53.6,80.0,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0
+FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Coado & Cia,Cafeteria,1,MG,Tiradentes,Centro,True,2,Tranquila; Cafeteria,0,7,3.8571,3.8571,4,22.4,34.4,2,1,0.5,0,0,1,0,0,0,0,1,0,0,0,0,0
+FpGRRGRE8mSlEL7FmYSUVWLLOtu1,Forno a Lenha Santos,Pizzaria,2,SP,Santos,Ponta da Praia,True,1,Descontraída,1,10,4.7,4.7,3,46.33,68.0,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Kaze Sushi Brasília,Japonesa,2,DF,Brasília,Lago Sul,False,3,Alegre; Tranquila; Sofisticada,3,4,3.75,3.75,5,45.0,78.5,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Damasco Goiânia,Árabe,3,GO,Goiânia,Setor Oeste,False,3,Cafeteria; Romântica; Alegre,3,5,3.2,3.2,5,37.02,58.15,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+HIznVkf8qFhtVPGeC08Fk1qDMwv2,Brasa Burger São Paulo,Hamburgueria,3,SP,São Paulo,Moema,False,3,Familiar; Descontraída; Noturna,4,0,,,4,40.95,53.15,3,1,0.3333,0,0,0,0,1,1,1,0,1,1,0,1,1
+I03VQkhV0fQb3l3joo86ZEORA5t1,Burger Garage Rio de Janeiro,Hamburgueria,4,RJ,Rio de Janeiro,Ipanema,False,2,Cafeteria; Romântica,3,6,4.0,4.0,4,52.4,68.0,0,0,,1,0,0,0,0,0,0,1,1,1,1,0,0
+IKRBzXrE5JcnoPIJrAwfCDQX29C2,Mandacaru Rio de Janeiro,Nordestina,4,RJ,Rio de Janeiro,Botafogo,False,2,Sofisticada; Familiar,4,3,3.0,3.0,5,88.32,115.2,0,0,,0,0,0,1,1,0,0,0,1,0,1,1,1
+Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizza Nostra São Paulo,Pizzaria,1,SP,São Paulo,Jardins,False,3,Noturna; Cafeteria; Romântica,3,11,4.0,4.0,4,40.2,52.0,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Barco Azul Florianópolis,Frutos do Mar,2,SC,Florianópolis,Lagoa da Conceição,False,1,Romântica,2,7,3.4286,3.4286,5,66.8,115.0,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,0
+JdBmWMoHA7TajiROqq5NbXidfEz2,Sushi Kyoto Manaus,Japonesa,2,AM,Manaus,Adrianópolis,False,3,Tranquila; Noturna; Sofisticada,3,6,3.3333,3.3333,5,45.0,78.5,1,0,0.0,0,0,1,1,0,0,1,0,1,1,1,0,0
+K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Petit Paris Goiânia,Francesa,2,GO,Goiânia,Setor Marista,False,3,Noturna; Cafeteria; Romântica,3,5,4.0,4.0,4,72.0,107.0,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+KFOqmkV5yiP4zPxrXzKtWdhSOdp2,Beirute Grill,Árabe,1,SP,Campinas,Cambuí,False,1,Descontraída,1,8,4.25,4.25,3,32.27,37.2,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+KVXtiyttKkdi7tY2PyKf9FD9ndr1,Cedro do Líbano,Árabe,1,PR,Curitiba,Centro,True,1,Descontraída,1,11,4.4545,4.4545,5,23.68,37.2,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Damasco,Árabe,2,SP,Campinas,Taquaral,False,2,Descontraída; Familiar,4,12,3.4167,3.4167,3,25.33,39.0,0,0,,0,0,0,0,1,1,0,0,1,1,0,1,1
+KgGezBSEozRmj2BfsZYjtiM1vC42,Brasa Burger,Hamburgueria,1,GO,Goiânia,Setor Marista,False,3,Alegre; Descontraída; Noturna,2,6,3.8333,3.8333,3,24.53,36.8,0,0,,0,1,0,0,0,1,1,0,1,1,0,0,0
+KrLtaEHugyP1syd03MdzvG1NvQX2,Barco Azul Olinda,Frutos do Mar,2,PE,Olinda,Carmo,True,2,Familiar; Romântica,4,7,3.7143,3.7143,5,66.8,115.0,0,0,,1,0,0,0,1,0,0,0,1,0,1,1,1
+L2QBYkeNHhdNgmYhabcdXTb9qgt2,Sabor do Cerrado,Brasileira,2,GO,Goiânia,Setor Bueno,False,2,Familiar; Descontraída,3,7,4.2857,4.2857,3,27.33,52.0,0,0,,0,0,0,0,1,1,0,0,0,1,0,1,1
+Lww6TGtyz2W6wljeuwE6xyW96M93,Chama Campeira,Churrasco,2,RS,Porto Alegre,Cidade Baixa,False,1,Familiar,3,4,4.25,4.25,5,52.4,93.5,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+MECGMju79aWRNUFOKOLhfHYXRXZ2,Sushi Kyoto Recife,Japonesa,4,PE,Recife,Boa Viagem,False,3,Noturna; Tranquila; Sofisticada,3,5,4.6,4.6,5,72.0,125.6,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mar & Oliva,Mediterrânea,3,DF,Brasília,Lago Sul,False,2,Tranquila; Romântica,2,4,4.25,4.25,3,59.33,118.0,0,0,,1,0,1,0,0,0,0,0,1,0,1,0,0
+N6yRH6gVlzgiY57MWYKRYwHcJAa2,Dragão Dourado,Chinesa,1,SP,São Paulo,Liberdade,False,2,Familiar; Descontraída,4,9,4.4444,4.4444,3,21.87,38.4,0,0,,0,0,0,0,1,1,0,0,1,1,0,1,1
+NFfkT1ovyLNo7PD1flkbZr6ASdi2,Pasta Fresca Rio de Janeiro,Italiana,1,RJ,Rio de Janeiro,Ipanema,False,2,Romântica; Alegre,3,3,4.6667,4.6667,5,41.12,60.4,0,0,,1,1,0,0,0,0,0,0,1,1,1,0,0
+NfeMsFbGlHRn7YHMDJO7omB38J12,Inca Cozinha,Peruana,4,BA,Salvador,Rio Vermelho,False,2,Sofisticada; Alegre,3,2,5.0,5.0,4,100.0,130.4,0,0,,0,1,0,1,0,0,0,0,1,1,1,0,0
+NlFh0BSXGWUIqt7KEWNA3WPLgj83,Costela & Cia São Paulo,Churrasco,2,SP,São Paulo,Pinheiros,False,3,Sofisticada; Familiar; Descontraída,5,6,3.6667,3.6667,5,52.4,93.5,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+OH0CG2JgGmh73B1X192bsPgwquo2,Fogão de Minas,Brasileira,2,RJ,Rio de Janeiro,Copacabana,False,1,Descontraída,1,5,4.6,4.6,3,41.67,55.5,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+OYbKt8tGDNSDI6n1CObC3qqTPPt1,Cais do Porto São Paulo,Frutos do Mar,4,SP,São Paulo,Moema,False,3,Alegre; Tranquila; Sofisticada,3,6,4.6667,4.6667,5,106.88,184.0,1,0,0.0,0,1,1,1,0,0,0,0,1,1,1,0,0
+OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Prana,Vegetariana,3,RJ,Rio de Janeiro,Leblon,False,2,Noturna; Cafeteria,1,0,,,4,43.75,61.25,1,0,0.0,0,0,0,0,0,0,1,1,0,1,0,0,0
+P1i49Id2LBPx7GDsnIQZZeGNPN03,Nonna Rosa São Paulo,Italiana,4,SP,São Paulo,Moema,False,3,Descontraída; Noturna; Cafeteria,1,4,3.5,3.5,5,82.24,120.8,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0
+PJgxzV092ogswAe8Y37KgLkVE5U2,Burger Garage,Hamburgueria,2,DF,Brasília,Lago Sul,False,3,Alegre; Tranquila; Sofisticada,3,0,,,4,32.75,42.5,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+PUrJAUFx83XylGAOyJF3TNppCGh1,Grão Nobre Café,Cafeteria,1,PR,Curitiba,Santa Felicidade,False,1,Tranquila,0,3,3.3333,3.3333,3,16.0,27.2,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0
+Q4SKKMuaVgemq8sGHhaMn4DkOJr1,Nihon Bar,Japonesa,4,GO,Goiânia,Setor Marista,False,1,Tranquila,0,4,3.75,3.75,3,93.33,125.6,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0
+Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Masala House,Indiana,4,SP,São Paulo,Jardins,False,3,Descontraída; Noturna; Cafeteria,2,3,3.6667,3.6667,4,76.0,113.6,0,0,,0,0,0,0,0,1,1,1,1,1,0,0,0
+QKIC43UnbfRDQPRz2j0NiXBjGWR2,Pisco & Mar,Peruana,4,SP,São Paulo,Moema,True,1,Alegre,2,0,,,3,85.87,118.4,0,0,,0,1,0,0,0,0,0,0,1,1,0,0,0
+QoEEVYsvulgt1YtKGSPCajusOfx2,Rede de Pesca,Frutos do Mar,2,RJ,Niterói,Icaraí,True,2,Familiar; Tranquila,3,2,3.5,3.5,4,78.25,115.0,0,0,,0,0,1,0,1,0,0,0,1,0,0,1,1
+RP6XlReFilNed4DG7PKryqbDat32,Azeite & Sal Goiânia,Mediterrânea,3,GO,Goiânia,Setor Marista,False,3,Sofisticada; Familiar; Descontraída,5,8,3.75,3.75,4,82.5,127.5,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+RQvSpduGNuh4UL1JE10ik5ApQRy2,Sertão Nordestino Brasília,Nordestina,2,DF,Brasília,Sudoeste,False,3,Descontraída; Noturna; Cafeteria,1,10,3.1,3.1,5,55.2,72.0,4,2,0.5,0,0,0,0,0,1,1,1,0,1,0,0,0
+RioFA3OAIWUBCJSIXdPr7NXpvyW2,Sahtein São Paulo,Árabe,1,SP,São Paulo,Moema,False,3,Tranquila; Sofisticada; Familiar,4,6,4.0,4.0,5,23.68,37.2,0,0,,0,0,1,1,1,0,0,0,1,0,1,1,1
+RpeGiZLiPLdDTDUycoS74r46idm2,Casa do Baião,Nordestina,1,PE,Olinda,Carmo,False,2,Descontraída; Alegre,2,7,3.5714,3.5714,4,40.8,61.6,0,0,,0,1,0,0,0,1,0,0,1,1,0,0,0
+SQ0Z89rPr5OFi1uazaKhmdTARBW2,Taquería Sol,Mexicana,1,DF,Brasília,Asa Norte,False,2,Alegre; Noturna,2,8,3.75,3.75,3,28.67,36.0,0,0,,0,1,0,0,0,0,1,0,1,1,0,0,0
+SXMYgfnuTANeCb7fSHWLQAodv5j2,Estação Autoral,Contemporânea,4,DF,Brasília,Sudoeste,False,3,Cafeteria; Romântica; Alegre,3,5,4.8,4.8,4,177.6,286.4,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+SZFjIdL2MLRuDWYssldu0Q0xkPA3,Costela & Cia,Churrasco,4,MG,Belo Horizonte,Santa Tereza,True,1,Alegre,2,9,4.1111,4.1111,5,83.84,149.6,0,0,,0,1,0,0,0,0,0,0,1,1,0,0,0
+SktLA5vrJ8M3rsbHgeTuSfznB9i1,Casa do Porto Rio de Janeiro,Portuguesa,3,RJ,Rio de Janeiro,Botafogo,False,2,Tranquila; Sofisticada,3,5,4.0,4.0,4,106.28,180.05,0,0,,0,0,1,1,0,0,0,0,1,1,1,0,0
+TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Temaki Mar Fortaleza,Japonesa,3,CE,Fortaleza,Aldeota,False,3,Tranquila; Sofisticada; Noturna,3,9,4.5556,4.5556,5,56.26,98.15,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Laboratório Gastronômico Rio de Janeiro,Contemporânea,2,RJ,Rio de Janeiro,Ipanema,False,2,Descontraída; Noturna,2,2,4.5,4.5,4,111.0,179.0,0,0,,0,0,0,0,0,1,1,0,1,1,0,0,0
+TsyuzyhJaIfai0D06aOH68bSPG62,Brasa & Lenha,Churrasco,3,DF,Brasília,Águas Claras,True,2,Romântica; Sofisticada,3,14,4.5714,4.5714,3,67.97,129.9,6,3,0.5,1,0,0,1,0,0,0,0,1,0,1,0,1
+U3AwLR0e6Gccq2seb0Wo59hNm2w2,El Mariachi,Mexicana,3,SP,São Paulo,Vila Madalena,False,3,Romântica; Alegre; Tranquila,3,10,4.3,4.3,4,42.2,51.25,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+U4MKMbOrkSZNc9DPW8AYDXTLsAp2,Lata Burger,Hamburgueria,1,CE,Fortaleza,Aldeota,False,1,Descontraída,1,3,3.6667,3.6667,3,28.53,34.0,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+UoWXDaqf92XH2HUPQFLhQYMNy6U2,Casa Xangai Goiânia,Chinesa,2,GO,Goiânia,Setor Oeste,False,3,Tranquila; Sofisticada; Familiar,4,11,4.6364,4.6364,4,33.5,50.0,0,0,,0,0,1,1,1,0,0,0,1,0,1,1,1
+UtamE2BbhvNb71WcQG1UmT0rfmO2,Pasta Fresca Belo Horizonte,Italiana,3,MG,Belo Horizonte,Santa Tereza,False,3,Familiar; Sofisticada; Romântica,4,7,3.2857,3.2857,4,71.58,94.4,0,0,,1,0,0,1,1,0,0,0,1,0,1,1,1
+W0mxUZwWDPWhr67kNyV4HgQXr9A2,Kaze Sushi,Japonesa,4,DF,Brasília,Asa Sul,False,3,Sofisticada; Tranquila; Noturna,3,8,4.0,4.0,4,79.6,125.6,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+WoKU9i0yNvUwuWOBQFGtlmtIinf1,Thai Garden,Tailandesa,3,SP,São Paulo,Moema,False,3,Familiar; Descontraída; Noturna,4,3,3.6667,3.6667,4,56.88,81.25,0,0,,0,0,0,0,1,1,1,0,1,1,0,1,1
+XQmyR1jL5jW33Ohw8J019n9cSxD2,Temaki Mar Rio de Janeiro,Japonesa,4,RJ,Rio de Janeiro,Santa Teresa,False,2,Cafeteria; Romântica,2,11,3.7273,3.7273,5,72.0,125.6,0,0,,1,0,0,0,0,0,0,1,1,0,1,0,0
+Y8MFGhqpu2e89JG1edx0Tr1ClP82,Margherita & Co Rio de Janeiro,Pizzaria,2,RJ,Rio de Janeiro,Ipanema,False,2,Alegre; Tranquila,2,2,4.0,4.0,4,50.25,65.0,0,0,,0,1,1,0,0,0,0,0,1,1,0,0,0
+Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Torra Fina Rio de Janeiro,Cafeteria,3,RJ,Rio de Janeiro,Ipanema,False,2,Noturna; Cafeteria,1,3,3.3333,3.3333,4,35.0,53.75,0,0,,0,0,0,0,0,0,1,1,0,1,0,0,0
+YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Izakaya Noite,Japonesa,2,DF,Brasília,Asa Norte,False,3,Alegre; Noturna; Descontraída,2,4,3.75,3.75,3,54.0,66.5,0,0,,0,1,0,0,0,1,1,0,1,1,0,0,0
+YPd70fq5IoXUaaEy30A1Z4wJmh23,Forno a Lenha,Pizzaria,1,SP,Santos,Ponta da Praia,False,3,Descontraída; Familiar; Alegre,4,2,4.5,4.5,4,40.2,52.0,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+YkE1pPPhrPTBXWULtsxe2sWOOqB2,Quintal Mineiro Porto Seguro,Brasileira,1,BA,Porto Seguro,Centro,False,2,Descontraída; Tranquila,1,12,3.0833,3.0833,3,36.53,44.4,0,0,,0,0,1,0,0,1,0,0,0,1,0,0,0
+Yr2fN2DMrneMduzfoCDUk8s9tSu2,Sakura Zen,Japonesa,3,DF,Brasília,Asa Sul,True,2,Tranquila; Sofisticada,1,10,4.7,4.7,3,64.0,149.0,3,1,0.3333,0,0,1,1,0,0,0,0,0,0,1,0,0
+YxAhhrGKSiaYz0UcaxiQrWuedYV2,Casa da Vó,Brasileira,1,GO,Goiânia,Setor Bueno,False,3,Familiar; Descontraída; Tranquila,4,4,4.0,4.0,4,34.6,41.6,0,0,,0,0,1,0,1,1,0,0,1,1,0,1,1
+Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Ostra & Mar,Frutos do Mar,4,BA,Salvador,Pelourinho,False,1,Familiar,3,2,4.5,4.5,5,106.88,184.0,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Tempero Caseiro,Brasileira,1,MG,Ouro Preto,Centro,False,3,Familiar; Descontraída; Tranquila,4,11,3.0909,3.0909,4,34.6,41.6,0,0,,0,0,1,0,1,1,0,0,1,1,0,1,1
+aL2HXsGiQyfmHldz1XzQCjSjZXB2,Osteria del Ponte Gramado,Italiana,3,RS,Gramado,Centro,False,3,Romântica; Sofisticada; Familiar,4,10,4.1,4.1,3,61.27,86.3,0,0,,1,0,0,1,1,0,0,0,1,0,1,1,1
+aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Grão Nobre Café Brasília,Cafeteria,1,DF,Brasília,Lago Sul,False,3,Romântica; Alegre; Tranquila,3,10,4.2,4.2,4,22.4,34.4,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Santorini,Mediterrânea,3,SC,Florianópolis,Lagoa da Conceição,False,2,Tranquila; Romântica,2,9,4.3333,4.3333,4,82.5,127.5,0,0,,1,0,1,0,0,0,0,0,1,0,1,0,0
+b0zf6tsrgFgETNXlwpAENa0XVpF2,Panela de Barro Tiradentes,Brasileira,1,MG,Tiradentes,Centro,False,2,Tranquila; Familiar,3,6,3.3333,3.3333,3,30.4,40.0,0,0,,0,0,1,0,1,0,0,0,1,0,0,1,1
+b5pQ5inZtMU1bEXS8ljS7evtFI03,Bangkok Street,Tailandesa,2,DF,Brasília,Águas Claras,False,3,Alegre; Tranquila; Sofisticada,3,7,3.4286,3.4286,4,45.5,65.0,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrascaria Alegria,Churrasco,2,GO,Goiânia,Setor Bueno,True,2,Alegre; Familiar,3,4,4.0,4.0,3,41.3,89.9,0,0,,0,1,0,0,1,0,0,0,1,1,0,1,0
+c52QjljOAEPwO8J9e2gFNrjXueO2,Sushi Kyoto,Japonesa,4,RJ,Rio de Janeiro,Copacabana,False,3,Tranquila; Noturna; Sofisticada,3,6,4.6667,4.6667,5,72.0,125.6,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+cE9SgK78TdRVIyHIbJUzeixdCi12,Sahtein,Árabe,1,DF,Brasília,Lago Sul,False,1,Familiar,3,3,4.6667,4.6667,3,32.27,37.2,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+crX2pHRX3gYufKL9aQXCv9oLdB12,Fogão de Minas Brasília,Brasileira,1,DF,Brasília,Asa Sul,False,3,Familiar; Descontraída; Noturna,4,8,3.5,3.5,5,31.84,41.6,0,0,,0,0,0,0,1,1,1,0,1,1,0,1,1
+cxiMXBYx7tXueUyMVY8bUWw7uSg1,Barco Azul Goiânia,Frutos do Mar,2,GO,Goiânia,Setor Oeste,False,3,Noturna; Cafeteria; Romântica,3,2,5.0,5.0,5,66.8,115.0,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+dzPYpzvcw2TmGY4M85LfMvCXa1K2,Fogo de Chão Gaúcho Brasília,Churrasco,1,DF,Brasília,Águas Claras,False,3,Romântica; Alegre; Tranquila,3,11,4.2727,4.2727,5,41.92,74.8,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+eKkCZG47QHfXXnyIvFuAb20PxVG2,Pão & Blend Goiânia,Hamburgueria,1,GO,Goiânia,Setor Bueno,False,3,Alegre; Tranquila; Sofisticada,3,10,3.7,3.7,4,26.2,34.0,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+f8tZBApEGIYLeEJBHr6c0VkuVCK2,Bangkok Street Goiânia,Tailandesa,1,GO,Goiânia,Setor Bueno,False,3,Alegre; Tranquila; Sofisticada,3,6,3.6667,3.6667,4,36.4,52.0,0,0,,0,1,1,1,0,0,0,0,1,1,1,0,0
+fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Cantina da Praça,Italiana,2,GO,Goiânia,Setor Marista,False,2,Familiar; Descontraída,3,10,4.1,4.1,3,48.0,61.0,2,1,0.5,0,0,0,0,1,1,0,0,1,0,0,1,1
+fJr26eaG1lQhlRyFtKqw3765SUn2,Coado & Cia Goiânia,Cafeteria,4,GO,Goiânia,Setor Oeste,False,3,Romântica; Alegre; Tranquila,3,3,4.0,4.0,4,44.8,68.8,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+fk2VQU16hCXhFiH5vylznSr8vs82,Mandacaru,Nordestina,2,PE,Recife,Casa Forte,False,1,Descontraída,1,3,3.3333,3.3333,5,55.2,72.0,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Pisco & Mar Rio de Janeiro,Peruana,2,RJ,Rio de Janeiro,Santa Teresa,False,2,Alegre; Tranquila,2,8,3.375,3.375,4,62.5,81.5,0,0,,0,1,1,0,0,0,0,0,1,1,0,0,0
+gYSp4zdKXZd22HExgcXvukegiMF2,Café com Prosa São Paulo,Cafeteria,2,SP,São Paulo,Liberdade,False,3,Sofisticada; Familiar; Descontraída,5,10,3.9,3.9,4,28.0,43.0,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+ghSGrTq3sISsfkD2VoMGpIS3QN62,Grão & Folha,Vegetariana,2,DF,Brasília,Sudoeste,False,2,Descontraída; Tranquila,1,10,3.8,3.8,4,35.0,49.0,0,0,,0,0,1,0,0,1,0,0,0,1,0,0,0
+gsT7chP54zMOvxcRyrqldayGwP13,Fogo de Chão Gaúcho,Churrasco,3,GO,Pirenópolis,Centro Histórico,False,2,Familiar; Alegre,4,8,4.375,4.375,5,65.52,116.9,4,2,0.5,0,1,0,0,1,0,0,0,1,1,0,1,1
+hKwH7q9JL8co5ucPidEhL3Vyr3t1,Forno a Lenha Brasília,Pizzaria,4,DF,Brasília,Asa Norte,False,3,Sofisticada; Familiar; Descontraída,5,2,4.0,4.0,4,80.4,104.0,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+hxw0qBeNpHP3jO9oeXIj6vpXTh23,Namastê Cozinha,Indiana,1,RJ,Rio de Janeiro,Leblon,False,2,Romântica; Alegre,3,11,4.6364,4.6364,4,38.0,56.8,0,0,,1,1,0,0,0,0,0,0,1,1,1,0,0
+i7aKXDQI68XYmPHUUZSJrqF24rs1,Panela de Barro Manaus,Brasileira,2,AM,Manaus,Adrianópolis,True,2,Tranquila; Descontraída,1,5,3.2,3.2,3,29.33,48.0,0,0,,0,0,1,0,0,1,0,0,0,1,0,0,0
+iH610GY48MSdGiwjZ26e3nlqPk63,Le Jardin,Francesa,4,SP,São Paulo,Moema,False,3,Alegre; Tranquila; Sofisticada,3,0,,,4,115.2,171.2,3,1,0.3333,0,1,1,1,0,0,0,0,1,1,1,0,0
+iUXfBDMKKmeruJoF5D7gA1kOsdy1,Hanami São Paulo,Japonesa,3,SP,São Paulo,Pinheiros,False,3,Familiar; Descontraída; Noturna,4,5,4.4,4.4,5,56.26,98.15,0,0,,0,0,0,0,1,1,1,0,1,1,0,1,1
+icqw9v4kgNNzDEcijuclV3kVF9l1,Cheiro de Terra Goiânia,Nordestina,1,GO,Goiânia,Setor Bueno,False,3,Descontraída; Noturna; Cafeteria,1,8,3.5,3.5,5,44.16,57.6,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0
+j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Panela de Barro,Brasileira,1,MG,Belo Horizonte,Savassi,False,1,Familiar,3,10,3.9,3.9,4,29.4,42.8,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+jJ5XpykrH0MLbnOKWV3vqgBpABU2,Hanami,Japonesa,2,RJ,Rio de Janeiro,Ipanema,False,3,Sofisticada; Tranquila; Noturna,3,0,,,4,26.5,38.0,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0
+jPbGuBWN22eKTDR0OdbrRM1szEJ2,Osteria del Ponte Florianópolis,Italiana,2,SC,Florianópolis,Jurerê,False,2,Familiar; Sofisticada,4,6,3.6667,3.6667,3,59.67,75.5,0,0,,0,0,0,1,1,0,0,0,1,0,1,1,1
+jSfWBoQmYIM49whWStLPWgM5fgw2,Margherita & Co,Pizzaria,1,GO,Anápolis,Centro,False,2,Alegre; Descontraída,2,8,4.5,4.5,4,40.2,52.0,0,0,,0,1,0,0,0,1,0,0,1,1,0,0,0
+k02fVSybQPMjo39wyRodH8vvG7z2,Tasca Lusitana Goiânia,Portuguesa,4,GO,Goiânia,Setor Marista,False,3,Familiar; Descontraída; Noturna,4,6,3.8333,3.8333,4,136.0,230.4,0,0,,0,0,0,0,1,1,1,0,1,1,0,1,1
+l4CpZCM2tGSyonKKGyYeHLiT8M52,Jardim de Pequim,Chinesa,2,SP,São Paulo,Moema,False,2,Familiar; Descontraída,4,5,3.0,3.0,3,28.67,52.0,0,0,,0,0,0,0,1,1,0,0,1,1,0,1,1
+losH7rYMciPER9eWeSbGTJYdAw72,Osteria del Ponte,Italiana,2,SP,São Paulo,Liberdade,True,1,Familiar,3,3,4.6667,4.6667,3,47.67,69.0,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+m49RAhyipMUp1uSTKIJL3L5wl6g2,Terroir Goiânia,Contemporânea,3,GO,Goiânia,Setor Marista,False,3,Cafeteria; Romântica; Alegre,3,6,4.0,4.0,4,138.75,223.75,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+m4Vd4ONXrXMA41E1gQv8ySYATqA2,Panela de Barro Goiânia,Brasileira,4,GO,Goiânia,Setor Marista,False,3,Familiar; Descontraída; Noturna,4,3,4.0,4.0,5,63.68,83.2,0,0,,0,0,0,0,1,1,1,0,1,1,0,1,1
+mQ67YAEHpQOaT5wSng9bGKTNuc73,Peixe na Telha,Frutos do Mar,4,BA,Salvador,Barra,True,2,Romântica; Tranquila,2,0,,,3,110.93,220.8,1,0,0.0,1,0,1,0,0,0,0,0,1,0,1,0,0
+mRlxKNrVLbQEQHaM3daLZxp85yl1,Casa do Baião Jericoacoara,Nordestina,1,CE,Jericoacoara,Vila,False,1,Descontraída,1,10,4.0,4.0,3,38.93,76.8,3,1,0.3333,0,0,0,0,0,1,0,0,0,1,0,0,0
+mplleegbwlVUqVFj76T42sEVHvq1,Casa do Porto,Portuguesa,3,RJ,Rio de Janeiro,Botafogo,False,2,Romântica; Sofisticada,2,3,3.3333,3.3333,3,125.87,180.05,0,0,,1,0,0,1,0,0,0,0,1,0,1,0,0
+mvrFia69mggQmaa8ZZWGOG6dwfv2,Pasta Fresca,Italiana,4,DF,Brasília,Águas Claras,False,1,Familiar,3,5,3.4,3.4,5,82.24,120.8,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+n2ASm5fB9yfQd2PWDPf9qhaf66s2,Il Forno Gramado,Italiana,3,RS,Gramado,Centro,False,2,Sofisticada; Romântica,2,12,3.1667,3.1667,3,82.1,94.4,0,0,,1,0,0,1,0,0,0,0,1,0,1,0,0
+n3QS9ybwgNYzg1SwebNDAuYgZnr1,Brasa Viva Rio de Janeiro,Churrasco,3,RJ,Rio de Janeiro,Copacabana,False,2,Noturna; Cafeteria,2,9,3.7778,3.7778,5,65.52,116.9,0,0,,0,0,0,0,0,0,1,1,1,1,0,0,0
+nMTqaGFxm0Rowd4C8WIgza84WWV2,Burrito Loco,Mexicana,1,GO,Goiânia,Setor Marista,False,3,Descontraída; Noturna; Cafeteria,1,2,4.5,4.5,4,27.0,32.8,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0
+nPTNVBgi5OgaSkFaW6HcbucYZSj1,Barco Azul,Frutos do Mar,2,RJ,Rio de Janeiro,Santa Teresa,False,3,Familiar; Tranquila; Romântica,4,5,3.4,3.4,5,66.8,115.0,0,0,,1,0,1,0,1,0,0,0,1,0,1,1,1
+niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Maresia Manaus,Frutos do Mar,4,AM,Manaus,Centro,False,3,Tranquila; Familiar; Romântica,4,7,3.4286,3.4286,3,110.93,220.8,0,0,,1,0,1,0,1,0,0,0,1,0,1,1,1
+nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria do Largo,Pizzaria,2,SP,Santos,Ponta da Praia,False,1,Familiar,3,0,,,4,50.25,65.0,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Bistrô Lumière,Francesa,4,DF,Brasília,Sudoeste,False,3,Romântica; Sofisticada; Tranquila,1,4,4.0,4.0,3,70.67,139.0,4,2,0.5,1,0,1,1,0,0,0,0,0,0,1,0,0
+pO1lVlzOKSSWGu3eoi3tTioFyl12,Smash Burger Co,Hamburgueria,2,RS,Porto Alegre,Cidade Baixa,False,2,Alegre; Descontraída,2,2,4.5,4.5,3,30.67,46.0,0,0,,0,1,0,0,0,1,0,0,1,1,0,0,0
+qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Petit Paris,Francesa,3,DF,Brasília,Asa Sul,False,3,Noturna; Cafeteria; Romântica,3,12,4.5,4.5,4,90.0,133.75,0,0,,1,0,0,0,0,0,1,1,1,1,1,0,0
+qaN1cXhZzDNg2RDtGoxP3j5FGXz1,Vicolo Italiano,Italiana,2,RJ,Petrópolis,Centro,False,1,Familiar,3,7,4.4286,4.4286,3,43.0,69.0,0,0,,0,0,0,0,1,0,0,0,1,0,0,1,1
+r3VDZfVzefczTm5skgAhRYiHgMy2,Taj Mahal,Indiana,3,DF,Brasília,Águas Claras,False,3,Tranquila; Sofisticada; Familiar,5,10,4.0,4.0,4,59.38,88.75,0,0,,0,0,1,1,1,0,0,0,1,1,1,1,1
+rhdWPErHrfdFWSEpbnlmGwcbSfM2,Chez Marie,Francesa,3,SP,São Paulo,Moema,False,2,Tranquila; Sofisticada,2,6,4.5,4.5,3,84.17,160.0,0,0,,0,0,1,1,0,0,0,0,1,0,1,0,0
+s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Mesa do Chef,Contemporânea,3,MG,Belo Horizonte,Savassi,False,2,Romântica; Sofisticada,2,7,3.8571,3.8571,4,138.75,223.75,0,0,,1,0,0,1,0,0,0,0,1,0,1,0,0
+sPS22OxaGpWtukSirKjZVRdiAbB3,Casa da Vó São Paulo,Brasileira,2,SP,São Paulo,Liberdade,False,3,Cafeteria; Romântica; Alegre,3,2,3.0,3.0,5,39.8,52.0,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+scc34LM9dVeb0OafuVyk6KGybG13,Mesa do Chef São Paulo,Contemporânea,1,SP,São Paulo,Moema,False,3,Tranquila; Sofisticada; Familiar,5,3,4.6667,4.6667,4,88.8,143.2,0,0,,0,0,1,1,1,0,0,0,1,1,1,1,1
+sf2DZijWUcMAPavQNeRLyjwzyqG3,Cheiro de Terra,Nordestina,3,DF,Brasília,Lago Sul,False,3,Alegre; Descontraída; Familiar,4,6,3.8333,3.8333,3,65.83,81.25,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Horta Viva,Vegetariana,1,DF,Brasília,Asa Sul,False,3,Romântica; Alegre; Tranquila,3,2,4.5,4.5,4,28.0,39.2,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+tZOCQC5SPPec1jJFb0wxg1F9hGM2,Casa do Baião São Paulo,Nordestina,3,SP,São Paulo,Vila Madalena,False,3,Romântica; Alegre; Tranquila,3,6,3.5,3.5,5,69.0,90.0,0,0,,1,1,1,0,0,0,0,0,1,1,1,0,0
+thzihYT0TPS9YResd7sJDRIiYEN2,Osteria Aurora,Italiana,4,DF,Brasília,Lago Sul,True,2,Sofisticada; Romântica,2,2,5.0,5.0,3,91.67,168.0,3,1,0.3333,1,0,0,1,0,0,0,0,1,0,1,0,0
+u80YaNcNoCNmYZRtgmTcgU6UVeF2,Casa Libanesa,Árabe,2,SP,São Paulo,Vila Madalena,True,2,Descontraída; Familiar,4,8,3.5,3.5,4,30.0,46.5,0,0,,0,0,0,0,1,1,0,0,1,1,0,1,1
+uu7b2EzekfgMsEBCMIqREUQ2w2H3,Maresia,Frutos do Mar,2,PE,Recife,Boa Viagem,False,2,Familiar; Tranquila,3,3,3.3333,3.3333,4,78.25,115.0,0,0,,0,0,1,0,1,0,0,0,1,0,0,1,1
+uzPSSKT20lgUivLd0uU4uUdaxm42,Tasca Lusitana,Portuguesa,1,DF,Brasília,Asa Sul,False,3,Familiar; Descontraída; Noturna,4,12,4.6667,4.6667,4,68.0,115.2,3,1,0.3333,0,0,0,0,1,1,1,0,1,1,0,1,1
+v2UOvqHCH9NgqtOEuvPRxsMZbd72,Bacalhau & Vinho,Portuguesa,2,SP,São Paulo,Liberdade,False,3,Cafeteria; Romântica; Alegre,3,10,3.8,3.8,4,85.0,144.0,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Trattoria Bella Salvador,Italiana,3,BA,Salvador,Barra,False,3,Romântica; Familiar; Sofisticada,4,10,4.7,4.7,5,64.26,94.4,0,0,,1,0,0,1,1,0,0,0,1,0,1,1,1
+vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Il Forno Goiânia,Italiana,2,GO,Goiânia,Setor Bueno,False,3,Tranquila; Sofisticada; Familiar,4,8,4.25,4.25,5,51.4,75.5,0,0,,0,0,1,1,1,0,0,0,1,0,1,1,1
+vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Rancho da Picanha,Churrasco,4,GO,Anápolis,Centro,False,2,Alegre; Familiar,4,2,5.0,5.0,3,109.87,149.6,0,0,,0,1,0,0,1,0,0,0,1,1,0,1,1
+vYVsKOgxYPMXtANrgIQbKGnbyJk1,Lima Cevicheria,Peruana,4,SP,São Paulo,Moema,True,2,Alegre; Sofisticada,3,9,3.7778,3.7778,4,100.0,130.4,0,0,,0,1,0,1,0,0,0,0,1,1,1,0,0
+vcCg31M7I1eNvhO5w1XevB7qiPo1,Ostra & Mar Rio de Janeiro,Frutos do Mar,1,RJ,Rio de Janeiro,Copacabana,False,2,Familiar; Descontraída,4,11,4.3636,4.3636,5,53.44,92.0,0,0,,0,0,0,0,1,1,0,0,1,1,0,1,1
+vnYeTiDsofgVtemkOm26e0AfJfI3,Azeite & Sal Brasília,Mediterrânea,4,DF,Brasília,Sudoeste,False,3,Sofisticada; Familiar; Descontraída,5,12,3.6667,3.6667,4,105.6,163.2,0,0,,0,0,0,1,1,1,0,0,1,1,1,1,1
+wNAp8JFAzFXg7lVbUePDQITFhzF2,Massa Madre,Pizzaria,1,GO,Pirenópolis,Centro Histórico,True,1,Descontraída,1,10,3.0,3.0,3,37.07,54.4,3,1,0.3333,0,0,0,0,0,1,0,0,0,1,0,0,0
+wUTEYKXPxScw8SRMrTuQQQbrATm1,Cais do Porto,Frutos do Mar,3,BA,Salvador,Barra,False,2,Romântica; Familiar,4,2,4.5,4.5,4,61.28,115.0,0,0,,1,0,0,0,1,0,0,0,1,0,1,1,1
+xH3bfX78XnbdiUXK2LoWeuPNaEI2,Casa Libanesa Brasília,Árabe,4,DF,Brasília,Águas Claras,False,3,Cafeteria; Romântica; Alegre,3,7,3.5714,3.5714,5,47.36,74.4,0,0,,1,1,0,0,0,0,0,1,1,1,1,0,0
+xXkfJqv8ngftW7JJZ3ZSynJeQ053,Cantina Azteca,Mexicana,2,DF,Brasília,Asa Sul,False,3,Descontraída; Noturna; Cafeteria,1,10,4.4,4.4,4,33.75,41.0,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0
+xhlnGcz5oFhIL0FMZDxIMLc3de02,Quintal Mineiro,Brasileira,2,RJ,Rio de Janeiro,Santa Teresa,False,3,Descontraída; Familiar; Tranquila,4,2,3.0,3.0,4,46.25,52.0,0,0,,0,0,1,0,1,1,0,0,1,1,0,1,1
+xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizza Nostra,Pizzaria,2,SP,São Paulo,Jardins,False,2,Alegre; Familiar,4,12,4.1667,4.1667,3,59.67,65.0,4,2,0.5,0,1,0,0,1,0,0,0,1,1,0,1,1
+yJLMaelXgFYymQwgBsQi7QIhKKm1,Maré Cheia,Nordestina,3,BA,Salvador,Pelourinho,False,1,Descontraída,1,9,4.1111,4.1111,3,50.83,90.0,0,0,,0,0,0,0,0,1,0,0,0,1,0,0,0
+yzA8lUKfxzRKvznjZmB22TTngb03,Yume Izakaya Niterói,Japonesa,3,RJ,Niterói,Icaraí,False,2,Tranquila; Sofisticada,2,9,2.8889,2.8889,4,62.2,98.15,0,0,,0,0,1,1,0,0,0,0,1,0,1,0,0
+z2lrmLtvXONaYdrJELsXlHvuQp32,Café Quintal,Cafeteria,1,DF,Brasília,Asa Sul,False,2,Tranquila; Cafeteria,1,11,4.3636,4.3636,3,24.67,48.0,0,0,,0,0,1,0,0,0,0,1,0,0,0,1,0
+zEuprxc9HMQ01GtMzMOZX9EGq7K2,Yume Izakaya,Japonesa,3,RJ,Rio de Janeiro,Leblon,False,2,Sofisticada; Noturna,3,9,2.8889,2.8889,3,28.33,,0,0,,0,0,0,1,0,0,1,0,1,1,1,0,0
+zSLudZ49vnM8ieBAYNisC3yAWsj2,Costela & Cia Caxias do Sul,Churrasco,3,RS,Caxias do Sul,Centro,False,3,Familiar; Alegre; Descontraída,4,9,4.5556,4.5556,4,75.95,116.9,0,0,,0,1,0,0,1,1,0,0,1,1,0,1,1
+zkZJFYar6hflIoS7L3gNggmjnHG3,Yume Izakaya Curitiba,Japonesa,2,PR,Curitiba,Santa Felicidade,False,3,Sofisticada; Tranquila; Noturna,3,8,4.625,4.625,4,46.75,119.0,0,0,,0,0,1,1,0,0,1,0,1,1,1,0,0

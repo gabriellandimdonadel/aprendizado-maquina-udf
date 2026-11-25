@@ -8,7 +8,7 @@ Uso:
 - A chave fica FORA do repositório (nunca faça commit dela).
 - Remove nome, e-mail, telefone, WhatsApp, endereço, coordenadas e fotos; os IDs de
   clientes viram pseudônimos (hash). CPF/CNPJ ficam em subcoleções privadas e não são lidos.
-- Saída: dados/gastromatch/*.csv
+- Saída: dados/gastromatch/*.csv (e, com --json-destino, firestore_<colecao>.json)
 """
 import argparse, datetime, hashlib, json, os
 import pandas as pd
@@ -54,26 +54,42 @@ def ler_firestore(chave):
     return {c: [{"id": d.id, **conv(d.to_dict())} for d in db.collection(c).stream()] for c in COLECOES}
 
 
+def sanitizar(c, docs, clientes):
+    """Mantém só os campos permitidos, pseudonimiza clientes e preserva listas."""
+    saida = []
+    for i, d in enumerate(docs):
+        x = {k: d[k] for k in MANTER[c] if k in d}
+        if c == "usuarios" and x.get("id") in clientes:
+            x["id"] = pseudo(x["id"])
+        if "usuarioId" in x:
+            x["usuarioId"] = pseudo(x["usuarioId"])
+        if c in ("avaliacoes", "resgates"):   # o ID do documento contém o uid do cliente
+            x["id"] = f"{c[:3]}_{i:05d}"
+        saida.append(x)
+    return saida
+
+
 def main():
     ap = argparse.ArgumentParser()
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--chave"); g.add_argument("--json")
+    ap.add_argument("--json-destino", help="também grava firestore_<colecao>.json (listas preservadas) nesta pasta")
     a = ap.parse_args()
     bruto = ler_firestore(a.chave) if a.chave else json.load(open(a.json, encoding="utf-8"))
     os.makedirs(SAIDA, exist_ok=True)
+    if a.json_destino:
+        os.makedirs(a.json_destino, exist_ok=True)
 
     clientes = {d["id"] for d in bruto.get("usuarios", []) if d.get("tipo") != "restaurante"}
     for c in COLECOES:
-        df = pd.DataFrame(bruto.get(c, []))
-        if df.empty:
+        docs = sanitizar(c, bruto.get(c, []), clientes)
+        if not docs:
             continue
-        df = df[[k for k in MANTER[c] if k in df.columns]].copy()
-        if c == "usuarios":
-            df.loc[df["id"].isin(clientes), "id"] = df.loc[df["id"].isin(clientes), "id"].map(pseudo)
-        if "usuarioId" in df.columns:
-            df["usuarioId"] = df["usuarioId"].map(pseudo)
-        if c in ("avaliacoes", "resgates"):   # o ID do documento contém o uid do cliente
-            df["id"] = [f"{c[:3]}_{i:05d}" for i in range(len(df))]
+        if a.json_destino:
+            with open(os.path.join(a.json_destino, f"firestore_{c}.json"), "w", encoding="utf-8") as f:
+                json.dump(docs, f, ensure_ascii=False, indent=1)
+        df = pd.DataFrame(docs)
+        df = df[[k for k in MANTER[c] if k in df.columns]]   # ordem estável das colunas
         for col in df.columns:   # listas viram texto separado por "|"
             if df[col].map(lambda v: isinstance(v, list)).any():
                 df[col] = df[col].map(lambda v: "|".join(map(str, v)) if isinstance(v, list) else v)

@@ -1,20 +1,21 @@
 """
 Extração, normalização e validação das coleções do Cloud Firestore
-e planilhas de cardápio da plataforma GastroMatch.
+da plataforma GastroMatch.
 
 Fase 3 do CRISP-DM — Preparação dos Dados.
 
-A base do protótipo GastroMatch é orientada a documentos (NoSQL) e contém:
-  * restaurantes: estabelecimentos com arrays de 'vibes' (até 3) e 'ocasioes';
-  * avaliacoes: notas inteiras (1 a 5) para restaurantes e pratos;
-  * menus: itens do cardápio por estabelecimento;
-  * cupons / resgates: ofertas e conversões de vouchers.
+Entrada (dados/brutos/), exportada sem dados pessoais por scripts/exportar_gastromatch.py:
+  * firestore_restaurantes.json: estabelecimentos com listas 'vibes' (até 3) e 'ocasioes';
+  * firestore_avaliacoes.json: notas inteiras (1 a 5) para restaurantes e pratos;
+  * firestore_menus.json: itens do cardápio por estabelecimento;
+  * firestore_cupons.json / firestore_resgates.json: cupons e conversões (ativo -> usado).
 
-Para cada coleção extraída, o código normaliza os vocabulários fechados e confere:
-  1. se notaMedia == somaNotas / totalAvaliacoes (consistência atômica da RN33);
-  2. se os valores de 'vibes', 'cozinha' e 'faixaPreco' respeitam os limites do sistema;
-  3. se dados sensíveis (LGPD) estão ausentes da base analítica.
-Qualquer divergência é registrada em 'log_validacao.csv'.
+Verificações (registradas em log_validacao.csv):
+  1. notaMedia == somaNotas / totalAvaliacoes (consistência da transação do sistema);
+  2. totalAvaliacoes == avaliações contadas na coleção 'avaliacoes';
+  3. vibes, cozinha e faixaPreco dentro do vocabulário oficial (app/src/lib/catalogo.js);
+  4. ausência de campos pessoais (LGPD) na base analítica;
+  5. integridade referencial (restauranteId existente).
 
 Uso:
     python src/extracao.py dados/brutos dados/processados
@@ -31,33 +32,25 @@ from pathlib import Path
 import pandas as pd
 
 # ---------------------------------------------------------------------------
-# 1. Vocabulários Fechados Canônicos do GastroMatch (TCC / Dicionário de Dados)
+# 1. Vocabulário oficial do GastroMatch (app/src/lib/catalogo.js)
+#    Atenção: a experiência "Cafeteria" é gravada com esse id; "Cafeteria / Brunch" é só o rótulo da tela.
 # ---------------------------------------------------------------------------
-VIBES_CANONICAS = [
-    "Romântica",
-    "Alegre",
-    "Tranquila",
-    "Sofisticada",
-    "Familiar",
-    "Descontraída",
-    "Noturna",
-    "Cafeteria / Brunch",
-]
+VIBES_CANONICAS = ["Romântica", "Alegre", "Tranquila", "Sofisticada", "Familiar", "Descontraída", "Noturna", "Cafeteria"]
 
 COZINHAS_CANONICAS = [
-    "Brasileira", "Italiana", "Japonesa", "Churrasco", "Frutos do Mar",
-    "Pizzaria", "Vegetariana", "Hamburgueria", "Mexicana", "Árabe",
-    "Francesa", "Contemporânea", "Cafeteria", "Padaria", "Doceria",
-    "Asiática", "Peruana", "Portuguesa", "Mineira", "Nordestina",
+    "Brasileira", "Nordestina", "Churrasco", "Frutos do Mar", "Italiana", "Pizzaria", "Japonesa", "Chinesa",
+    "Tailandesa", "Indiana", "Árabe", "Francesa", "Portuguesa", "Mexicana", "Peruana", "Contemporânea",
+    "Mediterrânea", "Vegetariana", "Hamburgueria", "Cafeteria",
 ]
 
-PESOS_RECOMENDACAO = {
-    "cozinha": 40,
-    "vibe": 30,
-    "local": 15,
-    "preco": 15,
-}
+CATEGORIAS_MENU = ["Entrada", "Prato Principal", "Sobremesa", "Bebida", "Acompanhamento"]
+
+# Motor de recomendação (app/src/lib/recomendacao.js)
+PESOS_RECOMENDACAO = {"cozinha": 40, "experiencia": 30, "local": 15, "preco": 15}
 CORTE_MINIMO_SCORE = 30
+
+CAMPOS_PESSOAIS = {"cpf", "cnpj", "email", "senha", "telefone", "whatsapp", "nome", "nomeResponsavel",
+                   "usuarioNome", "usuarioEmail", "nomeExibicao", "endereco", "lat", "lng"}
 
 
 def _chave(texto: str) -> str:
@@ -69,6 +62,7 @@ def _chave(texto: str) -> str:
 
 
 _MAPA_VIBES = {_chave(v): v for v in VIBES_CANONICAS}
+_MAPA_VIBES[_chave("Cafeteria / Brunch")] = "Cafeteria"
 _MAPA_COZINHAS = {_chave(c): c for c in COZINHAS_CANONICAS}
 
 
@@ -77,16 +71,16 @@ def padronizar_vibe(nome: str) -> str | None:
     return _MAPA_VIBES.get(_chave(nome))
 
 
-def padronizar_cozinha(nome: str) -> str:
-    """Devolve o nome canônico da cozinha, preservando o original se não mapeado."""
-    return _MAPA_COZINHAS.get(_chave(nome), nome.strip() if isinstance(nome, str) else "Não informada")
+def padronizar_cozinha(nome: str) -> str | None:
+    """Devolve o nome canônico da cozinha ou None se fora do vocabulário."""
+    return _MAPA_COZINHAS.get(_chave(nome))
 
 
 # ---------------------------------------------------------------------------
-# 2. Leitura das Exportações JSON / Planilhas Brutas
+# 2. Leitura das exportações JSON
 # ---------------------------------------------------------------------------
 def carregar_json(caminho: Path) -> list[dict]:
-    """Lê uma coleção exportada do Cloud Firestore em formato JSON (lista ou dict por ID)."""
+    """Lê uma coleção exportada do Cloud Firestore em JSON (lista ou dict por ID)."""
     if not caminho.exists():
         return []
     with open(caminho, encoding="utf-8") as f:
@@ -94,12 +88,7 @@ def carregar_json(caminho: Path) -> list[dict]:
     if isinstance(conteudo, list):
         return conteudo
     if isinstance(conteudo, dict):
-        registros = []
-        for doc_id, dados in conteudo.items():
-            item = dict(dados)
-            item.setdefault("id", doc_id)
-            registros.append(item)
-        return registros
+        return [{**dados, "id": dados.get("id", doc_id)} for doc_id, dados in conteudo.items()]
     return []
 
 
@@ -109,197 +98,199 @@ class BaseExtraida:
     vibes_longa: pd.DataFrame
     avaliacoes: pd.DataFrame
     menus: pd.DataFrame
+    resgates: pd.DataFrame
     log: list[dict] = field(default_factory=list)
 
 
+def _registrar(log, entidade, rid, tipo, mensagem):
+    log.append({"entidade": entidade, "id": rid, "tipo": tipo, "mensagem": mensagem})
+
+
 # ---------------------------------------------------------------------------
-# 3. Normalização, Derivação e Auditoria de Integridade
+# 3. Normalização, derivação e auditoria
 # ---------------------------------------------------------------------------
 def processar_colecoes(pasta_brutos: Path) -> BaseExtraida:
     log: list[dict] = []
+    brutos = {c: carregar_json(pasta_brutos / f"firestore_{c}.json")
+              for c in ["restaurantes", "avaliacoes", "menus", "cupons", "resgates"]}
 
-    raw_rest = carregar_json(pasta_brutos / "firestore_restaurantes.json")
-    raw_aval = carregar_json(pasta_brutos / "firestore_avaliacoes.json")
-    raw_menu = carregar_json(pasta_brutos / "firestore_menus.json")
+    # LGPD: nenhum campo pessoal pode chegar à base analítica
+    for colecao, docs in brutos.items():
+        achados = sorted({k for d in docs for k in d} & CAMPOS_PESSOAIS)
+        _registrar(log, colecao, "-", "ERRO_LGPD" if achados else "ok",
+                   f"Campos pessoais encontrados: {achados}" if achados else "Nenhum campo pessoal na coleção")
 
-    df_aval = pd.DataFrame(raw_aval)
-    df_menu = pd.DataFrame(raw_menu)
+    df_aval = pd.DataFrame(brutos["avaliacoes"])
+    df_menu = pd.DataFrame(brutos["menus"])
+    df_cup = pd.DataFrame(brutos["cupons"])
+    df_resg = pd.DataFrame(brutos["resgates"])
+    ids_rest = {d.get("id") for d in brutos["restaurantes"]}
 
-    # Contagem real de avaliações por restaurante na coleção 'avaliacoes'
-    contagem_aval_real: dict[str, int] = {}
-    soma_aval_real: dict[str, float] = {}
-    if not df_aval.empty and "alvoId" in df_aval.columns:
-        filtro_rest = df_aval[df_aval.get("alvo", "restaurante") == "restaurante"]
-        contagem_aval_real = filtro_rest.groupby("alvoId")["nota"].count().to_dict()
-        soma_aval_real = filtro_rest.groupby("alvoId")["nota"].sum().to_dict()
+    # Integridade referencial
+    for nome, df in [("avaliacoes", df_aval), ("menus", df_menu), ("cupons", df_cup), ("resgates", df_resg)]:
+        if not df.empty and "restauranteId" in df.columns:
+            orfaos = int((~df["restauranteId"].isin(ids_rest)).sum())
+            _registrar(log, nome, "-", "ERRO" if orfaos else "ok", f"{orfaos} registro(s) com restauranteId inexistente")
 
-    # Métricas agregadas de cardápio por restaurante
-    preco_medio_menu: dict[str, float] = {}
-    qtd_itens_menu: dict[str, int] = {}
-    if not df_menu.empty and "restauranteId" in df_menu.columns:
-        preco_medio_menu = df_menu.groupby("restauranteId")["preco"].mean().round(2).to_dict()
-        qtd_itens_menu = df_menu.groupby("restauranteId")["preco"].count().to_dict()
+    # Domínio da nota
+    if not df_aval.empty:
+        fora = int((~df_aval["nota"].between(1, 5)).sum())
+        _registrar(log, "avaliacoes", "-", "ERRO" if fora else "ok", f"{fora} nota(s) fora de 1–5")
 
-    linhas_rest = []
-    linhas_vibes = []
+    # Agregados por restaurante
+    aval_rest = df_aval[df_aval["alvo"] == "restaurante"] if not df_aval.empty else df_aval
+    contagem_aval = aval_rest.groupby("alvoId")["nota"].count().to_dict() if not aval_rest.empty else {}
+    media_aval = aval_rest.groupby("alvoId")["nota"].mean().to_dict() if not aval_rest.empty else {}
+    preco_medio = df_menu.groupby("restauranteId")["preco"].mean().round(2).to_dict() if not df_menu.empty else {}
+    preco_mediano_principal = (df_menu[df_menu["categoria"] == "Prato Principal"].groupby("restauranteId")["preco"]
+                               .median().round(2).to_dict() if not df_menu.empty else {})
+    qtd_itens = df_menu.groupby("restauranteId")["preco"].count().to_dict() if not df_menu.empty else {}
+    resg_total = df_resg.groupby("restauranteId").size().to_dict() if not df_resg.empty else {}
+    resg_usados = (df_resg[df_resg["status"] == "usado"].groupby("restauranteId").size().to_dict()
+                   if not df_resg.empty else {})
 
-    for doc in raw_rest:
-        rid = doc.get("id") or doc.get("uid") or ""
-        nome = doc.get("nomeRestaurante", "").strip()
+    if not df_menu.empty:
+        fora_cat = int((~df_menu["categoria"].isin(CATEGORIAS_MENU)).sum())
+        _registrar(log, "menus", "-", "aviso" if fora_cat else "ok", f"{fora_cat} prato(s) com categoria fora do padrão")
+        fora_preco = int((~df_menu["preco"].between(0.01, 100000)).sum())
+        _registrar(log, "menus", "-", "ERRO" if fora_preco else "ok", f"{fora_preco} preço(s) fora de R$ 0,01–100.000")
+
+    linhas_rest, linhas_vibes = [], []
+    div_media = div_total = 0
+    for doc in brutos["restaurantes"]:
+        rid = doc.get("id", "")
+        nome = str(doc.get("nomeRestaurante", "")).strip()
         status = doc.get("status", "ativo")
-
-        # Filtra apenas estabelecimentos ativos (RN09)
-        if status != "ativo":
-            log.append({
-                "entidade": "restaurantes", "id": rid, "tipo": "info",
-                "mensagem": f"Restaurante '{nome}' ignorado (status='{status}')",
-            })
+        if status != "ativo":   # apenas estabelecimentos visíveis ao público
+            _registrar(log, "restaurantes", rid, "info", f"'{nome}' ignorado (status='{status}')")
             continue
 
         cozinha = padronizar_cozinha(doc.get("cozinha", ""))
-        faixa_preco = int(doc.get("faixaPreco", 1))
-        cidade = str(doc.get("cidade", "")).strip()
-        estado = str(doc.get("estado", "")).strip()
-        bairro = str(doc.get("bairro", "")).strip()
+        if cozinha is None:
+            _registrar(log, "restaurantes", rid, "aviso", f"Cozinha fora do vocabulário: '{doc.get('cozinha')}'")
+            cozinha = str(doc.get("cozinha", "Não informada"))
+        faixa = doc.get("faixaPreco")
+        if faixa not in (1, 2, 3, 4):
+            _registrar(log, "restaurantes", rid, "aviso", f"faixaPreco inválida: {faixa}")
 
-        total_aval = int(doc.get("totalAvaliacoes", 0))
-        soma_notas = float(doc.get("somaNotas", 0.0))
-        nota_media = float(doc.get("notaMedia", 0.0))
+        total = int(doc.get("totalAvaliacoes", 0) or 0)
+        soma = float(doc.get("somaNotas", 0) or 0)
+        media = float(doc.get("notaMedia", 0) or 0)
+        if total > 0 and abs(media - soma / total) > 1e-4:   # verificação 1
+            div_media += 1
+            _registrar(log, "restaurantes", rid, "ERRO", f"notaMedia {media} ≠ somaNotas/total {soma / total:.4f}")
+        if contagem_aval.get(rid, 0) != total:                 # verificação 2
+            div_total += 1
+            _registrar(log, "restaurantes", rid, "aviso",
+                       f"Ficha informa {total} avaliações; coleção tem {contagem_aval.get(rid, 0)}")
 
-        # --- Validação 1: Consistência atômica da nota média (RN33) ---
-        if total_aval > 0:
-            media_esperada = soma_notas / total_aval
-            if abs(nota_media - media_esperada) > 1e-3:
-                log.append({
-                    "entidade": "restaurantes", "id": rid, "tipo": "ERRO",
-                    "mensagem": f"Divergência notaMedia ({nota_media}) != somaNotas/total ({media_esperada:.4f})",
-                })
-        elif nota_media != 0:
-            log.append({
-                "entidade": "restaurantes", "id": rid, "tipo": "aviso",
-                "mensagem": f"totalAvaliacoes=0 mas notaMedia={nota_media}",
-            })
-
-        # --- Validação 2: Cruzamento com a coleção 'avaliacoes' ---
-        if rid in contagem_aval_real and contagem_aval_real[rid] != total_aval:
-            log.append({
-                "entidade": "avaliacoes", "id": rid, "tipo": "aviso",
-                "mensagem": f"Ficha informa {total_aval} avaliações, coleção possui {contagem_aval_real[rid]}",
-            })
-
-        # --- Normalização das experiências (vibes) ---
-        vibes_brutas = doc.get("vibes") or []
-        vibes_validas = []
-        for v in vibes_brutas:
+        vibes = []
+        for v in doc.get("vibes") or []:
             vc = padronizar_vibe(v)
-            if vc and vc not in vibes_validas:
-                vibes_validas.append(vc)
+            if vc and vc not in vibes:
+                vibes.append(vc)
             elif not vc:
-                log.append({
-                    "entidade": "restaurantes", "id": rid, "tipo": "aviso",
-                    "mensagem": f"Vibe fora do vocabulário fechado: '{v}'",
-                })
+                _registrar(log, "restaurantes", rid, "aviso", f"Vibe fora do vocabulário: '{v}'")
+        if len(vibes) > 3:
+            _registrar(log, "restaurantes", rid, "aviso", f"{len(vibes)} vibes (máximo 3)")
 
-        if len(vibes_validas) > 3:
-            log.append({
-                "entidade": "restaurantes", "id": rid, "tipo": "aviso",
-                "mensagem": f"Mais de 3 vibes cadastradas ({len(vibes_validas)}); truncado para 3",
-            })
-            vibes_validas = vibes_validas[:3]
-
-        # Garantia LGPD: verifica ausência de campos sensíveis na ficha pública
-        for campo_sensivel in ("cpf", "cnpj", "email", "senha"):
-            if campo_sensivel in doc:
-                log.append({
-                    "entidade": "restaurantes", "id": rid, "tipo": "ERRO_LGPD",
-                    "mensagem": f"Campo sensível '{campo_sensivel}' encontrado na coleção pública",
-                })
-
+        usados, resgatados = resg_usados.get(rid, 0), resg_total.get(rid, 0)
         registro = {
             "restaurante_id": rid,
             "nome_restaurante": nome,
             "cozinha": cozinha,
-            "faixa_preco": faixa_preco,
-            "cidade": cidade,
-            "estado": estado,
-            "bairro": bairro,
+            "faixa_preco": faixa,
+            "estado": doc.get("estado", ""),
+            "cidade": doc.get("cidade", ""),
+            "bairro": doc.get("bairro", ""),
             "destaque": bool(doc.get("destaque", False)),
-            "qtd_vibes": len(vibes_validas),
-            "vibes_lista": "; ".join(vibes_validas) if vibes_validas else "Sem experiência declarada",
-            "total_avaliacoes": total_aval,
-            "soma_notas": soma_notas,
-            "nota_media": round(nota_media, 4) if total_aval > 0 else None,
-            "qtd_itens_menu": qtd_itens_menu.get(rid, 0),
-            "preco_medio_cardapio": preco_medio_menu.get(rid, None),
+            "qtd_vibes": len(vibes),
+            "vibes_lista": "; ".join(vibes) if vibes else "sem_vibe_declarada",
+            "qtd_ocasioes": len(doc.get("ocasioes") or []),
+            "total_avaliacoes": total,
+            "nota_media": round(media, 4) if total > 0 else None,   # NaN, não zero, quando não há avaliações
+            "nota_media_recalculada": round(media_aval[rid], 4) if rid in media_aval else None,
+            "qtd_itens_menu": qtd_itens.get(rid, 0),
+            "preco_medio_cardapio": preco_medio.get(rid),
+            "preco_mediano_principal": preco_mediano_principal.get(rid),
+            "cupons_resgatados": resgatados,
+            "cupons_usados": usados,
+            "taxa_conversao_cupom": round(usados / resgatados, 4) if resgatados else None,
         }
-
-        # One-Hot Encoding para as 8 vibes canônicas
-        for v_canonica in VIBES_CANONICAS:
-            col = f"vibe_{_chave(v_canonica).lower()}"
-            registro[col] = int(v_canonica in vibes_validas)
-
+        for v in VIBES_CANONICAS:   # one-hot das 8 experiências
+            registro[f"vibe_{_chave(v).lower()}"] = int(v in vibes)
+        for o in ["aniversario", "confraternizacao", "dia-dos-namorados", "dia-das-maes", "dia-dos-pais"]:
+            registro[f"ocasiao_{o.replace('-', '_')}"] = int(o in (doc.get("ocasioes") or []))
         linhas_rest.append(registro)
 
-        # Base longa (um registro por par restaurante x vibe)
-        vibes_para_explodir = vibes_validas if vibes_validas else ["Sem experiência declarada"]
-        for v_item in vibes_para_explodir:
-            linhas_vibes.append({
-                "restaurante_id": rid,
-                "nome_restaurante": nome,
-                "vibe": v_item,
-                "cozinha": cozinha,
-                "faixa_preco": faixa_preco,
-                "cidade": cidade,
-                "nota_media": registro["nota_media"],
-                "total_avaliacoes": total_aval,
-            })
+        for v in vibes or ["sem_vibe_declarada"]:   # base longa: um registro por par restaurante × vibe
+            linhas_vibes.append({k: registro[k] for k in ["restaurante_id", "nome_restaurante", "cozinha", "faixa_preco",
+                                                          "cidade", "nota_media", "total_avaliacoes"]} | {"vibe": v})
 
     df_rest = pd.DataFrame(linhas_rest)
-    df_vibes = pd.DataFrame(linhas_vibes)
-
-    # Registro de resumo no log
+    _registrar(log, "restaurantes", "-", "ok" if div_media == 0 else "ERRO",
+               f"Verificação 1 (notaMedia = somaNotas/total): {len(df_rest) - div_media}/{len(df_rest)} válidos")
+    _registrar(log, "restaurantes", "-", "ok" if div_total == 0 else "aviso",
+               f"Verificação 2 (totalAvaliacoes = avaliações contadas): {len(df_rest) - div_total}/{len(df_rest)} válidos")
     erros = sum(1 for item in log if item["tipo"].startswith("ERRO"))
-    log.append({
-        "entidade": "RESUMO", "id": "-", "tipo": "ok" if erros == 0 else "ERRO",
-        "mensagem": f"{len(df_rest)} restaurantes ativos processados; {len(df_aval)} avaliações lidas; {erros} erros.",
-    })
+    _registrar(log, "RESUMO", "-", "ok" if erros == 0 else "ERRO",
+               f"{len(df_rest)} restaurantes ativos; {len(df_aval)} avaliações; {len(df_menu)} pratos; "
+               f"{len(df_resg)} resgates; {erros} erro(s).")
 
-    return BaseExtraida(
-        restaurantes=df_rest,
-        vibes_longa=df_vibes,
-        avaliacoes=df_aval,
-        menus=df_menu,
-        log=log,
-    )
+    return BaseExtraida(df_rest, pd.DataFrame(linhas_vibes), df_aval, df_menu, df_resg, log)
+
+
+DICIONARIO = [
+    ("restaurante_id", "texto", "ID do restaurante no Firestore (UID da conta do restaurante)"),
+    ("cozinha", "categoria", "Tipo de cozinha (20 opções oficiais)"),
+    ("faixa_preco", "ordinal 1–4", "1 = até R$ 60/pessoa · 2 = R$ 60–120 · 3 = R$ 120–200 · 4 = acima de R$ 200"),
+    ("estado / cidade / bairro", "categoria", "Localização declarada"),
+    ("destaque", "booleano", "Destaque definido pelo suporte"),
+    ("qtd_vibes", "inteiro 0–3", "Número de experiências declaradas"),
+    ("vibe_*", "binário", "One-hot de cada uma das 8 experiências"),
+    ("ocasiao_*", "binário", "One-hot das 5 ocasiões especiais"),
+    ("total_avaliacoes", "inteiro", "Avaliações do restaurante (ficha pública)"),
+    ("nota_media", "real 1–5", "Média das notas (vazio quando não há avaliações)"),
+    ("nota_media_recalculada", "real 1–5", "Média recalculada a partir da coleção avaliacoes (auditoria)"),
+    ("qtd_itens_menu", "inteiro", "Pratos cadastrados"),
+    ("preco_medio_cardapio", "R$", "Preço médio de todos os pratos"),
+    ("preco_mediano_principal", "R$", "Mediana dos pratos principais"),
+    ("cupons_resgatados / cupons_usados", "inteiro", "Resgates de cupom e quantos foram validados no restaurante"),
+    ("taxa_conversao_cupom", "proporção", "cupons_usados ÷ cupons_resgatados"),
+]
 
 
 # ---------------------------------------------------------------------------
-# 4. Execução Principal e Exportação
+# 4. Execução principal e exportação
 # ---------------------------------------------------------------------------
-def main(pasta_brutos: str, pasta_saida: str) -> BaseExtraida:
+def main(pasta_brutos: str | Path, pasta_saida: str | Path) -> BaseExtraida:
     dir_brutos, dir_saida = Path(pasta_brutos), Path(pasta_saida)
     dir_saida.mkdir(parents=True, exist_ok=True)
 
-    resultado = processar_colecoes(dir_brutos)
-    df_log = pd.DataFrame(resultado.log)
+    r = processar_colecoes(dir_brutos)
+    df_log = pd.DataFrame(r.log)
+    resumo_aval = (r.avaliacoes.groupby(["alvo", "nota"]).size().unstack(fill_value=0)
+                   if not r.avaliacoes.empty else pd.DataFrame())
+    por_vibe = (r.vibes_longa.groupby("vibe").agg(restaurantes=("restaurante_id", "nunique"),
+                                                  nota_media=("nota_media", "mean"),
+                                                  avaliacoes=("total_avaliacoes", "sum")).round(3).reset_index())
 
-    resultado.restaurantes.to_csv(dir_saida / "gastromatch_restaurantes.csv", index=False, encoding="utf-8-sig")
-    resultado.vibes_longa.to_csv(dir_saida / "gastromatch_vibes_longa.csv", index=False, encoding="utf-8-sig")
+    r.restaurantes.to_csv(dir_saida / "gastromatch_restaurantes.csv", index=False, encoding="utf-8-sig")
+    r.vibes_longa.to_csv(dir_saida / "gastromatch_vibes_longa.csv", index=False, encoding="utf-8-sig")
     df_log.to_csv(dir_saida / "log_validacao.csv", index=False, encoding="utf-8-sig")
+    with pd.ExcelWriter(dir_saida / "gastromatch_analitico.xlsx", engine="openpyxl") as w:
+        r.restaurantes.to_excel(w, sheet_name="restaurantes_consolidado", index=False)
+        por_vibe.to_excel(w, sheet_name="por_experiencia", index=False)
+        resumo_aval.to_excel(w, sheet_name="avaliacoes_resumo")
+        df_log.to_excel(w, sheet_name="log_validacao", index=False)
+        pd.DataFrame(DICIONARIO, columns=["atributo", "tipo", "descrição"]).to_excel(w, sheet_name="dicionario", index=False)
 
-    # Exportação consolidada em Excel (.xlsx) com múltiplas abas
-    caminho_xlsx = dir_saida / "gastromatch_analitico.xlsx"
-    with pd.ExcelWriter(caminho_xlsx, engine="openpyxl") as writer:
-        resultado.restaurantes.to_excel(writer, sheet_name="restaurantes_consolidado", index=False)
-        resultado.vibes_longa.to_excel(writer, sheet_name="por_experiencia", index=False)
-        df_log.to_excel(writer, sheet_name="log_validacao", index=False)
-
-    print(df_log.to_string(index=False))
-    print(f"\n{len(resultado.restaurantes)} estabelecimentos consolidados -> {dir_saida / 'gastromatch_restaurantes.csv'}")
-    return resultado
+    resumo = df_log[df_log["entidade"].isin(["RESUMO"]) | df_log["tipo"].ne("info")]
+    print(resumo[resumo["id"] == "-"].to_string(index=False))
+    print(f"\n{len(r.restaurantes)} estabelecimentos consolidados -> {dir_saida / 'gastromatch_restaurantes.csv'}")
+    return r
 
 
 if __name__ == "__main__":
-    entrada = sys.argv[1] if len(sys.argv) > 1 else "dados/brutos"
-    saida = sys.argv[2] if len(sys.argv) > 2 else "dados/processados"
-    main(entrada, saida)
+    main(sys.argv[1] if len(sys.argv) > 1 else "dados/brutos",
+         sys.argv[2] if len(sys.argv) > 2 else "dados/processados")

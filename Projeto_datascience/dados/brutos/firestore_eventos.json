@@ -1,0 +1,438 @@
+[
+ {
+  "id": "evento-0",
+  "restauranteId": "TsyuzyhJaIfai0D06aOH68bSPG62",
+  "cozinha": "Churrasco",
+  "titulo": "Noite do Churrasco & Vinho",
+  "inicio": "2026-11-16",
+  "fim": "2026-11-16",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-1",
+  "restauranteId": "YGzOK5Yb03cWQjuWE4yjLTRNqFl1",
+  "cozinha": "Japonesa",
+  "titulo": "Karaokê japonês",
+  "inicio": "2026-11-18",
+  "fim": "2026-11-18",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "20:00",
+  "horaFim": "01:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-10",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "titulo": "Rodada de degustação",
+  "inicio": "2026-12-13",
+  "fim": "2026-12-15",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-11",
+  "restauranteId": "YkE1pPPhrPTBXWULtsxe2sWOOqB2",
+  "cozinha": "Brasileira",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-28",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-12",
+  "restauranteId": "m49RAhyipMUp1uSTKIJL3L5wl6g2",
+  "cozinha": "Contemporânea",
+  "titulo": "Festival da casa",
+  "inicio": "2026-12-16",
+  "fim": "2026-12-17",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-13",
+  "restauranteId": "zkZJFYar6hflIoS7L3gNggmjnHG3",
+  "cozinha": "Japonesa",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-11-21",
+  "fim": "2026-11-23",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-14",
+  "restauranteId": "ghSGrTq3sISsfkD2VoMGpIS3QN62",
+  "cozinha": "Vegetariana",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-11-29",
+  "fim": "2026-12-01",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-15",
+  "restauranteId": "CJ8UpVRCKJSlNiGpoVBcYe0cweC3",
+  "cozinha": "Chinesa",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-12-05",
+  "fim": "2026-12-06",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-16",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-12-01",
+  "fim": "2026-12-01",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-17",
+  "restauranteId": "B34rBopYe1cGLWXCq8ODQfpBdrJ3",
+  "cozinha": "Japonesa",
+  "titulo": "Jantar harmonizado",
+  "inicio": "2026-11-23",
+  "fim": "2026-11-25",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-18",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "titulo": "Aula aberta com o chef",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-27",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-19",
+  "restauranteId": "Ij5cRKiwPNT8hqRwZVDPGgqOmJY2",
+  "cozinha": "Pizzaria",
+  "titulo": "Jantar harmonizado",
+  "inicio": "2026-12-08",
+  "fim": "2026-12-09",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-2",
+  "restauranteId": "z2lrmLtvXONaYdrJELsXlHvuQp32",
+  "cozinha": "Cafeteria",
+  "titulo": "Feira de cafés especiais",
+  "inicio": "2026-11-20",
+  "fim": "2026-11-21",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "09:00",
+  "horaFim": "14:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-20",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "titulo": "Festival da casa",
+  "inicio": "2026-12-11",
+  "fim": "2026-12-11",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-3",
+  "restauranteId": "9rnBhKZJXYWGNi8o6alCqDVImCg1",
+  "cozinha": "Italiana",
+  "titulo": "Noite de música ao vivo",
+  "inicio": "2026-11-18",
+  "fim": "2026-11-19",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-4",
+  "restauranteId": "gHuUySSMTzUmYlI1Ei7NT5NRNGn1",
+  "cozinha": "Peruana",
+  "titulo": "Jantar harmonizado",
+  "inicio": "2026-12-18",
+  "fim": "2026-12-18",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-5",
+  "restauranteId": "8tWn6Pn5dGYwt2NJaVSoZVKfO872",
+  "cozinha": "Mexicana",
+  "titulo": "Noite de música ao vivo",
+  "inicio": "2026-12-16",
+  "fim": "2026-12-18",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-6",
+  "restauranteId": "s3LG8nYqgUaHBiGnbU8B0VSLq1A2",
+  "cozinha": "Contemporânea",
+  "titulo": "Noite de música ao vivo",
+  "inicio": "2026-12-16",
+  "fim": "2026-12-18",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-7",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "titulo": "Noite de música ao vivo",
+  "inicio": "2026-11-18",
+  "fim": "2026-11-18",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-8",
+  "restauranteId": "HIznVkf8qFhtVPGeC08Fk1qDMwv2",
+  "cozinha": "Hamburgueria",
+  "titulo": "Noite de música ao vivo",
+  "inicio": "2026-11-15",
+  "fim": "2026-11-15",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-9",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "titulo": "Festival da casa",
+  "inicio": "2026-12-19",
+  "fim": "2026-12-20",
+  "diasValidos": [
+   "Seg",
+   "Ter",
+   "Qua",
+   "Qui",
+   "Sex",
+   "Sáb",
+   "Dom"
+  ],
+  "horaInicio": "19:00",
+  "horaFim": "23:00",
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "evento-global",
+  "cozinha": "Geral",
+  "titulo": "Festival GastroMatch de Primavera",
+  "inicio": "2026-11-14",
+  "fim": "2026-11-28",
+  "diasValidos": [
+   "Sexta",
+   "Sábado"
+  ],
+  "horaInicio": "18:00",
+  "horaFim": "23:00",
+  "tipoEvento": "geral_plataforma",
+  "vibes": [],
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ }
+]

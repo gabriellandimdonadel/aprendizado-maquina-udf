@@ -1,0 +1,14 @@
+﻿verificação,resultado,evidência
+Restaurantes ativos = 188,✔ aprovado,188 na base consolidada
+Avaliações extraídas = 1.751 (≥ 1.000 pedidas),✔ aprovado,1751 avaliações
+Log de extração sem erros,✔ aprovado,{'ok': 15}
+notaMedia = média recalculada das avaliações,✔ aprovado,188/188 restaurantes
+Vibes ≤ 3 e dentro das 8 oficiais,✔ aprovado,máx. 3 vibes
+Cozinhas dentro das 20 oficiais,✔ aprovado,20 cozinhas distintas
+Regra de pontuação (RN38) reproduz casos calculados à mão,✔ aprovado,"100, 8 e 48 pontos esperados; versão Python = JavaScript em 500/500 buscas"
+Nenhum restaurante recomendado abaixo do corte de 30 pontos,✔ aprovado,menor score médio recomendado: 45.2
+Base analítica sem campos pessoais (LGPD),✔ aprovado,"nenhum de: cnpj, cpf, email, endereco, lat, lng…"
+Testes unitários do sistema passam (reexecutados),✔ aprovado,67/67 — evidencias/testes-unitarios.txt
+Testes no navegador passam,✔ aprovado,"147 PASSOU, 0 falhas — evidencias/resultados-navegador.txt"
+Desempenho em rede média < 3 s (RNF04),✔ aprovado,1.32 s / 1.94 s (medição de 2026-11-10 11:45)
+Desempenho em rede lenta < 3 s (RNF04),✘ reprovado,conteúdo principal 4.79 s / 2.33 s; 1º restaurante 4.68 s / 3.69 s

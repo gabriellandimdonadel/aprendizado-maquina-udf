@@ -1,0 +1,16 @@
+﻿entidade,id,tipo,mensagem
+restaurantes,-,ok,Nenhum campo pessoal na coleção
+avaliacoes,-,ok,Nenhum campo pessoal na coleção
+menus,-,ok,Nenhum campo pessoal na coleção
+cupons,-,ok,Nenhum campo pessoal na coleção
+resgates,-,ok,Nenhum campo pessoal na coleção
+avaliacoes,-,ok,0 registro(s) com restauranteId inexistente
+menus,-,ok,0 registro(s) com restauranteId inexistente
+cupons,-,ok,0 registro(s) com restauranteId inexistente
+resgates,-,ok,0 registro(s) com restauranteId inexistente
+avaliacoes,-,ok,0 nota(s) fora de 1–5
+menus,-,ok,0 prato(s) com categoria fora do padrão
+menus,-,ok,"0 preço(s) fora de R$ 0,01–100.000"
+restaurantes,-,ok,Verificação 1 (notaMedia = somaNotas/total): 188/188 válidos
+restaurantes,-,ok,Verificação 2 (totalAvaliacoes = avaliações contadas): 188/188 válidos
+RESUMO,-,ok,188 restaurantes ativos; 1751 avaliações; 748 pratos; 66 resgates; 0 erro(s).

@@ -6,3 +6,5 @@ seaborn>=0.13
 scipy>=1.13
 scikit-learn>=1.5
 jupyter
+# só para exportar do Firestore (scripts/exportar_gastromatch.py):
+firebase-admin>=6.5

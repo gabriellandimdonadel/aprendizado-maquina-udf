@@ -1,0 +1,6734 @@
+[
+ {
+  "id": "atelie-gastronomico-0",
+  "restauranteId": "DUXTXRktFkZCfEuURTbkKc8dYra2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 7 tempos",
+  "preco": 290,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "atelie-gastronomico-1",
+  "restauranteId": "DUXTXRktFkZCfEuURTbkKc8dYra2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Couvert do chef",
+  "preco": 45,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "atelie-gastronomico-2",
+  "restauranteId": "DUXTXRktFkZCfEuURTbkKc8dYra2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sobremesa do dia",
+  "preco": 36,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-brasilia-brasilia-0",
+  "restauranteId": "vnYeTiDsofgVtemkOm26e0AfJfI3",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 204.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-brasilia-brasilia-1",
+  "restauranteId": "vnYeTiDsofgVtemkOm26e0AfJfI3",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-brasilia-brasilia-2",
+  "restauranteId": "vnYeTiDsofgVtemkOm26e0AfJfI3",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 121.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-brasilia-brasilia-3",
+  "restauranteId": "vnYeTiDsofgVtemkOm26e0AfJfI3",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-goiania-goiania-0",
+  "restauranteId": "RP6XlReFilNed4DG7PKryqbDat32",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-goiania-goiania-1",
+  "restauranteId": "RP6XlReFilNed4DG7PKryqbDat32",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-goiania-goiania-2",
+  "restauranteId": "RP6XlReFilNed4DG7PKryqbDat32",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 95,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-goiania-goiania-3",
+  "restauranteId": "RP6XlReFilNed4DG7PKryqbDat32",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-rio-de-janeiro-0",
+  "restauranteId": "AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-rio-de-janeiro-1",
+  "restauranteId": "AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "azeite-sal-rio-de-janeiro-2",
+  "restauranteId": "AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 95,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bacalhau-vinho-sao-paulo-0",
+  "restauranteId": "v2UOvqHCH9NgqtOEuvPRxsMZbd72",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Bacalhau à Gomes de Sá",
+  "preco": 139,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bacalhau-vinho-sao-paulo-1",
+  "restauranteId": "v2UOvqHCH9NgqtOEuvPRxsMZbd72",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo à lagareiro",
+  "preco": 149,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bacalhau-vinho-sao-paulo-2",
+  "restauranteId": "v2UOvqHCH9NgqtOEuvPRxsMZbd72",
+  "cozinha": "Portuguesa",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de bacalhau",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bacalhau-vinho-sao-paulo-3",
+  "restauranteId": "v2UOvqHCH9NgqtOEuvPRxsMZbd72",
+  "cozinha": "Portuguesa",
+  "categoria": "Sobremesa",
+  "titulo": "Pastel de nata",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-brasilia-0",
+  "restauranteId": "b5pQ5inZtMU1bEXS8ljS7evtFI03",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Pad thai de camarão",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-brasilia-1",
+  "restauranteId": "b5pQ5inZtMU1bEXS8ljS7evtFI03",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Curry verde",
+  "preco": 62,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-brasilia-2",
+  "restauranteId": "b5pQ5inZtMU1bEXS8ljS7evtFI03",
+  "cozinha": "Tailandesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho vietnamita",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-brasilia-3",
+  "restauranteId": "b5pQ5inZtMU1bEXS8ljS7evtFI03",
+  "cozinha": "Tailandesa",
+  "categoria": "Sobremesa",
+  "titulo": "Arroz doce com manga",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-goiania-goiania-0",
+  "restauranteId": "f8tZBApEGIYLeEJBHr6c0VkuVCK2",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Pad thai de camarão",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-goiania-goiania-1",
+  "restauranteId": "f8tZBApEGIYLeEJBHr6c0VkuVCK2",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Curry verde",
+  "preco": 49.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-goiania-goiania-2",
+  "restauranteId": "f8tZBApEGIYLeEJBHr6c0VkuVCK2",
+  "cozinha": "Tailandesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho vietnamita",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bangkok-street-goiania-goiania-3",
+  "restauranteId": "f8tZBApEGIYLeEJBHr6c0VkuVCK2",
+  "cozinha": "Tailandesa",
+  "categoria": "Sobremesa",
+  "titulo": "Arroz doce com manga",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-florianopolis-florianopolis-0",
+  "restauranteId": "JUxDbgQGIlMjesBNrw1EKcVnqyZ2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-florianopolis-florianopolis-1",
+  "restauranteId": "JUxDbgQGIlMjesBNrw1EKcVnqyZ2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-florianopolis-florianopolis-2",
+  "restauranteId": "JUxDbgQGIlMjesBNrw1EKcVnqyZ2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-florianopolis-florianopolis-3",
+  "restauranteId": "JUxDbgQGIlMjesBNrw1EKcVnqyZ2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-florianopolis-florianopolis-4",
+  "restauranteId": "JUxDbgQGIlMjesBNrw1EKcVnqyZ2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 21,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-goiania-goiania-0",
+  "restauranteId": "cxiMXBYx7tXueUyMVY8bUWw7uSg1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-goiania-goiania-1",
+  "restauranteId": "cxiMXBYx7tXueUyMVY8bUWw7uSg1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-goiania-goiania-2",
+  "restauranteId": "cxiMXBYx7tXueUyMVY8bUWw7uSg1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-goiania-goiania-3",
+  "restauranteId": "cxiMXBYx7tXueUyMVY8bUWw7uSg1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-goiania-goiania-4",
+  "restauranteId": "cxiMXBYx7tXueUyMVY8bUWw7uSg1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 21,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-olinda-olinda-0",
+  "restauranteId": "KrLtaEHugyP1syd03MdzvG1NvQX2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-olinda-olinda-1",
+  "restauranteId": "KrLtaEHugyP1syd03MdzvG1NvQX2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-olinda-olinda-2",
+  "restauranteId": "KrLtaEHugyP1syd03MdzvG1NvQX2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-olinda-olinda-3",
+  "restauranteId": "KrLtaEHugyP1syd03MdzvG1NvQX2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-olinda-olinda-4",
+  "restauranteId": "KrLtaEHugyP1syd03MdzvG1NvQX2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 21,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-rio-de-janeiro-0",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-rio-de-janeiro-1",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-rio-de-janeiro-2",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 21,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-rio-de-janeiro-3",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "barco-azul-rio-de-janeiro-4",
+  "restauranteId": "nPTNVBgi5OgaSkFaW6HcbucYZSj1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "beirute-grill-campinas-0",
+  "restauranteId": "KFOqmkV5yiP4zPxrXzKtWdhSOdp2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "beirute-grill-campinas-1",
+  "restauranteId": "KFOqmkV5yiP4zPxrXzKtWdhSOdp2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "beirute-grill-campinas-2",
+  "restauranteId": "KFOqmkV5yiP4zPxrXzKtWdhSOdp2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 43.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bistro-lumiere-0",
+  "restauranteId": "oDrmAyvkaJbVZOZvaKT5JkbxDUH2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Magret de pato",
+  "preco": 139,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bistro-lumiere-1",
+  "restauranteId": "oDrmAyvkaJbVZOZvaKT5JkbxDUH2",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Sopa de cebola",
+  "preco": 39,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "bistro-lumiere-2",
+  "restauranteId": "oDrmAyvkaJbVZOZvaKT5JkbxDUH2",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Crème brûlée",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-goiania-0",
+  "restauranteId": "KgGezBSEozRmj2BfsZYjtiM1vC42",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-goiania-1",
+  "restauranteId": "KgGezBSEozRmj2BfsZYjtiM1vC42",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-goiania-2",
+  "restauranteId": "KgGezBSEozRmj2BfsZYjtiM1vC42",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-sao-paulo-sao-paulo-0",
+  "restauranteId": "HIznVkf8qFhtVPGeC08Fk1qDMwv2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 48.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-sao-paulo-sao-paulo-1",
+  "restauranteId": "HIznVkf8qFhtVPGeC08Fk1qDMwv2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-sao-paulo-sao-paulo-2",
+  "restauranteId": "HIznVkf8qFhtVPGeC08Fk1qDMwv2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-burger-sao-paulo-sao-paulo-3",
+  "restauranteId": "HIznVkf8qFhtVPGeC08Fk1qDMwv2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-lenha-0",
+  "restauranteId": "TsyuzyhJaIfai0D06aOH68bSPG62",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha na brasa",
+  "preco": 129.9,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-lenha-1",
+  "restauranteId": "TsyuzyhJaIfai0D06aOH68bSPG62",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Provoleta grelhada",
+  "preco": 42,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-lenha-2",
+  "restauranteId": "TsyuzyhJaIfai0D06aOH68bSPG62",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Petit gâteau",
+  "preco": 32,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-porto-alegre-0",
+  "restauranteId": "AdxOWaeQhDOqfVLvUi7Z6nWaedt1",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 156.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-porto-alegre-1",
+  "restauranteId": "AdxOWaeQhDOqfVLvUi7Z6nWaedt1",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-porto-alegre-2",
+  "restauranteId": "AdxOWaeQhDOqfVLvUi7Z6nWaedt1",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-porto-alegre-3",
+  "restauranteId": "AdxOWaeQhDOqfVLvUi7Z6nWaedt1",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 122.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 111.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "brasa-viva-rio-de-janeiro-rio-de-janeiro-4",
+  "restauranteId": "n3QS9ybwgNYzg1SwebNDAuYgZnr1",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 23.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-brasilia-0",
+  "restauranteId": "PJgxzV092ogswAe8Y37KgLkVE5U2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 39,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-brasilia-1",
+  "restauranteId": "PJgxzV092ogswAe8Y37KgLkVE5U2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-brasilia-2",
+  "restauranteId": "PJgxzV092ogswAe8Y37KgLkVE5U2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-brasilia-3",
+  "restauranteId": "PJgxzV092ogswAe8Y37KgLkVE5U2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-rio-de-janeiro-rio-de-jane-0",
+  "restauranteId": "I03VQkhV0fQb3l3joo86ZEORA5t1",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 62.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-rio-de-janeiro-rio-de-jane-1",
+  "restauranteId": "I03VQkhV0fQb3l3joo86ZEORA5t1",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 73.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-rio-de-janeiro-rio-de-jane-2",
+  "restauranteId": "I03VQkhV0fQb3l3joo86ZEORA5t1",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burger-garage-rio-de-janeiro-rio-de-jane-3",
+  "restauranteId": "I03VQkhV0fQb3l3joo86ZEORA5t1",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burrito-loco-goiania-0",
+  "restauranteId": "nMTqaGFxm0Rowd4C8WIgza84WWV2",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Burrito de carne",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burrito-loco-goiania-1",
+  "restauranteId": "nMTqaGFxm0Rowd4C8WIgza84WWV2",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Quesadilla",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burrito-loco-goiania-2",
+  "restauranteId": "nMTqaGFxm0Rowd4C8WIgza84WWV2",
+  "cozinha": "Mexicana",
+  "categoria": "Entrada",
+  "titulo": "Guacamole com nachos",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "burrito-loco-goiania-3",
+  "restauranteId": "nMTqaGFxm0Rowd4C8WIgza84WWV2",
+  "cozinha": "Mexicana",
+  "categoria": "Sobremesa",
+  "titulo": "Churros com doce de leite",
+  "preco": 15.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-ouro-preto-0",
+  "restauranteId": "EIfASN2ilsbVlMDMQC4J5cFPJcm2",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-ouro-preto-1",
+  "restauranteId": "EIfASN2ilsbVlMDMQC4J5cFPJcm2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-ouro-preto-2",
+  "restauranteId": "EIfASN2ilsbVlMDMQC4J5cFPJcm2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-sao-paulo-sao-paulo-0",
+  "restauranteId": "gYSp4zdKXZd22HExgcXvukegiMF2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-sao-paulo-sao-paulo-1",
+  "restauranteId": "gYSp4zdKXZd22HExgcXvukegiMF2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-sao-paulo-sao-paulo-2",
+  "restauranteId": "gYSp4zdKXZd22HExgcXvukegiMF2",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 12,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-com-prosa-sao-paulo-sao-paulo-3",
+  "restauranteId": "gYSp4zdKXZd22HExgcXvukegiMF2",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-quintal-0",
+  "restauranteId": "z2lrmLtvXONaYdrJELsXlHvuQp32",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch do quintal",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-quintal-1",
+  "restauranteId": "z2lrmLtvXONaYdrJELsXlHvuQp32",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo recheado",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cafe-quintal-2",
+  "restauranteId": "z2lrmLtvXONaYdrJELsXlHvuQp32",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de fubá",
+  "preco": 12,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-salvador-0",
+  "restauranteId": "wUTEYKXPxScw8SRMrTuQQQbrATm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 61.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-salvador-1",
+  "restauranteId": "wUTEYKXPxScw8SRMrTuQQQbrATm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 26.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-salvador-2",
+  "restauranteId": "wUTEYKXPxScw8SRMrTuQQQbrATm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-salvador-3",
+  "restauranteId": "wUTEYKXPxScw8SRMrTuQQQbrATm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 115,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-sao-paulo-sao-paulo-0",
+  "restauranteId": "OYbKt8tGDNSDI6n1CObC3qqTPPt1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 220.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-sao-paulo-sao-paulo-1",
+  "restauranteId": "OYbKt8tGDNSDI6n1CObC3qqTPPt1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 147.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-sao-paulo-sao-paulo-2",
+  "restauranteId": "OYbKt8tGDNSDI6n1CObC3qqTPPt1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-sao-paulo-sao-paulo-3",
+  "restauranteId": "OYbKt8tGDNSDI6n1CObC3qqTPPt1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cais-do-porto-sao-paulo-sao-paulo-4",
+  "restauranteId": "OYbKt8tGDNSDI6n1CObC3qqTPPt1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 33.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-azteca-brasilia-0",
+  "restauranteId": "xXkfJqv8ngftW7JJZ3ZSynJeQ053",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Burrito de carne",
+  "preco": 44,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-azteca-brasilia-1",
+  "restauranteId": "xXkfJqv8ngftW7JJZ3ZSynJeQ053",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Quesadilla",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-azteca-brasilia-2",
+  "restauranteId": "xXkfJqv8ngftW7JJZ3ZSynJeQ053",
+  "cozinha": "Mexicana",
+  "categoria": "Entrada",
+  "titulo": "Guacamole com nachos",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-azteca-brasilia-3",
+  "restauranteId": "xXkfJqv8ngftW7JJZ3ZSynJeQ053",
+  "cozinha": "Mexicana",
+  "categoria": "Sobremesa",
+  "titulo": "Churros com doce de leite",
+  "preco": 19,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-praca-0",
+  "restauranteId": "fDp0IwcfDUVoolpq3hJ9yNBLpZz2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza margherita",
+  "preco": 64,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-praca-1",
+  "restauranteId": "fDp0IwcfDUVoolpq3hJ9yNBLpZz2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Lasanha da nonna",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cantina-praca-2",
+  "restauranteId": "fDp0IwcfDUVoolpq3hJ9yNBLpZz2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Cannoli",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-goiania-0",
+  "restauranteId": "YxAhhrGKSiaYz0UcaxiQrWuedYV2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-goiania-1",
+  "restauranteId": "YxAhhrGKSiaYz0UcaxiQrWuedYV2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 47.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-goiania-2",
+  "restauranteId": "YxAhhrGKSiaYz0UcaxiQrWuedYV2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-goiania-3",
+  "restauranteId": "YxAhhrGKSiaYz0UcaxiQrWuedYV2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-sao-paulo-sao-paulo-0",
+  "restauranteId": "sPS22OxaGpWtukSirKjZVRdiAbB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 59,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-sao-paulo-sao-paulo-1",
+  "restauranteId": "sPS22OxaGpWtukSirKjZVRdiAbB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-sao-paulo-sao-paulo-2",
+  "restauranteId": "sPS22OxaGpWtukSirKjZVRdiAbB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-sao-paulo-sao-paulo-3",
+  "restauranteId": "sPS22OxaGpWtukSirKjZVRdiAbB3",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-da-vo-sao-paulo-sao-paulo-4",
+  "restauranteId": "sPS22OxaGpWtukSirKjZVRdiAbB3",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-fortaleza-fortaleza-0",
+  "restauranteId": "C48YT7zdCdTPBJSECYAqafAoDjA3",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-fortaleza-fortaleza-1",
+  "restauranteId": "C48YT7zdCdTPBJSECYAqafAoDjA3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 72,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-fortaleza-fortaleza-2",
+  "restauranteId": "C48YT7zdCdTPBJSECYAqafAoDjA3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 96,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-fortaleza-fortaleza-3",
+  "restauranteId": "C48YT7zdCdTPBJSECYAqafAoDjA3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-fortaleza-fortaleza-4",
+  "restauranteId": "C48YT7zdCdTPBJSECYAqafAoDjA3",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-jericoacoara-jericoacoara-0",
+  "restauranteId": "mRlxKNrVLbQEQHaM3daLZxp85yl1",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-jericoacoara-jericoacoara-1",
+  "restauranteId": "mRlxKNrVLbQEQHaM3daLZxp85yl1",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-jericoacoara-jericoacoara-2",
+  "restauranteId": "mRlxKNrVLbQEQHaM3daLZxp85yl1",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-olinda-0",
+  "restauranteId": "RpeGiZLiPLdDTDUycoS74r46idm2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-olinda-1",
+  "restauranteId": "RpeGiZLiPLdDTDUycoS74r46idm2",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-olinda-2",
+  "restauranteId": "RpeGiZLiPLdDTDUycoS74r46idm2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-olinda-3",
+  "restauranteId": "RpeGiZLiPLdDTDUycoS74r46idm2",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-sao-paulo-sao-paulo-0",
+  "restauranteId": "tZOCQC5SPPec1jJFb0wxg1F9hGM2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 90,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-sao-paulo-sao-paulo-1",
+  "restauranteId": "tZOCQC5SPPec1jJFb0wxg1F9hGM2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-sao-paulo-sao-paulo-2",
+  "restauranteId": "tZOCQC5SPPec1jJFb0wxg1F9hGM2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 120,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-sao-paulo-sao-paulo-3",
+  "restauranteId": "tZOCQC5SPPec1jJFb0wxg1F9hGM2",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-baiao-sao-paulo-sao-paulo-4",
+  "restauranteId": "tZOCQC5SPPec1jJFb0wxg1F9hGM2",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-0",
+  "restauranteId": "mplleegbwlVUqVFj76T42sEVHvq1",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo à lagareiro",
+  "preco": 186.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-1",
+  "restauranteId": "mplleegbwlVUqVFj76T42sEVHvq1",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Bacalhau à Gomes de Sá",
+  "preco": 173.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-2",
+  "restauranteId": "mplleegbwlVUqVFj76T42sEVHvq1",
+  "cozinha": "Portuguesa",
+  "categoria": "Sobremesa",
+  "titulo": "Pastel de nata",
+  "preco": 17.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-rio-de-jane-0",
+  "restauranteId": "SktLA5vrJ8M3rsbHgeTuSfznB9i1",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Bacalhau à Gomes de Sá",
+  "preco": 173.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-rio-de-jane-1",
+  "restauranteId": "SktLA5vrJ8M3rsbHgeTuSfznB9i1",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo à lagareiro",
+  "preco": 186.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-rio-de-jane-2",
+  "restauranteId": "SktLA5vrJ8M3rsbHgeTuSfznB9i1",
+  "cozinha": "Portuguesa",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de bacalhau",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-do-porto-rio-de-janeiro-rio-de-jane-3",
+  "restauranteId": "SktLA5vrJ8M3rsbHgeTuSfznB9i1",
+  "cozinha": "Portuguesa",
+  "categoria": "Sobremesa",
+  "titulo": "Pastel de nata",
+  "preco": 17.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-brasilia-brasilia-0",
+  "restauranteId": "xH3bfX78XnbdiUXK2LoWeuPNaEI2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 86.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-brasilia-brasilia-1",
+  "restauranteId": "xH3bfX78XnbdiUXK2LoWeuPNaEI2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 62.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-brasilia-brasilia-2",
+  "restauranteId": "xH3bfX78XnbdiUXK2LoWeuPNaEI2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-brasilia-brasilia-3",
+  "restauranteId": "xH3bfX78XnbdiUXK2LoWeuPNaEI2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-brasilia-brasilia-4",
+  "restauranteId": "xH3bfX78XnbdiUXK2LoWeuPNaEI2",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-sao-paulo-0",
+  "restauranteId": "u80YaNcNoCNmYZRtgmTcgU6UVeF2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 9,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-sao-paulo-1",
+  "restauranteId": "u80YaNcNoCNmYZRtgmTcgU6UVeF2",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-sao-paulo-2",
+  "restauranteId": "u80YaNcNoCNmYZRtgmTcgU6UVeF2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 54,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-libanesa-sao-paulo-3",
+  "restauranteId": "u80YaNcNoCNmYZRtgmTcgU6UVeF2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 39,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-goiania-goiania-0",
+  "restauranteId": "UoWXDaqf92XH2HUPQFLhQYMNy6U2",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Yakisoba de frango",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-goiania-goiania-1",
+  "restauranteId": "UoWXDaqf92XH2HUPQFLhQYMNy6U2",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Frango xadrez",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-goiania-goiania-2",
+  "restauranteId": "UoWXDaqf92XH2HUPQFLhQYMNy6U2",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-goiania-goiania-3",
+  "restauranteId": "UoWXDaqf92XH2HUPQFLhQYMNy6U2",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 16,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-sao-paulo-0",
+  "restauranteId": "FGPrnL031AcCXXH6HoIu5GzDfV82",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Yakisoba de frango",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-sao-paulo-1",
+  "restauranteId": "FGPrnL031AcCXXH6HoIu5GzDfV82",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Frango xadrez",
+  "preco": 83.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-sao-paulo-2",
+  "restauranteId": "FGPrnL031AcCXXH6HoIu5GzDfV82",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "casa-xangai-sao-paulo-3",
+  "restauranteId": "FGPrnL031AcCXXH6HoIu5GzDfV82",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 25.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-curitiba-0",
+  "restauranteId": "KVXtiyttKkdi7tY2PyKf9FD9ndr1",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-curitiba-1",
+  "restauranteId": "KVXtiyttKkdi7tY2PyKf9FD9ndr1",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-curitiba-2",
+  "restauranteId": "KVXtiyttKkdi7tY2PyKf9FD9ndr1",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 7.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-curitiba-3",
+  "restauranteId": "KVXtiyttKkdi7tY2PyKf9FD9ndr1",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 43.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-curitiba-4",
+  "restauranteId": "KVXtiyttKkdi7tY2PyKf9FD9ndr1",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-rio-de-janeiro-rio-de-ja-0",
+  "restauranteId": "157umf1e5jVMew6YxfP1Stz4hkq1",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 54,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-rio-de-janeiro-rio-de-ja-1",
+  "restauranteId": "157umf1e5jVMew6YxfP1Stz4hkq1",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 39,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-rio-de-janeiro-rio-de-ja-2",
+  "restauranteId": "157umf1e5jVMew6YxfP1Stz4hkq1",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 9,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-rio-de-janeiro-rio-de-ja-3",
+  "restauranteId": "157umf1e5jVMew6YxfP1Stz4hkq1",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cedro-do-libano-rio-de-janeiro-rio-de-ja-4",
+  "restauranteId": "157umf1e5jVMew6YxfP1Stz4hkq1",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chama-campeira-porto-alegre-0",
+  "restauranteId": "Lww6TGtyz2W6wljeuwE6xyW96M93",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 89,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chama-campeira-porto-alegre-1",
+  "restauranteId": "Lww6TGtyz2W6wljeuwE6xyW96M93",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chama-campeira-porto-alegre-2",
+  "restauranteId": "Lww6TGtyz2W6wljeuwE6xyW96M93",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chama-campeira-porto-alegre-3",
+  "restauranteId": "Lww6TGtyz2W6wljeuwE6xyW96M93",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 19,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chama-campeira-porto-alegre-4",
+  "restauranteId": "Lww6TGtyz2W6wljeuwE6xyW96M93",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 98,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-brasilia-0",
+  "restauranteId": "sf2DZijWUcMAPavQNeRLyjwzyqG3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 90,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-brasilia-1",
+  "restauranteId": "sf2DZijWUcMAPavQNeRLyjwzyqG3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-brasilia-2",
+  "restauranteId": "sf2DZijWUcMAPavQNeRLyjwzyqG3",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-fortaleza-fortaleza-0",
+  "restauranteId": "F8BCC6MCCNTlItaWfG5LjqFXr4i2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 72,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-fortaleza-fortaleza-1",
+  "restauranteId": "F8BCC6MCCNTlItaWfG5LjqFXr4i2",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-fortaleza-fortaleza-2",
+  "restauranteId": "F8BCC6MCCNTlItaWfG5LjqFXr4i2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 96,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-fortaleza-fortaleza-3",
+  "restauranteId": "F8BCC6MCCNTlItaWfG5LjqFXr4i2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-goiania-goiania-0",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 57.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-goiania-goiania-1",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-goiania-goiania-2",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-goiania-goiania-3",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "cheiro-de-terra-goiania-goiania-4",
+  "restauranteId": "icqw9v4kgNNzDEcijuclV3kVF9l1",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "5L8a5ldpjQbWc69vOz4F5PdgtLZ2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Boeuf bourguignon",
+  "preco": 102.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "5L8a5ldpjQbWc69vOz4F5PdgtLZ2",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Quiche lorraine",
+  "preco": 33.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "5L8a5ldpjQbWc69vOz4F5PdgtLZ2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Ratatouille",
+  "preco": 68.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "5L8a5ldpjQbWc69vOz4F5PdgtLZ2",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mousse au chocolat",
+  "preco": 25.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-sao-paulo-0",
+  "restauranteId": "rhdWPErHrfdFWSEpbnlmGwcbSfM2",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mousse au chocolat",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-sao-paulo-1",
+  "restauranteId": "rhdWPErHrfdFWSEpbnlmGwcbSfM2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Boeuf bourguignon",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "chez-marie-sao-paulo-2",
+  "restauranteId": "rhdWPErHrfdFWSEpbnlmGwcbSfM2",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Quiche lorraine",
+  "preco": 52.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "churrascaria-alegria-0",
+  "restauranteId": "bRlX1RrMEXcptusVb7dFCGUX9YH2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Rodízio completo",
+  "preco": 89.9,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "churrascaria-alegria-1",
+  "restauranteId": "bRlX1RrMEXcptusVb7dFCGUX9YH2",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "churrascaria-alegria-2",
+  "restauranteId": "bRlX1RrMEXcptusVb7dFCGUX9YH2",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim da casa",
+  "preco": 16,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-goiania-goiania-0",
+  "restauranteId": "fJr26eaG1lQhlRyFtKqw3765SUn2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 83.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-goiania-goiania-1",
+  "restauranteId": "fJr26eaG1lQhlRyFtKqw3765SUn2",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-goiania-goiania-2",
+  "restauranteId": "fJr26eaG1lQhlRyFtKqw3765SUn2",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-goiania-goiania-3",
+  "restauranteId": "fJr26eaG1lQhlRyFtKqw3765SUn2",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-tiradentes-0",
+  "restauranteId": "FkgYm4Cp1xa3TNr2rHuaDy81oPD3",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 9.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-tiradentes-1",
+  "restauranteId": "FkgYm4Cp1xa3TNr2rHuaDy81oPD3",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-tiradentes-2",
+  "restauranteId": "FkgYm4Cp1xa3TNr2rHuaDy81oPD3",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "coado-cia-tiradentes-3",
+  "restauranteId": "FkgYm4Cp1xa3TNr2rHuaDy81oPD3",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-florianopolis-0",
+  "restauranteId": "1aN3oquSisRY3p6B6oL8EByvdi82",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-florianopolis-1",
+  "restauranteId": "1aN3oquSisRY3p6B6oL8EByvdi82",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 95,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-florianopolis-2",
+  "restauranteId": "1aN3oquSisRY3p6B6oL8EByvdi82",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-florianopolis-3",
+  "restauranteId": "1aN3oquSisRY3p6B6oL8EByvdi82",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-sao-paulo-sao-paulo-0",
+  "restauranteId": "79yzHCYiNcgy6TdQyk7fFdyOmVK2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 102.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-sao-paulo-sao-paulo-1",
+  "restauranteId": "79yzHCYiNcgy6TdQyk7fFdyOmVK2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-sao-paulo-sao-paulo-2",
+  "restauranteId": "79yzHCYiNcgy6TdQyk7fFdyOmVK2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costa-grega-sao-paulo-sao-paulo-3",
+  "restauranteId": "79yzHCYiNcgy6TdQyk7fFdyOmVK2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-belo-horizonte-0",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-belo-horizonte-1",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-belo-horizonte-2",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-belo-horizonte-3",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 156.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-belo-horizonte-4",
+  "restauranteId": "SZFjIdL2MLRuDWYssldu0Q0xkPA3",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-caxias-do-sul-caxias-do-sul-0",
+  "restauranteId": "zSLudZ49vnM8ieBAYNisC3yAWsj2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 122.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-caxias-do-sul-caxias-do-sul-1",
+  "restauranteId": "zSLudZ49vnM8ieBAYNisC3yAWsj2",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-caxias-do-sul-caxias-do-sul-2",
+  "restauranteId": "zSLudZ49vnM8ieBAYNisC3yAWsj2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 111.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-caxias-do-sul-caxias-do-sul-3",
+  "restauranteId": "zSLudZ49vnM8ieBAYNisC3yAWsj2",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-sao-paulo-sao-paulo-0",
+  "restauranteId": "NlFh0BSXGWUIqt7KEWNA3WPLgj83",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 98,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-sao-paulo-sao-paulo-1",
+  "restauranteId": "NlFh0BSXGWUIqt7KEWNA3WPLgj83",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 89,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-sao-paulo-sao-paulo-2",
+  "restauranteId": "NlFh0BSXGWUIqt7KEWNA3WPLgj83",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-sao-paulo-sao-paulo-3",
+  "restauranteId": "NlFh0BSXGWUIqt7KEWNA3WPLgj83",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "costela-cia-sao-paulo-sao-paulo-4",
+  "restauranteId": "NlFh0BSXGWUIqt7KEWNA3WPLgj83",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 19,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-campinas-0",
+  "restauranteId": "Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 39,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-campinas-1",
+  "restauranteId": "Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-campinas-2",
+  "restauranteId": "Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 9,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-goiania-goiania-0",
+  "restauranteId": "Gj3Y9FRW9EgOOuAYDp1eZXSqkw62",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 67.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-goiania-goiania-1",
+  "restauranteId": "Gj3Y9FRW9EgOOuAYDp1eZXSqkw62",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 48.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-goiania-goiania-2",
+  "restauranteId": "Gj3Y9FRW9EgOOuAYDp1eZXSqkw62",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 11.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-goiania-goiania-3",
+  "restauranteId": "Gj3Y9FRW9EgOOuAYDp1eZXSqkw62",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "damasco-goiania-goiania-4",
+  "restauranteId": "Gj3Y9FRW9EgOOuAYDp1eZXSqkw62",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "dragao-dourado-sao-paulo-0",
+  "restauranteId": "N6yRH6gVlzgiY57MWYKRYwHcJAa2",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Yakisoba de frango",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "dragao-dourado-sao-paulo-1",
+  "restauranteId": "N6yRH6gVlzgiY57MWYKRYwHcJAa2",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 12.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "dragao-dourado-sao-paulo-2",
+  "restauranteId": "N6yRH6gVlzgiY57MWYKRYwHcJAa2",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "el-mariachi-sao-paulo-0",
+  "restauranteId": "U3AwLR0e6Gccq2seb0Wo59hNm2w2",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Burrito de carne",
+  "preco": 55,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "el-mariachi-sao-paulo-1",
+  "restauranteId": "U3AwLR0e6Gccq2seb0Wo59hNm2w2",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Quesadilla",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "el-mariachi-sao-paulo-2",
+  "restauranteId": "U3AwLR0e6Gccq2seb0Wo59hNm2w2",
+  "cozinha": "Mexicana",
+  "categoria": "Entrada",
+  "titulo": "Guacamole com nachos",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "el-mariachi-sao-paulo-3",
+  "restauranteId": "U3AwLR0e6Gccq2seb0Wo59hNm2w2",
+  "cozinha": "Mexicana",
+  "categoria": "Sobremesa",
+  "titulo": "Churros com doce de leite",
+  "preco": 23.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "estacao-autoral-brasilia-0",
+  "restauranteId": "SXMYgfnuTANeCb7fSHWLQAodv5j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 384,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "estacao-autoral-brasilia-1",
+  "restauranteId": "SXMYgfnuTANeCb7fSHWLQAodv5j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 188.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "estacao-autoral-brasilia-2",
+  "restauranteId": "SXMYgfnuTANeCb7fSHWLQAodv5j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "estacao-autoral-brasilia-3",
+  "restauranteId": "SXMYgfnuTANeCb7fSHWLQAodv5j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-brasilia-brasilia-0",
+  "restauranteId": "crX2pHRX3gYufKL9aQXCv9oLdB12",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 47.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-brasilia-brasilia-1",
+  "restauranteId": "crX2pHRX3gYufKL9aQXCv9oLdB12",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-brasilia-brasilia-2",
+  "restauranteId": "crX2pHRX3gYufKL9aQXCv9oLdB12",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-brasilia-brasilia-3",
+  "restauranteId": "crX2pHRX3gYufKL9aQXCv9oLdB12",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 20.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-brasilia-brasilia-4",
+  "restauranteId": "crX2pHRX3gYufKL9aQXCv9oLdB12",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-rio-de-janeiro-0",
+  "restauranteId": "OH0CG2JgGmh73B1X192bsPgwquo2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-rio-de-janeiro-1",
+  "restauranteId": "OH0CG2JgGmh73B1X192bsPgwquo2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 59,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogao-de-minas-rio-de-janeiro-2",
+  "restauranteId": "OH0CG2JgGmh73B1X192bsPgwquo2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-brasilia-brasilia-0",
+  "restauranteId": "dzPYpzvcw2TmGY4M85LfMvCXa1K2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-brasilia-brasilia-1",
+  "restauranteId": "dzPYpzvcw2TmGY4M85LfMvCXa1K2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 71.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-brasilia-brasilia-2",
+  "restauranteId": "dzPYpzvcw2TmGY4M85LfMvCXa1K2",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-brasilia-brasilia-3",
+  "restauranteId": "dzPYpzvcw2TmGY4M85LfMvCXa1K2",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-brasilia-brasilia-4",
+  "restauranteId": "dzPYpzvcw2TmGY4M85LfMvCXa1K2",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 15.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-pirenopolis-0",
+  "restauranteId": "gsT7chP54zMOvxcRyrqldayGwP13",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-pirenopolis-1",
+  "restauranteId": "gsT7chP54zMOvxcRyrqldayGwP13",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 23.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-pirenopolis-2",
+  "restauranteId": "gsT7chP54zMOvxcRyrqldayGwP13",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 111.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-pirenopolis-3",
+  "restauranteId": "gsT7chP54zMOvxcRyrqldayGwP13",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "fogo-de-chao-gaucho-pirenopolis-4",
+  "restauranteId": "gsT7chP54zMOvxcRyrqldayGwP13",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 122.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-brasilia-brasilia-0",
+  "restauranteId": "hKwH7q9JL8co5ucPidEhL3Vyr3t1",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 99.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-brasilia-brasilia-1",
+  "restauranteId": "hKwH7q9JL8co5ucPidEhL3Vyr3t1",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 108.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-brasilia-brasilia-2",
+  "restauranteId": "hKwH7q9JL8co5ucPidEhL3Vyr3t1",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-brasilia-brasilia-3",
+  "restauranteId": "hKwH7q9JL8co5ucPidEhL3Vyr3t1",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-0",
+  "restauranteId": "YPd70fq5IoXUaaEy30A1Z4wJmh23",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-1",
+  "restauranteId": "YPd70fq5IoXUaaEy30A1Z4wJmh23",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-2",
+  "restauranteId": "YPd70fq5IoXUaaEy30A1Z4wJmh23",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 49.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-3",
+  "restauranteId": "YPd70fq5IoXUaaEy30A1Z4wJmh23",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 39.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-santos-0",
+  "restauranteId": "FpGRRGRE8mSlEL7FmYSUVWLLOtu1",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-santos-1",
+  "restauranteId": "FpGRRGRE8mSlEL7FmYSUVWLLOtu1",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "forno-a-lenha-santos-santos-2",
+  "restauranteId": "FpGRRGRE8mSlEL7FmYSUVWLLOtu1",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "galpao-crioulo-gramado-0",
+  "restauranteId": "7IxZabB2CrafJl0QnladUOoVYzn2",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "galpao-crioulo-gramado-1",
+  "restauranteId": "7IxZabB2CrafJl0QnladUOoVYzn2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 156.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "galpao-crioulo-gramado-2",
+  "restauranteId": "7IxZabB2CrafJl0QnladUOoVYzn2",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "galpao-crioulo-gramado-3",
+  "restauranteId": "7IxZabB2CrafJl0QnladUOoVYzn2",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-folha-brasilia-0",
+  "restauranteId": "ghSGrTq3sISsfkD2VoMGpIS3QN62",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Bowl de grãos",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-folha-brasilia-1",
+  "restauranteId": "ghSGrTq3sISsfkD2VoMGpIS3QN62",
+  "cozinha": "Vegetariana",
+  "categoria": "Sobremesa",
+  "titulo": "Brownie vegano",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-folha-brasilia-2",
+  "restauranteId": "ghSGrTq3sISsfkD2VoMGpIS3QN62",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de banana-da-terra",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-folha-brasilia-3",
+  "restauranteId": "ghSGrTq3sISsfkD2VoMGpIS3QN62",
+  "cozinha": "Vegetariana",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de quinoa",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-brasilia-brasilia-0",
+  "restauranteId": "aSMZ7NgH3iTvfWEsXlI6TVahgZ73",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-brasilia-brasilia-1",
+  "restauranteId": "aSMZ7NgH3iTvfWEsXlI6TVahgZ73",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-brasilia-brasilia-2",
+  "restauranteId": "aSMZ7NgH3iTvfWEsXlI6TVahgZ73",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 9.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-brasilia-brasilia-3",
+  "restauranteId": "aSMZ7NgH3iTvfWEsXlI6TVahgZ73",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-curitiba-0",
+  "restauranteId": "PUrJAUFx83XylGAOyJF3TNppCGh1",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-curitiba-1",
+  "restauranteId": "PUrJAUFx83XylGAOyJF3TNppCGh1",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 9.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "grao-nobre-cafe-curitiba-2",
+  "restauranteId": "PUrJAUFx83XylGAOyJF3TNppCGh1",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-rio-de-janeiro-0",
+  "restauranteId": "jJ5XpykrH0MLbnOKWV3vqgBpABU2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-rio-de-janeiro-1",
+  "restauranteId": "jJ5XpykrH0MLbnOKWV3vqgBpABU2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-rio-de-janeiro-2",
+  "restauranteId": "jJ5XpykrH0MLbnOKWV3vqgBpABU2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-rio-de-janeiro-3",
+  "restauranteId": "jJ5XpykrH0MLbnOKWV3vqgBpABU2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-sao-paulo-sao-paulo-0",
+  "restauranteId": "iUXfBDMKKmeruJoF5D7gA1kOsdy1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 148.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-sao-paulo-sao-paulo-1",
+  "restauranteId": "iUXfBDMKKmeruJoF5D7gA1kOsdy1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-sao-paulo-sao-paulo-2",
+  "restauranteId": "iUXfBDMKKmeruJoF5D7gA1kOsdy1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-sao-paulo-sao-paulo-3",
+  "restauranteId": "iUXfBDMKKmeruJoF5D7gA1kOsdy1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "hanami-sao-paulo-sao-paulo-4",
+  "restauranteId": "iUXfBDMKKmeruJoF5D7gA1kOsdy1",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "horta-viva-brasilia-0",
+  "restauranteId": "tYuN50Q3G2ZVaxeNo7XOG9o57yH3",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Bowl de grãos",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "horta-viva-brasilia-1",
+  "restauranteId": "tYuN50Q3G2ZVaxeNo7XOG9o57yH3",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de banana-da-terra",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "horta-viva-brasilia-2",
+  "restauranteId": "tYuN50Q3G2ZVaxeNo7XOG9o57yH3",
+  "cozinha": "Vegetariana",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de quinoa",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "horta-viva-brasilia-3",
+  "restauranteId": "tYuN50Q3G2ZVaxeNo7XOG9o57yH3",
+  "cozinha": "Vegetariana",
+  "categoria": "Sobremesa",
+  "titulo": "Brownie vegano",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-goiania-goiania-0",
+  "restauranteId": "vE26MAH97GT4Wk8Qxd1uKm8GDnt1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 82,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-goiania-goiania-1",
+  "restauranteId": "vE26MAH97GT4Wk8Qxd1uKm8GDnt1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 69,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-goiania-goiania-2",
+  "restauranteId": "vE26MAH97GT4Wk8Qxd1uKm8GDnt1",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-goiania-goiania-3",
+  "restauranteId": "vE26MAH97GT4Wk8Qxd1uKm8GDnt1",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 32,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-goiania-goiania-4",
+  "restauranteId": "vE26MAH97GT4Wk8Qxd1uKm8GDnt1",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-gramado-gramado-0",
+  "restauranteId": "n2ASm5fB9yfQd2PWDPf9qhaf66s2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-gramado-gramado-1",
+  "restauranteId": "n2ASm5fB9yfQd2PWDPf9qhaf66s2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-gramado-gramado-2",
+  "restauranteId": "n2ASm5fB9yfQd2PWDPf9qhaf66s2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-sao-paulo-0",
+  "restauranteId": "9rnBhKZJXYWGNi8o6alCqDVImCg1",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-sao-paulo-1",
+  "restauranteId": "9rnBhKZJXYWGNi8o6alCqDVImCg1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 82,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "il-forno-sao-paulo-2",
+  "restauranteId": "9rnBhKZJXYWGNi8o6alCqDVImCg1",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-salvador-0",
+  "restauranteId": "NfeMsFbGlHRn7YHMDJO7omB38J12",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-salvador-1",
+  "restauranteId": "NfeMsFbGlHRn7YHMDJO7omB38J12",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 118.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-salvador-2",
+  "restauranteId": "NfeMsFbGlHRn7YHMDJO7omB38J12",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-salvador-3",
+  "restauranteId": "NfeMsFbGlHRn7YHMDJO7omB38J12",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-sao-paulo-sao-paulo-0",
+  "restauranteId": "57WKZE4yOxQzLB641ud1mfWvTyH3",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-sao-paulo-sao-paulo-1",
+  "restauranteId": "57WKZE4yOxQzLB641ud1mfWvTyH3",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 71.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-sao-paulo-sao-paulo-2",
+  "restauranteId": "57WKZE4yOxQzLB641ud1mfWvTyH3",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 59.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "inca-cozinha-sao-paulo-sao-paulo-3",
+  "restauranteId": "57WKZE4yOxQzLB641ud1mfWvTyH3",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 23.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "izakaya-noite-0",
+  "restauranteId": "YGzOK5Yb03cWQjuWE4yjLTRNqFl1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Guioza (6 un.)",
+  "preco": 29,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "izakaya-noite-1",
+  "restauranteId": "YGzOK5Yb03cWQjuWE4yjLTRNqFl1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Lámen tonkotsu",
+  "preco": 54,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "izakaya-noite-2",
+  "restauranteId": "YGzOK5Yb03cWQjuWE4yjLTRNqFl1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 20 peças",
+  "preco": 79,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "jardim-de-pequim-sao-paulo-0",
+  "restauranteId": "l4CpZCM2tGSyonKKGyYeHLiT8M52",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Frango xadrez",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "jardim-de-pequim-sao-paulo-1",
+  "restauranteId": "l4CpZCM2tGSyonKKGyYeHLiT8M52",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "jardim-de-pequim-sao-paulo-2",
+  "restauranteId": "l4CpZCM2tGSyonKKGyYeHLiT8M52",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 16,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-0",
+  "restauranteId": "W0mxUZwWDPWhr67kNyV4HgQXr9A2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-1",
+  "restauranteId": "W0mxUZwWDPWhr67kNyV4HgQXr9A2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-2",
+  "restauranteId": "W0mxUZwWDPWhr67kNyV4HgQXr9A2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-3",
+  "restauranteId": "W0mxUZwWDPWhr67kNyV4HgQXr9A2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 190.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-brasilia-0",
+  "restauranteId": "Fx6SBwzgsEdBAxMI9qMmBsGy53T2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 119,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-brasilia-1",
+  "restauranteId": "Fx6SBwzgsEdBAxMI9qMmBsGy53T2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-brasilia-2",
+  "restauranteId": "Fx6SBwzgsEdBAxMI9qMmBsGy53T2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-brasilia-3",
+  "restauranteId": "Fx6SBwzgsEdBAxMI9qMmBsGy53T2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "kaze-sushi-brasilia-brasilia-4",
+  "restauranteId": "Fx6SBwzgsEdBAxMI9qMmBsGy53T2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-belo-horizonte-0",
+  "restauranteId": "0G7HC0EknIZmQe9igMmdDaWBAKD3",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-belo-horizonte-1",
+  "restauranteId": "0G7HC0EknIZmQe9igMmdDaWBAKD3",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-belo-horizonte-2",
+  "restauranteId": "0G7HC0EknIZmQe9igMmdDaWBAKD3",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 147.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-belo-horizonte-3",
+  "restauranteId": "0G7HC0EknIZmQe9igMmdDaWBAKD3",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 300,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-rio-de-janeiro--0",
+  "restauranteId": "Tk2wc2uZjQWF8SPuT6JFgfIuY2j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 240,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-rio-de-janeiro--1",
+  "restauranteId": "Tk2wc2uZjQWF8SPuT6JFgfIuY2j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 118,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-rio-de-janeiro--2",
+  "restauranteId": "Tk2wc2uZjQWF8SPuT6JFgfIuY2j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "laboratorio-gastronomico-rio-de-janeiro--3",
+  "restauranteId": "Tk2wc2uZjQWF8SPuT6JFgfIuY2j2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lata-burger-fortaleza-0",
+  "restauranteId": "U4MKMbOrkSZNc9DPW8AYDXTLsAp2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lata-burger-fortaleza-1",
+  "restauranteId": "U4MKMbOrkSZNc9DPW8AYDXTLsAp2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lata-burger-fortaleza-2",
+  "restauranteId": "U4MKMbOrkSZNc9DPW8AYDXTLsAp2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "le-jardin-sao-paulo-0",
+  "restauranteId": "iH610GY48MSdGiwjZ26e3nlqPk63",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Boeuf bourguignon",
+  "preco": 204.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "le-jardin-sao-paulo-1",
+  "restauranteId": "iH610GY48MSdGiwjZ26e3nlqPk63",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Quiche lorraine",
+  "preco": 67.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "le-jardin-sao-paulo-2",
+  "restauranteId": "iH610GY48MSdGiwjZ26e3nlqPk63",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Ratatouille",
+  "preco": 137.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "le-jardin-sao-paulo-3",
+  "restauranteId": "iH610GY48MSdGiwjZ26e3nlqPk63",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mousse au chocolat",
+  "preco": 51.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-brasilia-brasilia-0",
+  "restauranteId": "3F7xVMgAGsMEnaECh8BACBGRj953",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-brasilia-brasilia-1",
+  "restauranteId": "3F7xVMgAGsMEnaECh8BACBGRj953",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-brasilia-brasilia-2",
+  "restauranteId": "3F7xVMgAGsMEnaECh8BACBGRj953",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 118.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-brasilia-brasilia-3",
+  "restauranteId": "3F7xVMgAGsMEnaECh8BACBGRj953",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-goiania-goiania-0",
+  "restauranteId": "C2czLDMvCdeQRf37rX6ngGPojY03",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-goiania-goiania-1",
+  "restauranteId": "C2czLDMvCdeQRf37rX6ngGPojY03",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 111.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-goiania-goiania-2",
+  "restauranteId": "C2czLDMvCdeQRf37rX6ngGPojY03",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 92.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-goiania-goiania-3",
+  "restauranteId": "C2czLDMvCdeQRf37rX6ngGPojY03",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 36.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-sao-paulo-0",
+  "restauranteId": "vYVsKOgxYPMXtANrgIQbKGnbyJk1",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-sao-paulo-1",
+  "restauranteId": "vYVsKOgxYPMXtANrgIQbKGnbyJk1",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-sao-paulo-2",
+  "restauranteId": "vYVsKOgxYPMXtANrgIQbKGnbyJk1",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 118.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "lima-cevicheria-sao-paulo-3",
+  "restauranteId": "vYVsKOgxYPMXtANrgIQbKGnbyJk1",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-recife-0",
+  "restauranteId": "fk2VQU16hCXhFiH5vylznSr8vs82",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-recife-1",
+  "restauranteId": "fk2VQU16hCXhFiH5vylznSr8vs82",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 96,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-recife-2",
+  "restauranteId": "fk2VQU16hCXhFiH5vylznSr8vs82",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-recife-3",
+  "restauranteId": "fk2VQU16hCXhFiH5vylznSr8vs82",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 72,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-recife-4",
+  "restauranteId": "fk2VQU16hCXhFiH5vylznSr8vs82",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "IKRBzXrE5JcnoPIJrAwfCDQX29C2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 115.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "IKRBzXrE5JcnoPIJrAwfCDQX29C2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "IKRBzXrE5JcnoPIJrAwfCDQX29C2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 153.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "IKRBzXrE5JcnoPIJrAwfCDQX29C2",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mandacaru-rio-de-janeiro-rio-de-janeiro-4",
+  "restauranteId": "IKRBzXrE5JcnoPIJrAwfCDQX29C2",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mar-oliva-0",
+  "restauranteId": "MiwunxJ7UfO2gv6JUPDsWtKI3Sv2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo grelhado",
+  "preco": 118,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mar-oliva-1",
+  "restauranteId": "MiwunxJ7UfO2gv6JUPDsWtKI3Sv2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão sírio",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mar-oliva-2",
+  "restauranteId": "MiwunxJ7UfO2gv6JUPDsWtKI3Sv2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Baklava",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mare-cheia-salvador-0",
+  "restauranteId": "yJLMaelXgFYymQwgBsQi7QIhKKm1",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mare-cheia-salvador-1",
+  "restauranteId": "yJLMaelXgFYymQwgBsQi7QIhKKm1",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mare-cheia-salvador-2",
+  "restauranteId": "yJLMaelXgFYymQwgBsQi7QIhKKm1",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 90,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-manaus-manaus-0",
+  "restauranteId": "niI0jgu3sJQRPwVvRKxJ6lUbLmS2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 220.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-manaus-manaus-1",
+  "restauranteId": "niI0jgu3sJQRPwVvRKxJ6lUbLmS2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 33.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-manaus-manaus-2",
+  "restauranteId": "niI0jgu3sJQRPwVvRKxJ6lUbLmS2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-recife-0",
+  "restauranteId": "uu7b2EzekfgMsEBCMIqREUQ2w2H3",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-recife-1",
+  "restauranteId": "uu7b2EzekfgMsEBCMIqREUQ2w2H3",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-recife-2",
+  "restauranteId": "uu7b2EzekfgMsEBCMIqREUQ2w2H3",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "maresia-recife-3",
+  "restauranteId": "uu7b2EzekfgMsEBCMIqREUQ2w2H3",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-anapolis-0",
+  "restauranteId": "jSfWBoQmYIM49whWStLPWgM5fgw2",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-anapolis-1",
+  "restauranteId": "jSfWBoQmYIM49whWStLPWgM5fgw2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 49.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-anapolis-2",
+  "restauranteId": "jSfWBoQmYIM49whWStLPWgM5fgw2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-anapolis-3",
+  "restauranteId": "jSfWBoQmYIM49whWStLPWgM5fgw2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 39.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-porto-alegre-porto-alegre-0",
+  "restauranteId": "A1XrUkVEyCQL5RKBZNdutMOxTth2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 62,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-porto-alegre-porto-alegre-1",
+  "restauranteId": "A1XrUkVEyCQL5RKBZNdutMOxTth2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-porto-alegre-porto-alegre-2",
+  "restauranteId": "A1XrUkVEyCQL5RKBZNdutMOxTth2",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-porto-alegre-porto-alegre-3",
+  "restauranteId": "A1XrUkVEyCQL5RKBZNdutMOxTth2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-rio-de-janeiro-rio-de-jane-0",
+  "restauranteId": "Y8MFGhqpu2e89JG1edx0Tr1ClP82",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 62,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-rio-de-janeiro-rio-de-jane-1",
+  "restauranteId": "Y8MFGhqpu2e89JG1edx0Tr1ClP82",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-rio-de-janeiro-rio-de-jane-2",
+  "restauranteId": "Y8MFGhqpu2e89JG1edx0Tr1ClP82",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "margherita-co-rio-de-janeiro-rio-de-jane-3",
+  "restauranteId": "Y8MFGhqpu2e89JG1edx0Tr1ClP82",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "masala-house-sao-paulo-0",
+  "restauranteId": "Q4jNeZxVaeNzXvDDSQCmPrPcpnm2",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Frango tikka masala",
+  "preco": 102.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "masala-house-sao-paulo-1",
+  "restauranteId": "Q4jNeZxVaeNzXvDDSQCmPrPcpnm2",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Biryani de cordeiro",
+  "preco": 124.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "masala-house-sao-paulo-2",
+  "restauranteId": "Q4jNeZxVaeNzXvDDSQCmPrPcpnm2",
+  "cozinha": "Indiana",
+  "categoria": "Entrada",
+  "titulo": "Samosa",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "masala-house-sao-paulo-3",
+  "restauranteId": "Q4jNeZxVaeNzXvDDSQCmPrPcpnm2",
+  "cozinha": "Indiana",
+  "categoria": "Sobremesa",
+  "titulo": "Gulab jamun",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "massa-madre-pirenopolis-0",
+  "restauranteId": "wNAp8JFAzFXg7lVbUePDQITFhzF2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "massa-madre-pirenopolis-1",
+  "restauranteId": "wNAp8JFAzFXg7lVbUePDQITFhzF2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 39.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "massa-madre-pirenopolis-2",
+  "restauranteId": "wNAp8JFAzFXg7lVbUePDQITFhzF2",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-belo-horizonte-0",
+  "restauranteId": "s3LG8nYqgUaHBiGnbU8B0VSLq1A2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 147.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-belo-horizonte-1",
+  "restauranteId": "s3LG8nYqgUaHBiGnbU8B0VSLq1A2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-belo-horizonte-2",
+  "restauranteId": "s3LG8nYqgUaHBiGnbU8B0VSLq1A2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-belo-horizonte-3",
+  "restauranteId": "s3LG8nYqgUaHBiGnbU8B0VSLq1A2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 300,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-sao-paulo-sao-paulo-0",
+  "restauranteId": "scc34LM9dVeb0OafuVyk6KGybG13",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 192,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-sao-paulo-sao-paulo-1",
+  "restauranteId": "scc34LM9dVeb0OafuVyk6KGybG13",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 94.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-sao-paulo-sao-paulo-2",
+  "restauranteId": "scc34LM9dVeb0OafuVyk6KGybG13",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "mesa-do-chef-sao-paulo-sao-paulo-3",
+  "restauranteId": "scc34LM9dVeb0OafuVyk6KGybG13",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "namaste-cozinha-rio-de-janeiro-0",
+  "restauranteId": "hxw0qBeNpHP3jO9oeXIj6vpXTh23",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Frango tikka masala",
+  "preco": 51.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "namaste-cozinha-rio-de-janeiro-1",
+  "restauranteId": "hxw0qBeNpHP3jO9oeXIj6vpXTh23",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Biryani de cordeiro",
+  "preco": 62.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "namaste-cozinha-rio-de-janeiro-2",
+  "restauranteId": "hxw0qBeNpHP3jO9oeXIj6vpXTh23",
+  "cozinha": "Indiana",
+  "categoria": "Entrada",
+  "titulo": "Samosa",
+  "preco": 20.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "namaste-cozinha-rio-de-janeiro-3",
+  "restauranteId": "hxw0qBeNpHP3jO9oeXIj6vpXTh23",
+  "cozinha": "Indiana",
+  "categoria": "Sobremesa",
+  "titulo": "Gulab jamun",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-0",
+  "restauranteId": "Q4SKKMuaVgemq8sGHhaMn4DkOJr1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 190.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-1",
+  "restauranteId": "Q4SKKMuaVgemq8sGHhaMn4DkOJr1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-2",
+  "restauranteId": "Q4SKKMuaVgemq8sGHhaMn4DkOJr1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-goiania-0",
+  "restauranteId": "9q4UJFpoOKRDH4ivVduXbRJgScI3",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 95.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-goiania-1",
+  "restauranteId": "9q4UJFpoOKRDH4ivVduXbRJgScI3",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-goiania-2",
+  "restauranteId": "9q4UJFpoOKRDH4ivVduXbRJgScI3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-goiania-3",
+  "restauranteId": "9q4UJFpoOKRDH4ivVduXbRJgScI3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nihon-bar-goiania-goiania-4",
+  "restauranteId": "9q4UJFpoOKRDH4ivVduXbRJgScI3",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 20.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-campinas-0",
+  "restauranteId": "0lMIuurajnZ1WP2pqeJA6rMlufS2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-campinas-1",
+  "restauranteId": "0lMIuurajnZ1WP2pqeJA6rMlufS2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-campinas-2",
+  "restauranteId": "0lMIuurajnZ1WP2pqeJA6rMlufS2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-campinas-3",
+  "restauranteId": "0lMIuurajnZ1WP2pqeJA6rMlufS2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-campinas-4",
+  "restauranteId": "0lMIuurajnZ1WP2pqeJA6rMlufS2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-sao-paulo-sao-paulo-0",
+  "restauranteId": "P1i49Id2LBPx7GDsnIQZZeGNPN03",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 131.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-sao-paulo-sao-paulo-1",
+  "restauranteId": "P1i49Id2LBPx7GDsnIQZZeGNPN03",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 110.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-sao-paulo-sao-paulo-2",
+  "restauranteId": "P1i49Id2LBPx7GDsnIQZZeGNPN03",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 73.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-sao-paulo-sao-paulo-3",
+  "restauranteId": "P1i49Id2LBPx7GDsnIQZZeGNPN03",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 51.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "nonna-rosa-sao-paulo-sao-paulo-4",
+  "restauranteId": "P1i49Id2LBPx7GDsnIQZZeGNPN03",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-aurora-0",
+  "restauranteId": "thzihYT0TPS9YResd7sJDRIiYEN2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Tagliolini al tartufo",
+  "preco": 168,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-aurora-1",
+  "restauranteId": "thzihYT0TPS9YResd7sJDRIiYEN2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Burrata com tomates",
+  "preco": 69,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-aurora-2",
+  "restauranteId": "thzihYT0TPS9YResd7sJDRIiYEN2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Tiramisù",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-florianopolis-floriano-0",
+  "restauranteId": "jPbGuBWN22eKTDR0OdbrRM1szEJ2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-florianopolis-floriano-1",
+  "restauranteId": "jPbGuBWN22eKTDR0OdbrRM1szEJ2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 82,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-florianopolis-floriano-2",
+  "restauranteId": "jPbGuBWN22eKTDR0OdbrRM1szEJ2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 69,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-gramado-gramado-0",
+  "restauranteId": "aL2HXsGiQyfmHldz1XzQCjSjZXB2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-gramado-gramado-1",
+  "restauranteId": "aL2HXsGiQyfmHldz1XzQCjSjZXB2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-gramado-gramado-2",
+  "restauranteId": "aL2HXsGiQyfmHldz1XzQCjSjZXB2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-sao-paulo-0",
+  "restauranteId": "losH7rYMciPER9eWeSbGTJYdAw72",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 69,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-sao-paulo-1",
+  "restauranteId": "losH7rYMciPER9eWeSbGTJYdAw72",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "osteria-del-ponte-sao-paulo-2",
+  "restauranteId": "losH7rYMciPER9eWeSbGTJYdAw72",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "vcCg31M7I1eNvhO5w1XevB7qiPo1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 110.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "vcCg31M7I1eNvhO5w1XevB7qiPo1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 73.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "vcCg31M7I1eNvhO5w1XevB7qiPo1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "vcCg31M7I1eNvhO5w1XevB7qiPo1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 39.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-rio-de-janeiro-rio-de-janeiro-4",
+  "restauranteId": "vcCg31M7I1eNvhO5w1XevB7qiPo1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 16.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-salvador-0",
+  "restauranteId": "Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 147.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-salvador-1",
+  "restauranteId": "Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 33.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-salvador-2",
+  "restauranteId": "Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-salvador-3",
+  "restauranteId": "Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 220.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "ostra-mar-salvador-4",
+  "restauranteId": "Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-belo-horizonte-0",
+  "restauranteId": "j3wR5cHzDgUFoh7pW9grQwq2Nxe2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-belo-horizonte-1",
+  "restauranteId": "j3wR5cHzDgUFoh7pW9grQwq2Nxe2",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 20.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-belo-horizonte-2",
+  "restauranteId": "j3wR5cHzDgUFoh7pW9grQwq2Nxe2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-belo-horizonte-3",
+  "restauranteId": "j3wR5cHzDgUFoh7pW9grQwq2Nxe2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 47.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-goiania-goiania-0",
+  "restauranteId": "m4Vd4ONXrXMA41E1gQv8ySYATqA2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 94.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-goiania-goiania-1",
+  "restauranteId": "m4Vd4ONXrXMA41E1gQv8ySYATqA2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-goiania-goiania-2",
+  "restauranteId": "m4Vd4ONXrXMA41E1gQv8ySYATqA2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 83.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-goiania-goiania-3",
+  "restauranteId": "m4Vd4ONXrXMA41E1gQv8ySYATqA2",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-goiania-goiania-4",
+  "restauranteId": "m4Vd4ONXrXMA41E1gQv8ySYATqA2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-manaus-manaus-0",
+  "restauranteId": "i7aKXDQI68XYmPHUUZSJrqF24rs1",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-manaus-manaus-1",
+  "restauranteId": "i7aKXDQI68XYmPHUUZSJrqF24rs1",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-manaus-manaus-2",
+  "restauranteId": "i7aKXDQI68XYmPHUUZSJrqF24rs1",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-tiradentes-tiradentes-0",
+  "restauranteId": "b0zf6tsrgFgETNXlwpAENa0XVpF2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-tiradentes-tiradentes-1",
+  "restauranteId": "b0zf6tsrgFgETNXlwpAENa0XVpF2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "panela-de-barro-tiradentes-tiradentes-2",
+  "restauranteId": "b0zf6tsrgFgETNXlwpAENa0XVpF2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-goiania-goiania-0",
+  "restauranteId": "eKkCZG47QHfXXnyIvFuAb20PxVG2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-goiania-goiania-1",
+  "restauranteId": "eKkCZG47QHfXXnyIvFuAb20PxVG2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-goiania-goiania-2",
+  "restauranteId": "eKkCZG47QHfXXnyIvFuAb20PxVG2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-goiania-goiania-3",
+  "restauranteId": "eKkCZG47QHfXXnyIvFuAb20PxVG2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-porto-alegre-0",
+  "restauranteId": "Bwv6TSaEmRez5QK4l6YwqILDxYO2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 19.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-porto-alegre-1",
+  "restauranteId": "Bwv6TSaEmRez5QK4l6YwqILDxYO2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Smash duplo",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-porto-alegre-2",
+  "restauranteId": "Bwv6TSaEmRez5QK4l6YwqILDxYO2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pao-blend-porto-alegre-3",
+  "restauranteId": "Bwv6TSaEmRez5QK4l6YwqILDxYO2",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-belo-horizonte-belo-horizon-0",
+  "restauranteId": "UtamE2BbhvNb71WcQG1UmT0rfmO2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-belo-horizonte-belo-horizon-1",
+  "restauranteId": "UtamE2BbhvNb71WcQG1UmT0rfmO2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-belo-horizonte-belo-horizon-2",
+  "restauranteId": "UtamE2BbhvNb71WcQG1UmT0rfmO2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-belo-horizonte-belo-horizon-3",
+  "restauranteId": "UtamE2BbhvNb71WcQG1UmT0rfmO2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-brasilia-0",
+  "restauranteId": "mvrFia69mggQmaa8ZZWGOG6dwfv2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-brasilia-1",
+  "restauranteId": "mvrFia69mggQmaa8ZZWGOG6dwfv2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 110.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-brasilia-2",
+  "restauranteId": "mvrFia69mggQmaa8ZZWGOG6dwfv2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 51.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-brasilia-3",
+  "restauranteId": "mvrFia69mggQmaa8ZZWGOG6dwfv2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 73.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-brasilia-4",
+  "restauranteId": "mvrFia69mggQmaa8ZZWGOG6dwfv2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 131.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-curitiba-curitiba-0",
+  "restauranteId": "3pXLsI5tznTCA0OYy4KLmhYoLBl1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-curitiba-curitiba-1",
+  "restauranteId": "3pXLsI5tznTCA0OYy4KLmhYoLBl1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-curitiba-curitiba-2",
+  "restauranteId": "3pXLsI5tznTCA0OYy4KLmhYoLBl1",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-rio-de-janeiro-rio-de-janei-0",
+  "restauranteId": "NFfkT1ovyLNo7PD1flkbZr6ASdi2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 65.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-rio-de-janeiro-rio-de-janei-1",
+  "restauranteId": "NFfkT1ovyLNo7PD1flkbZr6ASdi2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 55.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-rio-de-janeiro-rio-de-janei-2",
+  "restauranteId": "NFfkT1ovyLNo7PD1flkbZr6ASdi2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 36.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-rio-de-janeiro-rio-de-janei-3",
+  "restauranteId": "NFfkT1ovyLNo7PD1flkbZr6ASdi2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 25.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pasta-fresca-rio-de-janeiro-rio-de-janei-4",
+  "restauranteId": "NFfkT1ovyLNo7PD1flkbZr6ASdi2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-brasilia-brasilia-0",
+  "restauranteId": "CiISKiidJ7XEqmSXDvNTIKW5wD22",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 172.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-brasilia-brasilia-1",
+  "restauranteId": "CiISKiidJ7XEqmSXDvNTIKW5wD22",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 115,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-brasilia-brasilia-2",
+  "restauranteId": "CiISKiidJ7XEqmSXDvNTIKW5wD22",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-brasilia-brasilia-3",
+  "restauranteId": "CiISKiidJ7XEqmSXDvNTIKW5wD22",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 61.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-brasilia-brasilia-4",
+  "restauranteId": "CiISKiidJ7XEqmSXDvNTIKW5wD22",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 26.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-salvador-0",
+  "restauranteId": "mQ67YAEHpQOaT5wSng9bGKTNuc73",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 220.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-salvador-1",
+  "restauranteId": "mQ67YAEHpQOaT5wSng9bGKTNuc73",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 78.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "peixe-na-telha-salvador-2",
+  "restauranteId": "mQ67YAEHpQOaT5wSng9bGKTNuc73",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Sobremesa",
+  "titulo": "Cocada de forno",
+  "preco": 33.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-brasilia-0",
+  "restauranteId": "qVW4FVgnqBfPMlzuAbrjBuG0ZCz1",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Boeuf bourguignon",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-brasilia-1",
+  "restauranteId": "qVW4FVgnqBfPMlzuAbrjBuG0ZCz1",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Quiche lorraine",
+  "preco": 52.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-brasilia-2",
+  "restauranteId": "qVW4FVgnqBfPMlzuAbrjBuG0ZCz1",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Ratatouille",
+  "preco": 107.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-brasilia-3",
+  "restauranteId": "qVW4FVgnqBfPMlzuAbrjBuG0ZCz1",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mousse au chocolat",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-goiania-goiania-0",
+  "restauranteId": "K8ZEQ02JyjVNCWmP2XvEJomw4TB2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Boeuf bourguignon",
+  "preco": 128,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-goiania-goiania-1",
+  "restauranteId": "K8ZEQ02JyjVNCWmP2XvEJomw4TB2",
+  "cozinha": "Francesa",
+  "categoria": "Entrada",
+  "titulo": "Quiche lorraine",
+  "preco": 42,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-goiania-goiania-2",
+  "restauranteId": "K8ZEQ02JyjVNCWmP2XvEJomw4TB2",
+  "cozinha": "Francesa",
+  "categoria": "Prato Principal",
+  "titulo": "Ratatouille",
+  "preco": 86,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "petit-paris-goiania-goiania-3",
+  "restauranteId": "K8ZEQ02JyjVNCWmP2XvEJomw4TB2",
+  "cozinha": "Francesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mousse au chocolat",
+  "preco": 32,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "gHuUySSMTzUmYlI1Ei7NT5NRNGn1",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "gHuUySSMTzUmYlI1Ei7NT5NRNGn1",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Lomo saltado",
+  "preco": 89,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "gHuUySSMTzUmYlI1Ei7NT5NRNGn1",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 74,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "gHuUySSMTzUmYlI1Ei7NT5NRNGn1",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 29,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-sao-paulo-0",
+  "restauranteId": "QKIC43UnbfRDQPRz2j0NiXBjGWR2",
+  "cozinha": "Peruana",
+  "categoria": "Prato Principal",
+  "titulo": "Arroz chaufa",
+  "preco": 118.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-sao-paulo-1",
+  "restauranteId": "QKIC43UnbfRDQPRz2j0NiXBjGWR2",
+  "cozinha": "Peruana",
+  "categoria": "Entrada",
+  "titulo": "Ceviche clássico",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pisco-mar-sao-paulo-2",
+  "restauranteId": "QKIC43UnbfRDQPRz2j0NiXBjGWR2",
+  "cozinha": "Peruana",
+  "categoria": "Sobremesa",
+  "titulo": "Suspiro limeño",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-0",
+  "restauranteId": "xwbAIIGqGSW59qnlxe3Shv2IjIm2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-1",
+  "restauranteId": "xwbAIIGqGSW59qnlxe3Shv2IjIm2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-2",
+  "restauranteId": "xwbAIIGqGSW59qnlxe3Shv2IjIm2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 62,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-sao-paulo-0",
+  "restauranteId": "Ij5cRKiwPNT8hqRwZVDPGgqOmJY2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 49.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-sao-paulo-1",
+  "restauranteId": "Ij5cRKiwPNT8hqRwZVDPGgqOmJY2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-sao-paulo-2",
+  "restauranteId": "Ij5cRKiwPNT8hqRwZVDPGgqOmJY2",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizza-nostra-sao-paulo-sao-paulo-3",
+  "restauranteId": "Ij5cRKiwPNT8hqRwZVDPGgqOmJY2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 39.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-goiania-goiania-0",
+  "restauranteId": "CQlVIeB5uDPcvlUjvAktl9zqSQM2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 77.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-goiania-goiania-1",
+  "restauranteId": "CQlVIeB5uDPcvlUjvAktl9zqSQM2",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 85,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-goiania-goiania-2",
+  "restauranteId": "CQlVIeB5uDPcvlUjvAktl9zqSQM2",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-goiania-goiania-3",
+  "restauranteId": "CQlVIeB5uDPcvlUjvAktl9zqSQM2",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 61.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-santos-0",
+  "restauranteId": "nuWcyWJADKc4H9iblcBud7cRaa93",
+  "cozinha": "Pizzaria",
+  "categoria": "Entrada",
+  "titulo": "Pão de alho",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-santos-1",
+  "restauranteId": "nuWcyWJADKc4H9iblcBud7cRaa93",
+  "cozinha": "Pizzaria",
+  "categoria": "Sobremesa",
+  "titulo": "Pizza de chocolate",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-santos-2",
+  "restauranteId": "nuWcyWJADKc4H9iblcBud7cRaa93",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza quatro queijos",
+  "preco": 68,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "pizzaria-do-largo-santos-3",
+  "restauranteId": "nuWcyWJADKc4H9iblcBud7cRaa93",
+  "cozinha": "Pizzaria",
+  "categoria": "Prato Principal",
+  "titulo": "Pizza calabresa",
+  "preco": 62,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "prana-rio-de-janeiro-0",
+  "restauranteId": "OxeIYnYjP3S7ujP4qh3Vpk0CoeE2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Bowl de grãos",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "prana-rio-de-janeiro-1",
+  "restauranteId": "OxeIYnYjP3S7ujP4qh3Vpk0CoeE2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de banana-da-terra",
+  "preco": 65,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "prana-rio-de-janeiro-2",
+  "restauranteId": "OxeIYnYjP3S7ujP4qh3Vpk0CoeE2",
+  "cozinha": "Vegetariana",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de quinoa",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "prana-rio-de-janeiro-3",
+  "restauranteId": "OxeIYnYjP3S7ujP4qh3Vpk0CoeE2",
+  "cozinha": "Vegetariana",
+  "categoria": "Sobremesa",
+  "titulo": "Brownie vegano",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-porto-seguro-porto-segur-0",
+  "restauranteId": "YkE1pPPhrPTBXWULtsxe2sWOOqB2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 47.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-porto-seguro-porto-segur-1",
+  "restauranteId": "YkE1pPPhrPTBXWULtsxe2sWOOqB2",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 20.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-porto-seguro-porto-segur-2",
+  "restauranteId": "YkE1pPPhrPTBXWULtsxe2sWOOqB2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-rio-de-janeiro-0",
+  "restauranteId": "xhlnGcz5oFhIL0FMZDxIMLc3de02",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-rio-de-janeiro-1",
+  "restauranteId": "xhlnGcz5oFhIL0FMZDxIMLc3de02",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-rio-de-janeiro-2",
+  "restauranteId": "xhlnGcz5oFhIL0FMZDxIMLc3de02",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "quintal-mineiro-rio-de-janeiro-3",
+  "restauranteId": "xhlnGcz5oFhIL0FMZDxIMLc3de02",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 59,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raiz-verde-sao-paulo-0",
+  "restauranteId": "CTOYedpbh6NWsfI7aQXGbqX7VDO2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Bowl de grãos",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raiz-verde-sao-paulo-1",
+  "restauranteId": "CTOYedpbh6NWsfI7aQXGbqX7VDO2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de banana-da-terra",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raiz-verde-sao-paulo-2",
+  "restauranteId": "CTOYedpbh6NWsfI7aQXGbqX7VDO2",
+  "cozinha": "Vegetariana",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de quinoa",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raiz-verde-sao-paulo-3",
+  "restauranteId": "CTOYedpbh6NWsfI7aQXGbqX7VDO2",
+  "cozinha": "Vegetariana",
+  "categoria": "Sobremesa",
+  "titulo": "Brownie vegano",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raizes-do-sertao-recife-0",
+  "restauranteId": "6yhok9y7xjNTBkGsOdDhwB11XrB3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raizes-do-sertao-recife-1",
+  "restauranteId": "6yhok9y7xjNTBkGsOdDhwB11XrB3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 57.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raizes-do-sertao-recife-2",
+  "restauranteId": "6yhok9y7xjNTBkGsOdDhwB11XrB3",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raizes-do-sertao-recife-3",
+  "restauranteId": "6yhok9y7xjNTBkGsOdDhwB11XrB3",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "raizes-do-sertao-recife-4",
+  "restauranteId": "6yhok9y7xjNTBkGsOdDhwB11XrB3",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-anapolis-0",
+  "restauranteId": "vWMTSvdCrNSdkTJv6KEnpvpXP5W2",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-anapolis-1",
+  "restauranteId": "vWMTSvdCrNSdkTJv6KEnpvpXP5W2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 156.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-anapolis-2",
+  "restauranteId": "vWMTSvdCrNSdkTJv6KEnpvpXP5W2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-caxias-do-sul-caxias-d-0",
+  "restauranteId": "0bofN4cvpaV1HafFDBqoQCY8N592",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-caxias-do-sul-caxias-d-1",
+  "restauranteId": "0bofN4cvpaV1HafFDBqoQCY8N592",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-caxias-do-sul-caxias-d-2",
+  "restauranteId": "0bofN4cvpaV1HafFDBqoQCY8N592",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 98,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-goiania-goiania-0",
+  "restauranteId": "CoD1DemWj0N5mJvn2EDQ2LiYGDv2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Picanha fatiada",
+  "preco": 156.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-goiania-goiania-1",
+  "restauranteId": "CoD1DemWj0N5mJvn2EDQ2LiYGDv2",
+  "cozinha": "Churrasco",
+  "categoria": "Prato Principal",
+  "titulo": "Costela fogo de chão",
+  "preco": 142.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-goiania-goiania-2",
+  "restauranteId": "CoD1DemWj0N5mJvn2EDQ2LiYGDv2",
+  "cozinha": "Churrasco",
+  "categoria": "Entrada",
+  "titulo": "Linguiça artesanal",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-goiania-goiania-3",
+  "restauranteId": "CoD1DemWj0N5mJvn2EDQ2LiYGDv2",
+  "cozinha": "Churrasco",
+  "categoria": "Acompanhamento",
+  "titulo": "Farofa de ovos",
+  "preco": 35.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rancho-da-picanha-goiania-goiania-4",
+  "restauranteId": "CoD1DemWj0N5mJvn2EDQ2LiYGDv2",
+  "cozinha": "Churrasco",
+  "categoria": "Sobremesa",
+  "titulo": "Pudim de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rede-de-pesca-niteroi-0",
+  "restauranteId": "QoEEVYsvulgt1YtKGSPCajusOfx2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Camarão na moranga",
+  "preco": 138,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rede-de-pesca-niteroi-1",
+  "restauranteId": "QoEEVYsvulgt1YtKGSPCajusOfx2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Lula à dorê",
+  "preco": 49,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rede-de-pesca-niteroi-2",
+  "restauranteId": "QoEEVYsvulgt1YtKGSPCajusOfx2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe grelhado com legumes",
+  "preco": 92,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "rede-de-pesca-niteroi-3",
+  "restauranteId": "QoEEVYsvulgt1YtKGSPCajusOfx2",
+  "cozinha": "Frutos do Mar",
+  "categoria": "Entrada",
+  "titulo": "Casquinha de siri",
+  "preco": 34,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-cerrado-0",
+  "restauranteId": "L2QBYkeNHhdNgmYhabcdXTb9qgt2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Galinhada com pequi",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-cerrado-1",
+  "restauranteId": "L2QBYkeNHhdNgmYhabcdXTb9qgt2",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Pamonha frita",
+  "preco": 16,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-cerrado-2",
+  "restauranteId": "L2QBYkeNHhdNgmYhabcdXTb9qgt2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de leite",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-da-roca-belo-horizonte-0",
+  "restauranteId": "1gfp6wtPYZSFjAKmYKgG1acXS4L2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-da-roca-belo-horizonte-1",
+  "restauranteId": "1gfp6wtPYZSFjAKmYKgG1acXS4L2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 59,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-da-roca-belo-horizonte-2",
+  "restauranteId": "1gfp6wtPYZSFjAKmYKgG1acXS4L2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 52,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sabor-da-roca-belo-horizonte-3",
+  "restauranteId": "1gfp6wtPYZSFjAKmYKgG1acXS4L2",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-brasilia-0",
+  "restauranteId": "cE9SgK78TdRVIyHIbJUzeixdCi12",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-brasilia-1",
+  "restauranteId": "cE9SgK78TdRVIyHIbJUzeixdCi12",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-brasilia-2",
+  "restauranteId": "cE9SgK78TdRVIyHIbJUzeixdCi12",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 43.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-sao-paulo-sao-paulo-0",
+  "restauranteId": "RioFA3OAIWUBCJSIXdPr7NXpvyW2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Kafta no prato",
+  "preco": 43.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-sao-paulo-sao-paulo-1",
+  "restauranteId": "RioFA3OAIWUBCJSIXdPr7NXpvyW2",
+  "cozinha": "Árabe",
+  "categoria": "Prato Principal",
+  "titulo": "Shawarma de frango",
+  "preco": 31.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-sao-paulo-sao-paulo-2",
+  "restauranteId": "RioFA3OAIWUBCJSIXdPr7NXpvyW2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Esfiha de carne",
+  "preco": 7.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-sao-paulo-sao-paulo-3",
+  "restauranteId": "RioFA3OAIWUBCJSIXdPr7NXpvyW2",
+  "cozinha": "Árabe",
+  "categoria": "Entrada",
+  "titulo": "Homus com pão",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sahtein-sao-paulo-sao-paulo-4",
+  "restauranteId": "RioFA3OAIWUBCJSIXdPr7NXpvyW2",
+  "cozinha": "Árabe",
+  "categoria": "Sobremesa",
+  "titulo": "Ataif",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sakura-zen-0",
+  "restauranteId": "Yr2fN2DMrneMduzfoCDUk8s9tSu2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Omakase 12 peças",
+  "preco": 149,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sakura-zen-1",
+  "restauranteId": "Yr2fN2DMrneMduzfoCDUk8s9tSu2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Missoshiru",
+  "preco": 19,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sakura-zen-2",
+  "restauranteId": "Yr2fN2DMrneMduzfoCDUk8s9tSu2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Mochi de chá verde",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-florianopolis-0",
+  "restauranteId": "b0gUGgQx9YUFlZWjvs94JbYK3Qf1",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 160,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-florianopolis-1",
+  "restauranteId": "b0gUGgQx9YUFlZWjvs94JbYK3Qf1",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-florianopolis-2",
+  "restauranteId": "b0gUGgQx9YUFlZWjvs94JbYK3Qf1",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 95,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-florianopolis-3",
+  "restauranteId": "b0gUGgQx9YUFlZWjvs94JbYK3Qf1",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "9RHuHDlnxwTOtcLx3V0akyT7Mny2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Paella marinera",
+  "preco": 128,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "9RHuHDlnxwTOtcLx3V0akyT7Mny2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Entrada",
+  "titulo": "Salada grega",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "9RHuHDlnxwTOtcLx3V0akyT7Mny2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Prato Principal",
+  "titulo": "Moussaka",
+  "preco": 76,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "santorini-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "9RHuHDlnxwTOtcLx3V0akyT7Mny2",
+  "cozinha": "Mediterrânea",
+  "categoria": "Sobremesa",
+  "titulo": "Iogurte com mel",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "semente-goiania-0",
+  "restauranteId": "CIz2GBP1CictltIzbKAJMXmkzfs2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Bowl de grãos",
+  "preco": 73.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "semente-goiania-1",
+  "restauranteId": "CIz2GBP1CictltIzbKAJMXmkzfs2",
+  "cozinha": "Vegetariana",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de banana-da-terra",
+  "preco": 83.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "semente-goiania-2",
+  "restauranteId": "CIz2GBP1CictltIzbKAJMXmkzfs2",
+  "cozinha": "Vegetariana",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de quinoa",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "semente-goiania-3",
+  "restauranteId": "CIz2GBP1CictltIzbKAJMXmkzfs2",
+  "cozinha": "Vegetariana",
+  "categoria": "Sobremesa",
+  "titulo": "Brownie vegano",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-brasilia-brasilia-0",
+  "restauranteId": "RQvSpduGNuh4UL1JE10ik5ApQRy2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Carne de sol com macaxeira",
+  "preco": 72,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-brasilia-brasilia-1",
+  "restauranteId": "RQvSpduGNuh4UL1JE10ik5ApQRy2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 58,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-brasilia-brasilia-2",
+  "restauranteId": "RQvSpduGNuh4UL1JE10ik5ApQRy2",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 96,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-brasilia-brasilia-3",
+  "restauranteId": "RQvSpduGNuh4UL1JE10ik5ApQRy2",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-brasilia-brasilia-4",
+  "restauranteId": "RQvSpduGNuh4UL1JE10ik5ApQRy2",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-porto-seguro-0",
+  "restauranteId": "8gzdfvYiv1Pr0WnwUYbDMYQnaa92",
+  "cozinha": "Nordestina",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de feijão-verde",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-porto-seguro-1",
+  "restauranteId": "8gzdfvYiv1Pr0WnwUYbDMYQnaa92",
+  "cozinha": "Nordestina",
+  "categoria": "Sobremesa",
+  "titulo": "Cartola",
+  "preco": 17.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-porto-seguro-2",
+  "restauranteId": "8gzdfvYiv1Pr0WnwUYbDMYQnaa92",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Moqueca de peixe",
+  "preco": 76.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sertao-nordestino-porto-seguro-3",
+  "restauranteId": "8gzdfvYiv1Pr0WnwUYbDMYQnaa92",
+  "cozinha": "Nordestina",
+  "categoria": "Prato Principal",
+  "titulo": "Baião de dois",
+  "preco": 46.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "siam-cozinha-rio-de-janeiro-0",
+  "restauranteId": "40v4VVpZr0fJ30BctjJeH4Vjn6o1",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Pad thai de camarão",
+  "preco": 108.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "siam-cozinha-rio-de-janeiro-1",
+  "restauranteId": "40v4VVpZr0fJ30BctjJeH4Vjn6o1",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Curry verde",
+  "preco": 99.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "siam-cozinha-rio-de-janeiro-2",
+  "restauranteId": "40v4VVpZr0fJ30BctjJeH4Vjn6o1",
+  "cozinha": "Tailandesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho vietnamita",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "siam-cozinha-rio-de-janeiro-3",
+  "restauranteId": "40v4VVpZr0fJ30BctjJeH4Vjn6o1",
+  "cozinha": "Tailandesa",
+  "categoria": "Sobremesa",
+  "titulo": "Arroz doce com manga",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "smash-burger-co-porto-alegre-0",
+  "restauranteId": "pO1lVlzOKSSWGu3eoi3tTioFyl12",
+  "cozinha": "Hamburgueria",
+  "categoria": "Acompanhamento",
+  "titulo": "Batata rústica",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "smash-burger-co-porto-alegre-1",
+  "restauranteId": "pO1lVlzOKSSWGu3eoi3tTioFyl12",
+  "cozinha": "Hamburgueria",
+  "categoria": "Prato Principal",
+  "titulo": "Burger de costela",
+  "preco": 46,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "smash-burger-co-porto-alegre-2",
+  "restauranteId": "pO1lVlzOKSSWGu3eoi3tTioFyl12",
+  "cozinha": "Hamburgueria",
+  "categoria": "Sobremesa",
+  "titulo": "Milkshake de doce de leite",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-manaus-manaus-0",
+  "restauranteId": "JdBmWMoHA7TajiROqq5NbXidfEz2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-manaus-manaus-1",
+  "restauranteId": "JdBmWMoHA7TajiROqq5NbXidfEz2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 119,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-manaus-manaus-2",
+  "restauranteId": "JdBmWMoHA7TajiROqq5NbXidfEz2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-manaus-manaus-3",
+  "restauranteId": "JdBmWMoHA7TajiROqq5NbXidfEz2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-manaus-manaus-4",
+  "restauranteId": "JdBmWMoHA7TajiROqq5NbXidfEz2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-recife-recife-0",
+  "restauranteId": "MECGMju79aWRNUFOKOLhfHYXRXZ2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-recife-recife-1",
+  "restauranteId": "MECGMju79aWRNUFOKOLhfHYXRXZ2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-recife-recife-2",
+  "restauranteId": "MECGMju79aWRNUFOKOLhfHYXRXZ2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-recife-recife-3",
+  "restauranteId": "MECGMju79aWRNUFOKOLhfHYXRXZ2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 190.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-recife-recife-4",
+  "restauranteId": "MECGMju79aWRNUFOKOLhfHYXRXZ2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-rio-de-janeiro-0",
+  "restauranteId": "c52QjljOAEPwO8J9e2gFNrjXueO2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-rio-de-janeiro-1",
+  "restauranteId": "c52QjljOAEPwO8J9e2gFNrjXueO2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 190.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-rio-de-janeiro-2",
+  "restauranteId": "c52QjljOAEPwO8J9e2gFNrjXueO2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-rio-de-janeiro-3",
+  "restauranteId": "c52QjljOAEPwO8J9e2gFNrjXueO2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "sushi-kyoto-rio-de-janeiro-4",
+  "restauranteId": "c52QjljOAEPwO8J9e2gFNrjXueO2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-brasilia-0",
+  "restauranteId": "r3VDZfVzefczTm5skgAhRYiHgMy2",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Frango tikka masala",
+  "preco": 80,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-brasilia-1",
+  "restauranteId": "r3VDZfVzefczTm5skgAhRYiHgMy2",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Biryani de cordeiro",
+  "preco": 97.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-brasilia-2",
+  "restauranteId": "r3VDZfVzefczTm5skgAhRYiHgMy2",
+  "cozinha": "Indiana",
+  "categoria": "Entrada",
+  "titulo": "Samosa",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-brasilia-3",
+  "restauranteId": "r3VDZfVzefczTm5skgAhRYiHgMy2",
+  "cozinha": "Indiana",
+  "categoria": "Sobremesa",
+  "titulo": "Gulab jamun",
+  "preco": 27.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-goiania-goiania-0",
+  "restauranteId": "8pEU53NVlJN8z7ltxvD1iwHFCQE3",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Frango tikka masala",
+  "preco": 64,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-goiania-goiania-1",
+  "restauranteId": "8pEU53NVlJN8z7ltxvD1iwHFCQE3",
+  "cozinha": "Indiana",
+  "categoria": "Prato Principal",
+  "titulo": "Biryani de cordeiro",
+  "preco": 78,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-goiania-goiania-2",
+  "restauranteId": "8pEU53NVlJN8z7ltxvD1iwHFCQE3",
+  "cozinha": "Indiana",
+  "categoria": "Entrada",
+  "titulo": "Samosa",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taj-mahal-goiania-goiania-3",
+  "restauranteId": "8pEU53NVlJN8z7ltxvD1iwHFCQE3",
+  "cozinha": "Indiana",
+  "categoria": "Sobremesa",
+  "titulo": "Gulab jamun",
+  "preco": 22,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taqueria-sol-0",
+  "restauranteId": "SQ0Z89rPr5OFi1uazaKhmdTARBW2",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Trio de tacos",
+  "preco": 36,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taqueria-sol-1",
+  "restauranteId": "SQ0Z89rPr5OFi1uazaKhmdTARBW2",
+  "cozinha": "Mexicana",
+  "categoria": "Entrada",
+  "titulo": "Nachos supremos",
+  "preco": 32,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "taqueria-sol-2",
+  "restauranteId": "SQ0Z89rPr5OFi1uazaKhmdTARBW2",
+  "cozinha": "Mexicana",
+  "categoria": "Sobremesa",
+  "titulo": "Churros",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-brasilia-0",
+  "restauranteId": "uzPSSKT20lgUivLd0uU4uUdaxm42",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Bacalhau à Gomes de Sá",
+  "preco": 111.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-brasilia-1",
+  "restauranteId": "uzPSSKT20lgUivLd0uU4uUdaxm42",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo à lagareiro",
+  "preco": 119.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-brasilia-2",
+  "restauranteId": "uzPSSKT20lgUivLd0uU4uUdaxm42",
+  "cozinha": "Portuguesa",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de bacalhau",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-brasilia-3",
+  "restauranteId": "uzPSSKT20lgUivLd0uU4uUdaxm42",
+  "cozinha": "Portuguesa",
+  "categoria": "Sobremesa",
+  "titulo": "Pastel de nata",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-goiania-goiania-0",
+  "restauranteId": "k02fVSybQPMjo39wyRodH8vvG7z2",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Bacalhau à Gomes de Sá",
+  "preco": 222.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-goiania-goiania-1",
+  "restauranteId": "k02fVSybQPMjo39wyRodH8vvG7z2",
+  "cozinha": "Portuguesa",
+  "categoria": "Prato Principal",
+  "titulo": "Polvo à lagareiro",
+  "preco": 238.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-goiania-goiania-2",
+  "restauranteId": "k02fVSybQPMjo39wyRodH8vvG7z2",
+  "cozinha": "Portuguesa",
+  "categoria": "Entrada",
+  "titulo": "Bolinho de bacalhau",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tasca-lusitana-goiania-goiania-3",
+  "restauranteId": "k02fVSybQPMjo39wyRodH8vvG7z2",
+  "cozinha": "Portuguesa",
+  "categoria": "Sobremesa",
+  "titulo": "Pastel de nata",
+  "preco": 22.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-fortaleza-fortaleza-0",
+  "restauranteId": "TK7QyLAK0zRcYQGpLHqeBmW33Pz1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-fortaleza-fortaleza-1",
+  "restauranteId": "TK7QyLAK0zRcYQGpLHqeBmW33Pz1",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-fortaleza-fortaleza-2",
+  "restauranteId": "TK7QyLAK0zRcYQGpLHqeBmW33Pz1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 148.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-fortaleza-fortaleza-3",
+  "restauranteId": "TK7QyLAK0zRcYQGpLHqeBmW33Pz1",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-fortaleza-fortaleza-4",
+  "restauranteId": "TK7QyLAK0zRcYQGpLHqeBmW33Pz1",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-foz-do-iguacu-foz-do-iguacu-0",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-foz-do-iguacu-foz-do-iguacu-1",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-foz-do-iguacu-foz-do-iguacu-2",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-foz-do-iguacu-foz-do-iguacu-3",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-foz-do-iguacu-foz-do-iguacu-4",
+  "restauranteId": "06ZxJA7tejevVj7PUnjXME6Xzgq2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 119,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-goiania-0",
+  "restauranteId": "F9RPyWTceUeQq8dAA5ESRCwrS513",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-goiania-1",
+  "restauranteId": "F9RPyWTceUeQq8dAA5ESRCwrS513",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-goiania-2",
+  "restauranteId": "F9RPyWTceUeQq8dAA5ESRCwrS513",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-goiania-3",
+  "restauranteId": "F9RPyWTceUeQq8dAA5ESRCwrS513",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "XQmyR1jL5jW33Ohw8J019n9cSxD2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 190.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "XQmyR1jL5jW33Ohw8J019n9cSxD2",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "XQmyR1jL5jW33Ohw8J019n9cSxD2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "XQmyR1jL5jW33Ohw8J019n9cSxD2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "temaki-mar-rio-de-janeiro-rio-de-janeiro-4",
+  "restauranteId": "XQmyR1jL5jW33Ohw8J019n9cSxD2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-ouro-preto-0",
+  "restauranteId": "ZpEeQyI5CZXtNa7kBaykQJMJsEp2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-ouro-preto-1",
+  "restauranteId": "ZpEeQyI5CZXtNa7kBaykQJMJsEp2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 47.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-ouro-preto-2",
+  "restauranteId": "ZpEeQyI5CZXtNa7kBaykQJMJsEp2",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-ouro-preto-3",
+  "restauranteId": "ZpEeQyI5CZXtNa7kBaykQJMJsEp2",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-recife-recife-0",
+  "restauranteId": "1BgHDIiGloRQu51YFXMOQcwPYey1",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 48,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-recife-recife-1",
+  "restauranteId": "1BgHDIiGloRQu51YFXMOQcwPYey1",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 14,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-recife-recife-2",
+  "restauranteId": "1BgHDIiGloRQu51YFXMOQcwPYey1",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 59,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-rio-de-janeiro-rio-de-ja-0",
+  "restauranteId": "9WadS2rnzlSpmQbbL7PznPicXzB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Feijoada completa",
+  "preco": 73.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-rio-de-janeiro-rio-de-ja-1",
+  "restauranteId": "9WadS2rnzlSpmQbbL7PznPicXzB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Frango com quiabo",
+  "preco": 60,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-rio-de-janeiro-rio-de-ja-2",
+  "restauranteId": "9WadS2rnzlSpmQbbL7PznPicXzB3",
+  "cozinha": "Brasileira",
+  "categoria": "Prato Principal",
+  "titulo": "Tutu à mineira",
+  "preco": 65,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-rio-de-janeiro-rio-de-ja-3",
+  "restauranteId": "9WadS2rnzlSpmQbbL7PznPicXzB3",
+  "cozinha": "Brasileira",
+  "categoria": "Entrada",
+  "titulo": "Torresmo",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tempero-caseiro-rio-de-janeiro-rio-de-ja-4",
+  "restauranteId": "9WadS2rnzlSpmQbbL7PznPicXzB3",
+  "cozinha": "Brasileira",
+  "categoria": "Sobremesa",
+  "titulo": "Doce de abóbora",
+  "preco": 17.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tequila-bar-rio-de-janeiro-0",
+  "restauranteId": "8tWn6Pn5dGYwt2NJaVSoZVKfO872",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Burrito de carne",
+  "preco": 70.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tequila-bar-rio-de-janeiro-1",
+  "restauranteId": "8tWn6Pn5dGYwt2NJaVSoZVKfO872",
+  "cozinha": "Mexicana",
+  "categoria": "Prato Principal",
+  "titulo": "Quesadilla",
+  "preco": 60.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tequila-bar-rio-de-janeiro-2",
+  "restauranteId": "8tWn6Pn5dGYwt2NJaVSoZVKfO872",
+  "cozinha": "Mexicana",
+  "categoria": "Entrada",
+  "titulo": "Guacamole com nachos",
+  "preco": 54.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "tequila-bar-rio-de-janeiro-3",
+  "restauranteId": "8tWn6Pn5dGYwt2NJaVSoZVKfO872",
+  "cozinha": "Mexicana",
+  "categoria": "Sobremesa",
+  "titulo": "Churros com doce de leite",
+  "preco": 30.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-goiania-goiania-0",
+  "restauranteId": "m49RAhyipMUp1uSTKIJL3L5wl6g2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 300,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-goiania-goiania-1",
+  "restauranteId": "m49RAhyipMUp1uSTKIJL3L5wl6g2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 147.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-goiania-goiania-2",
+  "restauranteId": "m49RAhyipMUp1uSTKIJL3L5wl6g2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 72.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-goiania-goiania-3",
+  "restauranteId": "m49RAhyipMUp1uSTKIJL3L5wl6g2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-sao-paulo-0",
+  "restauranteId": "4FVQWlQZSBc2p6FNkMAKJWTN1SA2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Peixe do dia com purê de baroa",
+  "preco": 188.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-sao-paulo-1",
+  "restauranteId": "4FVQWlQZSBc2p6FNkMAKJWTN1SA2",
+  "cozinha": "Contemporânea",
+  "categoria": "Sobremesa",
+  "titulo": "Sorvete artesanal da estação",
+  "preco": 44.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-sao-paulo-2",
+  "restauranteId": "4FVQWlQZSBc2p6FNkMAKJWTN1SA2",
+  "cozinha": "Contemporânea",
+  "categoria": "Entrada",
+  "titulo": "Tartar de atum",
+  "preco": 92.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "terroir-sao-paulo-3",
+  "restauranteId": "4FVQWlQZSBc2p6FNkMAKJWTN1SA2",
+  "cozinha": "Contemporânea",
+  "categoria": "Prato Principal",
+  "titulo": "Menu degustação 5 tempos",
+  "preco": 384,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "thai-garden-sao-paulo-0",
+  "restauranteId": "WoKU9i0yNvUwuWOBQFGtlmtIinf1",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Pad thai de camarão",
+  "preco": 85,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "thai-garden-sao-paulo-1",
+  "restauranteId": "WoKU9i0yNvUwuWOBQFGtlmtIinf1",
+  "cozinha": "Tailandesa",
+  "categoria": "Prato Principal",
+  "titulo": "Curry verde",
+  "preco": 77.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "thai-garden-sao-paulo-2",
+  "restauranteId": "WoKU9i0yNvUwuWOBQFGtlmtIinf1",
+  "cozinha": "Tailandesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho vietnamita",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "thai-garden-sao-paulo-3",
+  "restauranteId": "WoKU9i0yNvUwuWOBQFGtlmtIinf1",
+  "cozinha": "Tailandesa",
+  "categoria": "Sobremesa",
+  "titulo": "Arroz doce com manga",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-foz-do-iguacu-0",
+  "restauranteId": "BqFJSA7w9ORFSlIbuHrnao68Bu63",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-foz-do-iguacu-1",
+  "restauranteId": "BqFJSA7w9ORFSlIbuHrnao68Bu63",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 11.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-foz-do-iguacu-2",
+  "restauranteId": "BqFJSA7w9ORFSlIbuHrnao68Bu63",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 27.2,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-rio-de-janeiro-rio-de-janeiro-0",
+  "restauranteId": "Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Brunch completo",
+  "preco": 65,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-rio-de-janeiro-rio-de-janeiro-1",
+  "restauranteId": "Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1",
+  "cozinha": "Cafeteria",
+  "categoria": "Prato Principal",
+  "titulo": "Tosta de fermentação natural",
+  "preco": 42.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-rio-de-janeiro-rio-de-janeiro-2",
+  "restauranteId": "Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1",
+  "cozinha": "Cafeteria",
+  "categoria": "Entrada",
+  "titulo": "Pão de queijo",
+  "preco": 15,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "torra-fina-rio-de-janeiro-rio-de-janeiro-3",
+  "restauranteId": "Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1",
+  "cozinha": "Cafeteria",
+  "categoria": "Sobremesa",
+  "titulo": "Bolo de cenoura",
+  "preco": 17.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-0",
+  "restauranteId": "Em2HzAu02QX9PmWuNhIumgV09bg2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-1",
+  "restauranteId": "Em2HzAu02QX9PmWuNhIumgV09bg2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-2",
+  "restauranteId": "Em2HzAu02QX9PmWuNhIumgV09bg2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-3",
+  "restauranteId": "Em2HzAu02QX9PmWuNhIumgV09bg2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-4",
+  "restauranteId": "Em2HzAu02QX9PmWuNhIumgV09bg2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-brasilia-0",
+  "restauranteId": "AbUJf5ZwK3NgNI9jMsUiyEyPsVC2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-brasilia-1",
+  "restauranteId": "AbUJf5ZwK3NgNI9jMsUiyEyPsVC2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-brasilia-2",
+  "restauranteId": "AbUJf5ZwK3NgNI9jMsUiyEyPsVC2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-brasilia-3",
+  "restauranteId": "AbUJf5ZwK3NgNI9jMsUiyEyPsVC2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-brasilia-brasilia-4",
+  "restauranteId": "AbUJf5ZwK3NgNI9jMsUiyEyPsVC2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-salvador-salvador-0",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Risoto de funghi",
+  "preco": 102.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-salvador-salvador-1",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 40,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-salvador-salvador-2",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 86.3,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-salvador-salvador-3",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 35,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "trattoria-bella-salvador-salvador-4",
+  "restauranteId": "vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Carpaccio",
+  "preco": 57.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "vicolo-italiano-petropolis-0",
+  "restauranteId": "qaN1cXhZzDNg2RDtGoxP3j5FGXz1",
+  "cozinha": "Italiana",
+  "categoria": "Entrada",
+  "titulo": "Bruschetta",
+  "preco": 32,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "vicolo-italiano-petropolis-1",
+  "restauranteId": "qaN1cXhZzDNg2RDtGoxP3j5FGXz1",
+  "cozinha": "Italiana",
+  "categoria": "Prato Principal",
+  "titulo": "Fettuccine alfredo",
+  "preco": 69,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "vicolo-italiano-petropolis-2",
+  "restauranteId": "qaN1cXhZzDNg2RDtGoxP3j5FGXz1",
+  "cozinha": "Italiana",
+  "categoria": "Sobremesa",
+  "titulo": "Panna cotta",
+  "preco": 28,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-brasilia-0",
+  "restauranteId": "AP8N2EZx5dMAwBrq5gQQ6YliRnq1",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Yakisoba de frango",
+  "preco": 60,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-brasilia-1",
+  "restauranteId": "AP8N2EZx5dMAwBrq5gQQ6YliRnq1",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Frango xadrez",
+  "preco": 65,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-brasilia-2",
+  "restauranteId": "AP8N2EZx5dMAwBrq5gQQ6YliRnq1",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-brasilia-3",
+  "restauranteId": "AP8N2EZx5dMAwBrq5gQQ6YliRnq1",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 20,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-rio-de-janeiro-rio-de-janeir-0",
+  "restauranteId": "CJ8UpVRCKJSlNiGpoVBcYe0cweC3",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Yakisoba de frango",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-rio-de-janeiro-rio-de-janeir-1",
+  "restauranteId": "CJ8UpVRCKJSlNiGpoVBcYe0cweC3",
+  "cozinha": "Chinesa",
+  "categoria": "Prato Principal",
+  "titulo": "Frango xadrez",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-rio-de-janeiro-rio-de-janeir-2",
+  "restauranteId": "CJ8UpVRCKJSlNiGpoVBcYe0cweC3",
+  "cozinha": "Chinesa",
+  "categoria": "Entrada",
+  "titulo": "Rolinho primavera",
+  "preco": 14.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "wok-express-rio-de-janeiro-rio-de-janeir-3",
+  "restauranteId": "CJ8UpVRCKJSlNiGpoVBcYe0cweC3",
+  "cozinha": "Chinesa",
+  "categoria": "Sobremesa",
+  "titulo": "Banana caramelada",
+  "preco": 12.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-curitiba-curitiba-0",
+  "restauranteId": "zkZJFYar6hflIoS7L3gNggmjnHG3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-curitiba-curitiba-1",
+  "restauranteId": "zkZJFYar6hflIoS7L3gNggmjnHG3",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-curitiba-curitiba-2",
+  "restauranteId": "zkZJFYar6hflIoS7L3gNggmjnHG3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 18,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-curitiba-curitiba-3",
+  "restauranteId": "zkZJFYar6hflIoS7L3gNggmjnHG3",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 119,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-jericoacoara-jericoacoara-0",
+  "restauranteId": "AkIMz30FZyfwqbDG20BoeBZbaN33",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 119,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-jericoacoara-jericoacoara-1",
+  "restauranteId": "AkIMz30FZyfwqbDG20BoeBZbaN33",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 24,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-jericoacoara-jericoacoara-2",
+  "restauranteId": "AkIMz30FZyfwqbDG20BoeBZbaN33",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 38,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-jericoacoara-jericoacoara-3",
+  "restauranteId": "AkIMz30FZyfwqbDG20BoeBZbaN33",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 26,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-niteroi-niteroi-0",
+  "restauranteId": "yzA8lUKfxzRKvznjZmB22TTngb03",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-niteroi-niteroi-1",
+  "restauranteId": "yzA8lUKfxzRKvznjZmB22TTngb03",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-niteroi-niteroi-2",
+  "restauranteId": "yzA8lUKfxzRKvznjZmB22TTngb03",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Combinado 30 peças",
+  "preco": 148.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-niteroi-niteroi-3",
+  "restauranteId": "yzA8lUKfxzRKvznjZmB22TTngb03",
+  "cozinha": "Japonesa",
+  "categoria": "Prato Principal",
+  "titulo": "Temaki de salmão",
+  "preco": 47.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-petropolis-petropolis-0",
+  "restauranteId": "B34rBopYe1cGLWXCq8ODQfpBdrJ3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 38.4,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-petropolis-petropolis-1",
+  "restauranteId": "B34rBopYe1cGLWXCq8ODQfpBdrJ3",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 41.6,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-petropolis-petropolis-2",
+  "restauranteId": "B34rBopYe1cGLWXCq8ODQfpBdrJ3",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 28.8,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-rio-de-janeiro-0",
+  "restauranteId": "zEuprxc9HMQ01GtMzMOZX9EGq7K2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Harumaki",
+  "preco": 30,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-rio-de-janeiro-1",
+  "restauranteId": "zEuprxc9HMQ01GtMzMOZX9EGq7K2",
+  "cozinha": "Japonesa",
+  "categoria": "Sobremesa",
+  "titulo": "Tempurá de sorvete",
+  "preco": 32.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ },
+ {
+  "id": "yume-izakaya-rio-de-janeiro-2",
+  "restauranteId": "zEuprxc9HMQ01GtMzMOZX9EGq7K2",
+  "cozinha": "Japonesa",
+  "categoria": "Entrada",
+  "titulo": "Sunomono",
+  "preco": 22.5,
+  "criadoEm": "2026-11-14T21:43:26.485000+00:00"
+ }
+]

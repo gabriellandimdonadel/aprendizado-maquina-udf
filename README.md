@@ -34,6 +34,7 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 | [notebooks/gastromatch-fase2-entendimento-dados.ipynb](notebooks/gastromatch-fase2-entendimento-dados.ipynb) | Notebook Colab da Fase 2, executado (abre no Colab e baixa os dados do GitHub) |
 | [dados/gastromatch/](dados/gastromatch/) | 3.075 registros exportados do Firebase de demonstração (1.751 avaliações), sem dados pessoais, com dicionário |
 | [scripts/exportar_gastromatch.py](scripts/exportar_gastromatch.py) | Exportação somente leitura do Firestore → CSV, com remoção de dados pessoais |
+| [Projeto_datascience/](Projeto_datascience/) | **Projeto completo nas 6 fases do CRISP-DM**: documentos, `src/`, notebooks 01–03 executados, dados brutos e processados, figuras |
 
 > Os dados do GastroMatch vêm do banco de **demonstração** (`gastromatch-demo`), povoado com dados **fictícios** pelo script do sistema. Servem para validar o processo, não para tirar conclusões sobre consumidores reais.
 
@@ -71,6 +72,7 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 
 - [x] CRISP-DM Fase 1: entendimento do negócio (GastroMatch).
 - [x] CRISP-DM Fase 2: entendimento dos dados (GastroMatch, mais de 1.000 registros).
+- [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([Projeto_datascience](Projeto_datascience/README.md)).
 
 - [ ] Aula 1: quadro comparativo e problemas justificados.
 - [ ] PBL Biblioteca em Foco.

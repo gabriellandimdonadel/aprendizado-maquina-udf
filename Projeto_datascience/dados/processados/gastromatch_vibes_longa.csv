@@ -1,0 +1,430 @@
+﻿restaurante_id,nome_restaurante,cozinha,faixa_preco,cidade,nota_media,total_avaliacoes,vibe
+06ZxJA7tejevVj7PUnjXME6Xzgq2,Temaki Mar Foz do Iguaçu,Japonesa,2,Foz do Iguaçu,4.75,4,Sofisticada
+06ZxJA7tejevVj7PUnjXME6Xzgq2,Temaki Mar Foz do Iguaçu,Japonesa,2,Foz do Iguaçu,4.75,4,Tranquila
+0G7HC0EknIZmQe9igMmdDaWBAKD3,Laboratório Gastronômico,Contemporânea,3,Belo Horizonte,4.3333,3,Romântica
+0G7HC0EknIZmQe9igMmdDaWBAKD3,Laboratório Gastronômico,Contemporânea,3,Belo Horizonte,4.3333,3,Sofisticada
+0bofN4cvpaV1HafFDBqoQCY8N592,Rancho da Picanha Caxias do Sul,Churrasco,2,Caxias do Sul,5.0,3,Descontraída
+0bofN4cvpaV1HafFDBqoQCY8N592,Rancho da Picanha Caxias do Sul,Churrasco,2,Caxias do Sul,5.0,3,Familiar
+0lMIuurajnZ1WP2pqeJA6rMlufS2,Nonna Rosa,Italiana,3,Campinas,3.0,3,Romântica
+157umf1e5jVMew6YxfP1Stz4hkq1,Cedro do Líbano Rio de Janeiro,Árabe,2,Rio de Janeiro,4.125,8,Descontraída
+157umf1e5jVMew6YxfP1Stz4hkq1,Cedro do Líbano Rio de Janeiro,Árabe,2,Rio de Janeiro,4.125,8,Noturna
+1BgHDIiGloRQu51YFXMOQcwPYey1,Tempero Caseiro Recife,Brasileira,2,Recife,4.2,5,Descontraída
+1BgHDIiGloRQu51YFXMOQcwPYey1,Tempero Caseiro Recife,Brasileira,2,Recife,4.2,5,Tranquila
+1aN3oquSisRY3p6B6oL8EByvdi82,Costa Grega,Mediterrânea,3,Florianópolis,,0,Tranquila
+1gfp6wtPYZSFjAKmYKgG1acXS4L2,Sabor da Roça,Brasileira,2,Belo Horizonte,3.0,8,Tranquila
+3F7xVMgAGsMEnaECh8BACBGRj953,Lima Cevicheria Brasília,Peruana,4,Brasília,3.4,5,Sofisticada
+3F7xVMgAGsMEnaECh8BACBGRj953,Lima Cevicheria Brasília,Peruana,4,Brasília,3.4,5,Familiar
+3F7xVMgAGsMEnaECh8BACBGRj953,Lima Cevicheria Brasília,Peruana,4,Brasília,3.4,5,Descontraída
+3pXLsI5tznTCA0OYy4KLmhYoLBl1,Pasta Fresca Curitiba,Italiana,3,Curitiba,4.8,5,Romântica
+40v4VVpZr0fJ30BctjJeH4Vjn6o1,Siam Cozinha,Tailandesa,4,Rio de Janeiro,4.5833,12,Cafeteria
+40v4VVpZr0fJ30BctjJeH4Vjn6o1,Siam Cozinha,Tailandesa,4,Rio de Janeiro,4.5833,12,Romântica
+4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Terroir,Contemporânea,4,São Paulo,3.75,8,Sofisticada
+4FVQWlQZSBc2p6FNkMAKJWTN1SA2,Terroir,Contemporânea,4,São Paulo,3.75,8,Romântica
+57WKZE4yOxQzLB641ud1mfWvTyH3,Inca Cozinha São Paulo,Peruana,1,São Paulo,3.8182,11,Noturna
+57WKZE4yOxQzLB641ud1mfWvTyH3,Inca Cozinha São Paulo,Peruana,1,São Paulo,3.8182,11,Cafeteria
+57WKZE4yOxQzLB641ud1mfWvTyH3,Inca Cozinha São Paulo,Peruana,1,São Paulo,3.8182,11,Romântica
+5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Chez Marie Rio de Janeiro,Francesa,1,Rio de Janeiro,4.4545,11,Familiar
+5L8a5ldpjQbWc69vOz4F5PdgtLZ2,Chez Marie Rio de Janeiro,Francesa,1,Rio de Janeiro,4.4545,11,Descontraída
+6yhok9y7xjNTBkGsOdDhwB11XrB3,Raízes do Sertão,Nordestina,1,Recife,3.1818,11,Familiar
+6yhok9y7xjNTBkGsOdDhwB11XrB3,Raízes do Sertão,Nordestina,1,Recife,3.1818,11,Alegre
+6yhok9y7xjNTBkGsOdDhwB11XrB3,Raízes do Sertão,Nordestina,1,Recife,3.1818,11,Descontraída
+79yzHCYiNcgy6TdQyk7fFdyOmVK2,Costa Grega São Paulo,Mediterrânea,1,São Paulo,4.5,6,Noturna
+79yzHCYiNcgy6TdQyk7fFdyOmVK2,Costa Grega São Paulo,Mediterrânea,1,São Paulo,4.5,6,Cafeteria
+79yzHCYiNcgy6TdQyk7fFdyOmVK2,Costa Grega São Paulo,Mediterrânea,1,São Paulo,4.5,6,Romântica
+7IxZabB2CrafJl0QnladUOoVYzn2,Galpão Crioulo,Churrasco,4,Gramado,4.375,8,Descontraída
+8gzdfvYiv1Pr0WnwUYbDMYQnaa92,Sertão Nordestino,Nordestina,1,Porto Seguro,4.5,10,Familiar
+8pEU53NVlJN8z7ltxvD1iwHFCQE3,Taj Mahal Goiânia,Indiana,2,Goiânia,4.1111,9,Tranquila
+8pEU53NVlJN8z7ltxvD1iwHFCQE3,Taj Mahal Goiânia,Indiana,2,Goiânia,4.1111,9,Sofisticada
+8pEU53NVlJN8z7ltxvD1iwHFCQE3,Taj Mahal Goiânia,Indiana,2,Goiânia,4.1111,9,Familiar
+8tWn6Pn5dGYwt2NJaVSoZVKfO872,Tequila Bar,Mexicana,4,Rio de Janeiro,3.8,5,Sofisticada
+8tWn6Pn5dGYwt2NJaVSoZVKfO872,Tequila Bar,Mexicana,4,Rio de Janeiro,3.8,5,Familiar
+9RHuHDlnxwTOtcLx3V0akyT7Mny2,Santorini Rio de Janeiro,Mediterrânea,2,Rio de Janeiro,3.3333,9,Alegre
+9RHuHDlnxwTOtcLx3V0akyT7Mny2,Santorini Rio de Janeiro,Mediterrânea,2,Rio de Janeiro,3.3333,9,Tranquila
+9WadS2rnzlSpmQbbL7PznPicXzB3,Tempero Caseiro Rio de Janeiro,Brasileira,3,Rio de Janeiro,4.6667,6,Tranquila
+9WadS2rnzlSpmQbbL7PznPicXzB3,Tempero Caseiro Rio de Janeiro,Brasileira,3,Rio de Janeiro,4.6667,6,Sofisticada
+9q4UJFpoOKRDH4ivVduXbRJgScI3,Nihon Bar Goiânia,Japonesa,1,Goiânia,4.8,10,Alegre
+9q4UJFpoOKRDH4ivVduXbRJgScI3,Nihon Bar Goiânia,Japonesa,1,Goiânia,4.8,10,Tranquila
+9q4UJFpoOKRDH4ivVduXbRJgScI3,Nihon Bar Goiânia,Japonesa,1,Goiânia,4.8,10,Sofisticada
+9rnBhKZJXYWGNi8o6alCqDVImCg1,Il Forno,Italiana,2,São Paulo,4.5714,7,Sofisticada
+9rnBhKZJXYWGNi8o6alCqDVImCg1,Il Forno,Italiana,2,São Paulo,4.5714,7,Romântica
+9rnBhKZJXYWGNi8o6alCqDVImCg1,Il Forno,Italiana,2,São Paulo,4.5714,7,Familiar
+A1XrUkVEyCQL5RKBZNdutMOxTth2,Margherita & Co Porto Alegre,Pizzaria,2,Porto Alegre,4.4,5,Familiar
+A1XrUkVEyCQL5RKBZNdutMOxTth2,Margherita & Co Porto Alegre,Pizzaria,2,Porto Alegre,4.4,5,Alegre
+A1XrUkVEyCQL5RKBZNdutMOxTth2,Margherita & Co Porto Alegre,Pizzaria,2,Porto Alegre,4.4,5,Descontraída
+AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Wok Express,Chinesa,3,Brasília,4.25,8,Tranquila
+AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Wok Express,Chinesa,3,Brasília,4.25,8,Sofisticada
+AP8N2EZx5dMAwBrq5gQQ6YliRnq1,Wok Express,Chinesa,3,Brasília,4.25,8,Familiar
+AVQJ7Kar6LQTh8OV3RLIM0FhWzJ2,Azeite & Sal,Mediterrânea,3,Rio de Janeiro,4.0,5,Romântica
+AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Trattoria Bella Brasília,Italiana,3,Brasília,3.5,6,Tranquila
+AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Trattoria Bella Brasília,Italiana,3,Brasília,3.5,6,Sofisticada
+AbUJf5ZwK3NgNI9jMsUiyEyPsVC2,Trattoria Bella Brasília,Italiana,3,Brasília,3.5,6,Familiar
+AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Brasa Viva,Churrasco,4,Porto Alegre,2.7778,9,Familiar
+AdxOWaeQhDOqfVLvUi7Z6nWaedt1,Brasa Viva,Churrasco,4,Porto Alegre,2.7778,9,Alegre
+AkIMz30FZyfwqbDG20BoeBZbaN33,Yume Izakaya Jericoacoara,Japonesa,2,Jericoacoara,4.5714,7,Tranquila
+AkIMz30FZyfwqbDG20BoeBZbaN33,Yume Izakaya Jericoacoara,Japonesa,2,Jericoacoara,4.5714,7,Sofisticada
+AkIMz30FZyfwqbDG20BoeBZbaN33,Yume Izakaya Jericoacoara,Japonesa,2,Jericoacoara,4.5714,7,Noturna
+B34rBopYe1cGLWXCq8ODQfpBdrJ3,Yume Izakaya Petrópolis,Japonesa,4,Petrópolis,3.5,8,Tranquila
+BqFJSA7w9ORFSlIbuHrnao68Bu63,Torra Fina,Cafeteria,1,Foz do Iguaçu,3.0909,11,Cafeteria
+Bwv6TSaEmRez5QK4l6YwqILDxYO2,Pão & Blend,Hamburgueria,1,Porto Alegre,4.2222,9,Alegre
+Bwv6TSaEmRez5QK4l6YwqILDxYO2,Pão & Blend,Hamburgueria,1,Porto Alegre,4.2222,9,Noturna
+Bwv6TSaEmRez5QK4l6YwqILDxYO2,Pão & Blend,Hamburgueria,1,Porto Alegre,4.2222,9,Descontraída
+C2czLDMvCdeQRf37rX6ngGPojY03,Lima Cevicheria Goiânia,Peruana,3,Goiânia,3.6667,9,Sofisticada
+C2czLDMvCdeQRf37rX6ngGPojY03,Lima Cevicheria Goiânia,Peruana,3,Goiânia,3.6667,9,Familiar
+C2czLDMvCdeQRf37rX6ngGPojY03,Lima Cevicheria Goiânia,Peruana,3,Goiânia,3.6667,9,Descontraída
+C48YT7zdCdTPBJSECYAqafAoDjA3,Casa do Baião Fortaleza,Nordestina,2,Fortaleza,4.1429,7,Alegre
+CIz2GBP1CictltIzbKAJMXmkzfs2,Semente,Vegetariana,4,Goiânia,3.8,10,Romântica
+CIz2GBP1CictltIzbKAJMXmkzfs2,Semente,Vegetariana,4,Goiânia,3.8,10,Alegre
+CIz2GBP1CictltIzbKAJMXmkzfs2,Semente,Vegetariana,4,Goiânia,3.8,10,Tranquila
+CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Wok Express Rio de Janeiro,Chinesa,1,Rio de Janeiro,3.4,10,Romântica
+CJ8UpVRCKJSlNiGpoVBcYe0cweC3,Wok Express Rio de Janeiro,Chinesa,1,Rio de Janeiro,3.4,10,Alegre
+CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria do Largo Goiânia,Pizzaria,3,Goiânia,3.75,4,Sofisticada
+CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria do Largo Goiânia,Pizzaria,3,Goiânia,3.75,4,Familiar
+CQlVIeB5uDPcvlUjvAktl9zqSQM2,Pizzaria do Largo Goiânia,Pizzaria,3,Goiânia,3.75,4,Descontraída
+CTOYedpbh6NWsfI7aQXGbqX7VDO2,Raiz Verde,Vegetariana,2,São Paulo,4.375,8,Sofisticada
+CTOYedpbh6NWsfI7aQXGbqX7VDO2,Raiz Verde,Vegetariana,2,São Paulo,4.375,8,Familiar
+CTOYedpbh6NWsfI7aQXGbqX7VDO2,Raiz Verde,Vegetariana,2,São Paulo,4.375,8,Descontraída
+CiISKiidJ7XEqmSXDvNTIKW5wD22,Peixe na Telha Brasília,Frutos do Mar,3,Brasília,3.25,12,Noturna
+CiISKiidJ7XEqmSXDvNTIKW5wD22,Peixe na Telha Brasília,Frutos do Mar,3,Brasília,3.25,12,Cafeteria
+CiISKiidJ7XEqmSXDvNTIKW5wD22,Peixe na Telha Brasília,Frutos do Mar,3,Brasília,3.25,12,Romântica
+CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Rancho da Picanha Goiânia,Churrasco,4,Goiânia,4.0,3,Romântica
+CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Rancho da Picanha Goiânia,Churrasco,4,Goiânia,4.0,3,Alegre
+CoD1DemWj0N5mJvn2EDQ2LiYGDv2,Rancho da Picanha Goiânia,Churrasco,4,Goiânia,4.0,3,Tranquila
+DUXTXRktFkZCfEuURTbkKc8dYra2,Ateliê Gastronômico,Contemporânea,4,Goiânia,4.4,5,Sofisticada
+EIfASN2ilsbVlMDMQC4J5cFPJcm2,Café com Prosa,Cafeteria,1,Ouro Preto,,0,Tranquila
+EIfASN2ilsbVlMDMQC4J5cFPJcm2,Café com Prosa,Cafeteria,1,Ouro Preto,,0,Cafeteria
+Em2HzAu02QX9PmWuNhIumgV09bg2,Trattoria Bella,Italiana,3,Brasília,4.3333,3,Romântica
+F8BCC6MCCNTlItaWfG5LjqFXr4i2,Cheiro de Terra Fortaleza,Nordestina,2,Fortaleza,3.5714,7,Familiar
+F8BCC6MCCNTlItaWfG5LjqFXr4i2,Cheiro de Terra Fortaleza,Nordestina,2,Fortaleza,3.5714,7,Descontraída
+F8BCC6MCCNTlItaWfG5LjqFXr4i2,Cheiro de Terra Fortaleza,Nordestina,2,Fortaleza,3.5714,7,Alegre
+F9RPyWTceUeQq8dAA5ESRCwrS513,Temaki Mar,Japonesa,3,Goiânia,,0,Tranquila
+F9RPyWTceUeQq8dAA5ESRCwrS513,Temaki Mar,Japonesa,3,Goiânia,,0,Noturna
+FGPrnL031AcCXXH6HoIu5GzDfV82,Casa Xangai,Chinesa,4,São Paulo,4.75,12,Descontraída
+FGPrnL031AcCXXH6HoIu5GzDfV82,Casa Xangai,Chinesa,4,São Paulo,4.75,12,Noturna
+FGPrnL031AcCXXH6HoIu5GzDfV82,Casa Xangai,Chinesa,4,São Paulo,4.75,12,Cafeteria
+FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Coado & Cia,Cafeteria,1,Tiradentes,3.8571,7,Tranquila
+FkgYm4Cp1xa3TNr2rHuaDy81oPD3,Coado & Cia,Cafeteria,1,Tiradentes,3.8571,7,Cafeteria
+FpGRRGRE8mSlEL7FmYSUVWLLOtu1,Forno a Lenha Santos,Pizzaria,2,Santos,4.7,10,Descontraída
+Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Kaze Sushi Brasília,Japonesa,2,Brasília,3.75,4,Alegre
+Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Kaze Sushi Brasília,Japonesa,2,Brasília,3.75,4,Tranquila
+Fx6SBwzgsEdBAxMI9qMmBsGy53T2,Kaze Sushi Brasília,Japonesa,2,Brasília,3.75,4,Sofisticada
+Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Damasco Goiânia,Árabe,3,Goiânia,3.2,5,Cafeteria
+Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Damasco Goiânia,Árabe,3,Goiânia,3.2,5,Romântica
+Gj3Y9FRW9EgOOuAYDp1eZXSqkw62,Damasco Goiânia,Árabe,3,Goiânia,3.2,5,Alegre
+HIznVkf8qFhtVPGeC08Fk1qDMwv2,Brasa Burger São Paulo,Hamburgueria,3,São Paulo,,0,Familiar
+HIznVkf8qFhtVPGeC08Fk1qDMwv2,Brasa Burger São Paulo,Hamburgueria,3,São Paulo,,0,Descontraída
+HIznVkf8qFhtVPGeC08Fk1qDMwv2,Brasa Burger São Paulo,Hamburgueria,3,São Paulo,,0,Noturna
+I03VQkhV0fQb3l3joo86ZEORA5t1,Burger Garage Rio de Janeiro,Hamburgueria,4,Rio de Janeiro,4.0,6,Cafeteria
+I03VQkhV0fQb3l3joo86ZEORA5t1,Burger Garage Rio de Janeiro,Hamburgueria,4,Rio de Janeiro,4.0,6,Romântica
+IKRBzXrE5JcnoPIJrAwfCDQX29C2,Mandacaru Rio de Janeiro,Nordestina,4,Rio de Janeiro,3.0,3,Sofisticada
+IKRBzXrE5JcnoPIJrAwfCDQX29C2,Mandacaru Rio de Janeiro,Nordestina,4,Rio de Janeiro,3.0,3,Familiar
+Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizza Nostra São Paulo,Pizzaria,1,São Paulo,4.0,11,Noturna
+Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizza Nostra São Paulo,Pizzaria,1,São Paulo,4.0,11,Cafeteria
+Ij5cRKiwPNT8hqRwZVDPGgqOmJY2,Pizza Nostra São Paulo,Pizzaria,1,São Paulo,4.0,11,Romântica
+JUxDbgQGIlMjesBNrw1EKcVnqyZ2,Barco Azul Florianópolis,Frutos do Mar,2,Florianópolis,3.4286,7,Romântica
+JdBmWMoHA7TajiROqq5NbXidfEz2,Sushi Kyoto Manaus,Japonesa,2,Manaus,3.3333,6,Tranquila
+JdBmWMoHA7TajiROqq5NbXidfEz2,Sushi Kyoto Manaus,Japonesa,2,Manaus,3.3333,6,Noturna
+JdBmWMoHA7TajiROqq5NbXidfEz2,Sushi Kyoto Manaus,Japonesa,2,Manaus,3.3333,6,Sofisticada
+K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Petit Paris Goiânia,Francesa,2,Goiânia,4.0,5,Noturna
+K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Petit Paris Goiânia,Francesa,2,Goiânia,4.0,5,Cafeteria
+K8ZEQ02JyjVNCWmP2XvEJomw4TB2,Petit Paris Goiânia,Francesa,2,Goiânia,4.0,5,Romântica
+KFOqmkV5yiP4zPxrXzKtWdhSOdp2,Beirute Grill,Árabe,1,Campinas,4.25,8,Descontraída
+KVXtiyttKkdi7tY2PyKf9FD9ndr1,Cedro do Líbano,Árabe,1,Curitiba,4.4545,11,Descontraída
+Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Damasco,Árabe,2,Campinas,3.4167,12,Descontraída
+Kfpu5ZZ6UdSseX4b9s2HgNB3SMA3,Damasco,Árabe,2,Campinas,3.4167,12,Familiar
+KgGezBSEozRmj2BfsZYjtiM1vC42,Brasa Burger,Hamburgueria,1,Goiânia,3.8333,6,Alegre
+KgGezBSEozRmj2BfsZYjtiM1vC42,Brasa Burger,Hamburgueria,1,Goiânia,3.8333,6,Descontraída
+KgGezBSEozRmj2BfsZYjtiM1vC42,Brasa Burger,Hamburgueria,1,Goiânia,3.8333,6,Noturna
+KrLtaEHugyP1syd03MdzvG1NvQX2,Barco Azul Olinda,Frutos do Mar,2,Olinda,3.7143,7,Familiar
+KrLtaEHugyP1syd03MdzvG1NvQX2,Barco Azul Olinda,Frutos do Mar,2,Olinda,3.7143,7,Romântica
+L2QBYkeNHhdNgmYhabcdXTb9qgt2,Sabor do Cerrado,Brasileira,2,Goiânia,4.2857,7,Familiar
+L2QBYkeNHhdNgmYhabcdXTb9qgt2,Sabor do Cerrado,Brasileira,2,Goiânia,4.2857,7,Descontraída
+Lww6TGtyz2W6wljeuwE6xyW96M93,Chama Campeira,Churrasco,2,Porto Alegre,4.25,4,Familiar
+MECGMju79aWRNUFOKOLhfHYXRXZ2,Sushi Kyoto Recife,Japonesa,4,Recife,4.6,5,Noturna
+MECGMju79aWRNUFOKOLhfHYXRXZ2,Sushi Kyoto Recife,Japonesa,4,Recife,4.6,5,Tranquila
+MECGMju79aWRNUFOKOLhfHYXRXZ2,Sushi Kyoto Recife,Japonesa,4,Recife,4.6,5,Sofisticada
+MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mar & Oliva,Mediterrânea,3,Brasília,4.25,4,Tranquila
+MiwunxJ7UfO2gv6JUPDsWtKI3Sv2,Mar & Oliva,Mediterrânea,3,Brasília,4.25,4,Romântica
+N6yRH6gVlzgiY57MWYKRYwHcJAa2,Dragão Dourado,Chinesa,1,São Paulo,4.4444,9,Familiar
+N6yRH6gVlzgiY57MWYKRYwHcJAa2,Dragão Dourado,Chinesa,1,São Paulo,4.4444,9,Descontraída
+NFfkT1ovyLNo7PD1flkbZr6ASdi2,Pasta Fresca Rio de Janeiro,Italiana,1,Rio de Janeiro,4.6667,3,Romântica
+NFfkT1ovyLNo7PD1flkbZr6ASdi2,Pasta Fresca Rio de Janeiro,Italiana,1,Rio de Janeiro,4.6667,3,Alegre
+NfeMsFbGlHRn7YHMDJO7omB38J12,Inca Cozinha,Peruana,4,Salvador,5.0,2,Sofisticada
+NfeMsFbGlHRn7YHMDJO7omB38J12,Inca Cozinha,Peruana,4,Salvador,5.0,2,Alegre
+NlFh0BSXGWUIqt7KEWNA3WPLgj83,Costela & Cia São Paulo,Churrasco,2,São Paulo,3.6667,6,Sofisticada
+NlFh0BSXGWUIqt7KEWNA3WPLgj83,Costela & Cia São Paulo,Churrasco,2,São Paulo,3.6667,6,Familiar
+NlFh0BSXGWUIqt7KEWNA3WPLgj83,Costela & Cia São Paulo,Churrasco,2,São Paulo,3.6667,6,Descontraída
+OH0CG2JgGmh73B1X192bsPgwquo2,Fogão de Minas,Brasileira,2,Rio de Janeiro,4.6,5,Descontraída
+OYbKt8tGDNSDI6n1CObC3qqTPPt1,Cais do Porto São Paulo,Frutos do Mar,4,São Paulo,4.6667,6,Alegre
+OYbKt8tGDNSDI6n1CObC3qqTPPt1,Cais do Porto São Paulo,Frutos do Mar,4,São Paulo,4.6667,6,Tranquila
+OYbKt8tGDNSDI6n1CObC3qqTPPt1,Cais do Porto São Paulo,Frutos do Mar,4,São Paulo,4.6667,6,Sofisticada
+OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Prana,Vegetariana,3,Rio de Janeiro,,0,Noturna
+OxeIYnYjP3S7ujP4qh3Vpk0CoeE2,Prana,Vegetariana,3,Rio de Janeiro,,0,Cafeteria
+P1i49Id2LBPx7GDsnIQZZeGNPN03,Nonna Rosa São Paulo,Italiana,4,São Paulo,3.5,4,Descontraída
+P1i49Id2LBPx7GDsnIQZZeGNPN03,Nonna Rosa São Paulo,Italiana,4,São Paulo,3.5,4,Noturna
+P1i49Id2LBPx7GDsnIQZZeGNPN03,Nonna Rosa São Paulo,Italiana,4,São Paulo,3.5,4,Cafeteria
+PJgxzV092ogswAe8Y37KgLkVE5U2,Burger Garage,Hamburgueria,2,Brasília,,0,Alegre
+PJgxzV092ogswAe8Y37KgLkVE5U2,Burger Garage,Hamburgueria,2,Brasília,,0,Tranquila
+PJgxzV092ogswAe8Y37KgLkVE5U2,Burger Garage,Hamburgueria,2,Brasília,,0,Sofisticada
+PUrJAUFx83XylGAOyJF3TNppCGh1,Grão Nobre Café,Cafeteria,1,Curitiba,3.3333,3,Tranquila
+Q4SKKMuaVgemq8sGHhaMn4DkOJr1,Nihon Bar,Japonesa,4,Goiânia,3.75,4,Tranquila
+Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Masala House,Indiana,4,São Paulo,3.6667,3,Descontraída
+Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Masala House,Indiana,4,São Paulo,3.6667,3,Noturna
+Q4jNeZxVaeNzXvDDSQCmPrPcpnm2,Masala House,Indiana,4,São Paulo,3.6667,3,Cafeteria
+QKIC43UnbfRDQPRz2j0NiXBjGWR2,Pisco & Mar,Peruana,4,São Paulo,,0,Alegre
+QoEEVYsvulgt1YtKGSPCajusOfx2,Rede de Pesca,Frutos do Mar,2,Niterói,3.5,2,Familiar
+QoEEVYsvulgt1YtKGSPCajusOfx2,Rede de Pesca,Frutos do Mar,2,Niterói,3.5,2,Tranquila
+RP6XlReFilNed4DG7PKryqbDat32,Azeite & Sal Goiânia,Mediterrânea,3,Goiânia,3.75,8,Sofisticada
+RP6XlReFilNed4DG7PKryqbDat32,Azeite & Sal Goiânia,Mediterrânea,3,Goiânia,3.75,8,Familiar
+RP6XlReFilNed4DG7PKryqbDat32,Azeite & Sal Goiânia,Mediterrânea,3,Goiânia,3.75,8,Descontraída
+RQvSpduGNuh4UL1JE10ik5ApQRy2,Sertão Nordestino Brasília,Nordestina,2,Brasília,3.1,10,Descontraída
+RQvSpduGNuh4UL1JE10ik5ApQRy2,Sertão Nordestino Brasília,Nordestina,2,Brasília,3.1,10,Noturna
+RQvSpduGNuh4UL1JE10ik5ApQRy2,Sertão Nordestino Brasília,Nordestina,2,Brasília,3.1,10,Cafeteria
+RioFA3OAIWUBCJSIXdPr7NXpvyW2,Sahtein São Paulo,Árabe,1,São Paulo,4.0,6,Tranquila
+RioFA3OAIWUBCJSIXdPr7NXpvyW2,Sahtein São Paulo,Árabe,1,São Paulo,4.0,6,Sofisticada
+RioFA3OAIWUBCJSIXdPr7NXpvyW2,Sahtein São Paulo,Árabe,1,São Paulo,4.0,6,Familiar
+RpeGiZLiPLdDTDUycoS74r46idm2,Casa do Baião,Nordestina,1,Olinda,3.5714,7,Descontraída
+RpeGiZLiPLdDTDUycoS74r46idm2,Casa do Baião,Nordestina,1,Olinda,3.5714,7,Alegre
+SQ0Z89rPr5OFi1uazaKhmdTARBW2,Taquería Sol,Mexicana,1,Brasília,3.75,8,Alegre
+SQ0Z89rPr5OFi1uazaKhmdTARBW2,Taquería Sol,Mexicana,1,Brasília,3.75,8,Noturna
+SXMYgfnuTANeCb7fSHWLQAodv5j2,Estação Autoral,Contemporânea,4,Brasília,4.8,5,Cafeteria
+SXMYgfnuTANeCb7fSHWLQAodv5j2,Estação Autoral,Contemporânea,4,Brasília,4.8,5,Romântica
+SXMYgfnuTANeCb7fSHWLQAodv5j2,Estação Autoral,Contemporânea,4,Brasília,4.8,5,Alegre
+SZFjIdL2MLRuDWYssldu0Q0xkPA3,Costela & Cia,Churrasco,4,Belo Horizonte,4.1111,9,Alegre
+SktLA5vrJ8M3rsbHgeTuSfznB9i1,Casa do Porto Rio de Janeiro,Portuguesa,3,Rio de Janeiro,4.0,5,Tranquila
+SktLA5vrJ8M3rsbHgeTuSfznB9i1,Casa do Porto Rio de Janeiro,Portuguesa,3,Rio de Janeiro,4.0,5,Sofisticada
+TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Temaki Mar Fortaleza,Japonesa,3,Fortaleza,4.5556,9,Tranquila
+TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Temaki Mar Fortaleza,Japonesa,3,Fortaleza,4.5556,9,Sofisticada
+TK7QyLAK0zRcYQGpLHqeBmW33Pz1,Temaki Mar Fortaleza,Japonesa,3,Fortaleza,4.5556,9,Noturna
+Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Laboratório Gastronômico Rio de Janeiro,Contemporânea,2,Rio de Janeiro,4.5,2,Descontraída
+Tk2wc2uZjQWF8SPuT6JFgfIuY2j2,Laboratório Gastronômico Rio de Janeiro,Contemporânea,2,Rio de Janeiro,4.5,2,Noturna
+TsyuzyhJaIfai0D06aOH68bSPG62,Brasa & Lenha,Churrasco,3,Brasília,4.5714,14,Romântica
+TsyuzyhJaIfai0D06aOH68bSPG62,Brasa & Lenha,Churrasco,3,Brasília,4.5714,14,Sofisticada
+U3AwLR0e6Gccq2seb0Wo59hNm2w2,El Mariachi,Mexicana,3,São Paulo,4.3,10,Romântica
+U3AwLR0e6Gccq2seb0Wo59hNm2w2,El Mariachi,Mexicana,3,São Paulo,4.3,10,Alegre
+U3AwLR0e6Gccq2seb0Wo59hNm2w2,El Mariachi,Mexicana,3,São Paulo,4.3,10,Tranquila
+U4MKMbOrkSZNc9DPW8AYDXTLsAp2,Lata Burger,Hamburgueria,1,Fortaleza,3.6667,3,Descontraída
+UoWXDaqf92XH2HUPQFLhQYMNy6U2,Casa Xangai Goiânia,Chinesa,2,Goiânia,4.6364,11,Tranquila
+UoWXDaqf92XH2HUPQFLhQYMNy6U2,Casa Xangai Goiânia,Chinesa,2,Goiânia,4.6364,11,Sofisticada
+UoWXDaqf92XH2HUPQFLhQYMNy6U2,Casa Xangai Goiânia,Chinesa,2,Goiânia,4.6364,11,Familiar
+UtamE2BbhvNb71WcQG1UmT0rfmO2,Pasta Fresca Belo Horizonte,Italiana,3,Belo Horizonte,3.2857,7,Familiar
+UtamE2BbhvNb71WcQG1UmT0rfmO2,Pasta Fresca Belo Horizonte,Italiana,3,Belo Horizonte,3.2857,7,Sofisticada
+UtamE2BbhvNb71WcQG1UmT0rfmO2,Pasta Fresca Belo Horizonte,Italiana,3,Belo Horizonte,3.2857,7,Romântica
+W0mxUZwWDPWhr67kNyV4HgQXr9A2,Kaze Sushi,Japonesa,4,Brasília,4.0,8,Sofisticada
+W0mxUZwWDPWhr67kNyV4HgQXr9A2,Kaze Sushi,Japonesa,4,Brasília,4.0,8,Tranquila
+W0mxUZwWDPWhr67kNyV4HgQXr9A2,Kaze Sushi,Japonesa,4,Brasília,4.0,8,Noturna
+WoKU9i0yNvUwuWOBQFGtlmtIinf1,Thai Garden,Tailandesa,3,São Paulo,3.6667,3,Familiar
+WoKU9i0yNvUwuWOBQFGtlmtIinf1,Thai Garden,Tailandesa,3,São Paulo,3.6667,3,Descontraída
+WoKU9i0yNvUwuWOBQFGtlmtIinf1,Thai Garden,Tailandesa,3,São Paulo,3.6667,3,Noturna
+XQmyR1jL5jW33Ohw8J019n9cSxD2,Temaki Mar Rio de Janeiro,Japonesa,4,Rio de Janeiro,3.7273,11,Cafeteria
+XQmyR1jL5jW33Ohw8J019n9cSxD2,Temaki Mar Rio de Janeiro,Japonesa,4,Rio de Janeiro,3.7273,11,Romântica
+Y8MFGhqpu2e89JG1edx0Tr1ClP82,Margherita & Co Rio de Janeiro,Pizzaria,2,Rio de Janeiro,4.0,2,Alegre
+Y8MFGhqpu2e89JG1edx0Tr1ClP82,Margherita & Co Rio de Janeiro,Pizzaria,2,Rio de Janeiro,4.0,2,Tranquila
+Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Torra Fina Rio de Janeiro,Cafeteria,3,Rio de Janeiro,3.3333,3,Noturna
+Y9TeP8K20aPzJx4SEMQ6hIYd4Ru1,Torra Fina Rio de Janeiro,Cafeteria,3,Rio de Janeiro,3.3333,3,Cafeteria
+YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Izakaya Noite,Japonesa,2,Brasília,3.75,4,Alegre
+YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Izakaya Noite,Japonesa,2,Brasília,3.75,4,Noturna
+YGzOK5Yb03cWQjuWE4yjLTRNqFl1,Izakaya Noite,Japonesa,2,Brasília,3.75,4,Descontraída
+YPd70fq5IoXUaaEy30A1Z4wJmh23,Forno a Lenha,Pizzaria,1,Santos,4.5,2,Descontraída
+YPd70fq5IoXUaaEy30A1Z4wJmh23,Forno a Lenha,Pizzaria,1,Santos,4.5,2,Familiar
+YPd70fq5IoXUaaEy30A1Z4wJmh23,Forno a Lenha,Pizzaria,1,Santos,4.5,2,Alegre
+YkE1pPPhrPTBXWULtsxe2sWOOqB2,Quintal Mineiro Porto Seguro,Brasileira,1,Porto Seguro,3.0833,12,Descontraída
+YkE1pPPhrPTBXWULtsxe2sWOOqB2,Quintal Mineiro Porto Seguro,Brasileira,1,Porto Seguro,3.0833,12,Tranquila
+Yr2fN2DMrneMduzfoCDUk8s9tSu2,Sakura Zen,Japonesa,3,Brasília,4.7,10,Tranquila
+Yr2fN2DMrneMduzfoCDUk8s9tSu2,Sakura Zen,Japonesa,3,Brasília,4.7,10,Sofisticada
+YxAhhrGKSiaYz0UcaxiQrWuedYV2,Casa da Vó,Brasileira,1,Goiânia,4.0,4,Familiar
+YxAhhrGKSiaYz0UcaxiQrWuedYV2,Casa da Vó,Brasileira,1,Goiânia,4.0,4,Descontraída
+YxAhhrGKSiaYz0UcaxiQrWuedYV2,Casa da Vó,Brasileira,1,Goiânia,4.0,4,Tranquila
+Z2iZMhpbGwWFRpVQJ4IlkNPOLlm1,Ostra & Mar,Frutos do Mar,4,Salvador,4.5,2,Familiar
+ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Tempero Caseiro,Brasileira,1,Ouro Preto,3.0909,11,Familiar
+ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Tempero Caseiro,Brasileira,1,Ouro Preto,3.0909,11,Descontraída
+ZpEeQyI5CZXtNa7kBaykQJMJsEp2,Tempero Caseiro,Brasileira,1,Ouro Preto,3.0909,11,Tranquila
+aL2HXsGiQyfmHldz1XzQCjSjZXB2,Osteria del Ponte Gramado,Italiana,3,Gramado,4.1,10,Romântica
+aL2HXsGiQyfmHldz1XzQCjSjZXB2,Osteria del Ponte Gramado,Italiana,3,Gramado,4.1,10,Sofisticada
+aL2HXsGiQyfmHldz1XzQCjSjZXB2,Osteria del Ponte Gramado,Italiana,3,Gramado,4.1,10,Familiar
+aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Grão Nobre Café Brasília,Cafeteria,1,Brasília,4.2,10,Romântica
+aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Grão Nobre Café Brasília,Cafeteria,1,Brasília,4.2,10,Alegre
+aSMZ7NgH3iTvfWEsXlI6TVahgZ73,Grão Nobre Café Brasília,Cafeteria,1,Brasília,4.2,10,Tranquila
+b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Santorini,Mediterrânea,3,Florianópolis,4.3333,9,Tranquila
+b0gUGgQx9YUFlZWjvs94JbYK3Qf1,Santorini,Mediterrânea,3,Florianópolis,4.3333,9,Romântica
+b0zf6tsrgFgETNXlwpAENa0XVpF2,Panela de Barro Tiradentes,Brasileira,1,Tiradentes,3.3333,6,Tranquila
+b0zf6tsrgFgETNXlwpAENa0XVpF2,Panela de Barro Tiradentes,Brasileira,1,Tiradentes,3.3333,6,Familiar
+b5pQ5inZtMU1bEXS8ljS7evtFI03,Bangkok Street,Tailandesa,2,Brasília,3.4286,7,Alegre
+b5pQ5inZtMU1bEXS8ljS7evtFI03,Bangkok Street,Tailandesa,2,Brasília,3.4286,7,Tranquila
+b5pQ5inZtMU1bEXS8ljS7evtFI03,Bangkok Street,Tailandesa,2,Brasília,3.4286,7,Sofisticada
+bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrascaria Alegria,Churrasco,2,Goiânia,4.0,4,Alegre
+bRlX1RrMEXcptusVb7dFCGUX9YH2,Churrascaria Alegria,Churrasco,2,Goiânia,4.0,4,Familiar
+c52QjljOAEPwO8J9e2gFNrjXueO2,Sushi Kyoto,Japonesa,4,Rio de Janeiro,4.6667,6,Tranquila
+c52QjljOAEPwO8J9e2gFNrjXueO2,Sushi Kyoto,Japonesa,4,Rio de Janeiro,4.6667,6,Noturna
+c52QjljOAEPwO8J9e2gFNrjXueO2,Sushi Kyoto,Japonesa,4,Rio de Janeiro,4.6667,6,Sofisticada
+cE9SgK78TdRVIyHIbJUzeixdCi12,Sahtein,Árabe,1,Brasília,4.6667,3,Familiar
+crX2pHRX3gYufKL9aQXCv9oLdB12,Fogão de Minas Brasília,Brasileira,1,Brasília,3.5,8,Familiar
+crX2pHRX3gYufKL9aQXCv9oLdB12,Fogão de Minas Brasília,Brasileira,1,Brasília,3.5,8,Descontraída
+crX2pHRX3gYufKL9aQXCv9oLdB12,Fogão de Minas Brasília,Brasileira,1,Brasília,3.5,8,Noturna
+cxiMXBYx7tXueUyMVY8bUWw7uSg1,Barco Azul Goiânia,Frutos do Mar,2,Goiânia,5.0,2,Noturna
+cxiMXBYx7tXueUyMVY8bUWw7uSg1,Barco Azul Goiânia,Frutos do Mar,2,Goiânia,5.0,2,Cafeteria
+cxiMXBYx7tXueUyMVY8bUWw7uSg1,Barco Azul Goiânia,Frutos do Mar,2,Goiânia,5.0,2,Romântica
+dzPYpzvcw2TmGY4M85LfMvCXa1K2,Fogo de Chão Gaúcho Brasília,Churrasco,1,Brasília,4.2727,11,Romântica
+dzPYpzvcw2TmGY4M85LfMvCXa1K2,Fogo de Chão Gaúcho Brasília,Churrasco,1,Brasília,4.2727,11,Alegre
+dzPYpzvcw2TmGY4M85LfMvCXa1K2,Fogo de Chão Gaúcho Brasília,Churrasco,1,Brasília,4.2727,11,Tranquila
+eKkCZG47QHfXXnyIvFuAb20PxVG2,Pão & Blend Goiânia,Hamburgueria,1,Goiânia,3.7,10,Alegre
+eKkCZG47QHfXXnyIvFuAb20PxVG2,Pão & Blend Goiânia,Hamburgueria,1,Goiânia,3.7,10,Tranquila
+eKkCZG47QHfXXnyIvFuAb20PxVG2,Pão & Blend Goiânia,Hamburgueria,1,Goiânia,3.7,10,Sofisticada
+f8tZBApEGIYLeEJBHr6c0VkuVCK2,Bangkok Street Goiânia,Tailandesa,1,Goiânia,3.6667,6,Alegre
+f8tZBApEGIYLeEJBHr6c0VkuVCK2,Bangkok Street Goiânia,Tailandesa,1,Goiânia,3.6667,6,Tranquila
+f8tZBApEGIYLeEJBHr6c0VkuVCK2,Bangkok Street Goiânia,Tailandesa,1,Goiânia,3.6667,6,Sofisticada
+fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Cantina da Praça,Italiana,2,Goiânia,4.1,10,Familiar
+fDp0IwcfDUVoolpq3hJ9yNBLpZz2,Cantina da Praça,Italiana,2,Goiânia,4.1,10,Descontraída
+fJr26eaG1lQhlRyFtKqw3765SUn2,Coado & Cia Goiânia,Cafeteria,4,Goiânia,4.0,3,Romântica
+fJr26eaG1lQhlRyFtKqw3765SUn2,Coado & Cia Goiânia,Cafeteria,4,Goiânia,4.0,3,Alegre
+fJr26eaG1lQhlRyFtKqw3765SUn2,Coado & Cia Goiânia,Cafeteria,4,Goiânia,4.0,3,Tranquila
+fk2VQU16hCXhFiH5vylznSr8vs82,Mandacaru,Nordestina,2,Recife,3.3333,3,Descontraída
+gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Pisco & Mar Rio de Janeiro,Peruana,2,Rio de Janeiro,3.375,8,Alegre
+gHuUySSMTzUmYlI1Ei7NT5NRNGn1,Pisco & Mar Rio de Janeiro,Peruana,2,Rio de Janeiro,3.375,8,Tranquila
+gYSp4zdKXZd22HExgcXvukegiMF2,Café com Prosa São Paulo,Cafeteria,2,São Paulo,3.9,10,Sofisticada
+gYSp4zdKXZd22HExgcXvukegiMF2,Café com Prosa São Paulo,Cafeteria,2,São Paulo,3.9,10,Familiar
+gYSp4zdKXZd22HExgcXvukegiMF2,Café com Prosa São Paulo,Cafeteria,2,São Paulo,3.9,10,Descontraída
+ghSGrTq3sISsfkD2VoMGpIS3QN62,Grão & Folha,Vegetariana,2,Brasília,3.8,10,Descontraída
+ghSGrTq3sISsfkD2VoMGpIS3QN62,Grão & Folha,Vegetariana,2,Brasília,3.8,10,Tranquila
+gsT7chP54zMOvxcRyrqldayGwP13,Fogo de Chão Gaúcho,Churrasco,3,Pirenópolis,4.375,8,Familiar
+gsT7chP54zMOvxcRyrqldayGwP13,Fogo de Chão Gaúcho,Churrasco,3,Pirenópolis,4.375,8,Alegre
+hKwH7q9JL8co5ucPidEhL3Vyr3t1,Forno a Lenha Brasília,Pizzaria,4,Brasília,4.0,2,Sofisticada
+hKwH7q9JL8co5ucPidEhL3Vyr3t1,Forno a Lenha Brasília,Pizzaria,4,Brasília,4.0,2,Familiar
+hKwH7q9JL8co5ucPidEhL3Vyr3t1,Forno a Lenha Brasília,Pizzaria,4,Brasília,4.0,2,Descontraída
+hxw0qBeNpHP3jO9oeXIj6vpXTh23,Namastê Cozinha,Indiana,1,Rio de Janeiro,4.6364,11,Romântica
+hxw0qBeNpHP3jO9oeXIj6vpXTh23,Namastê Cozinha,Indiana,1,Rio de Janeiro,4.6364,11,Alegre
+i7aKXDQI68XYmPHUUZSJrqF24rs1,Panela de Barro Manaus,Brasileira,2,Manaus,3.2,5,Tranquila
+i7aKXDQI68XYmPHUUZSJrqF24rs1,Panela de Barro Manaus,Brasileira,2,Manaus,3.2,5,Descontraída
+iH610GY48MSdGiwjZ26e3nlqPk63,Le Jardin,Francesa,4,São Paulo,,0,Alegre
+iH610GY48MSdGiwjZ26e3nlqPk63,Le Jardin,Francesa,4,São Paulo,,0,Tranquila
+iH610GY48MSdGiwjZ26e3nlqPk63,Le Jardin,Francesa,4,São Paulo,,0,Sofisticada
+iUXfBDMKKmeruJoF5D7gA1kOsdy1,Hanami São Paulo,Japonesa,3,São Paulo,4.4,5,Familiar
+iUXfBDMKKmeruJoF5D7gA1kOsdy1,Hanami São Paulo,Japonesa,3,São Paulo,4.4,5,Descontraída
+iUXfBDMKKmeruJoF5D7gA1kOsdy1,Hanami São Paulo,Japonesa,3,São Paulo,4.4,5,Noturna
+icqw9v4kgNNzDEcijuclV3kVF9l1,Cheiro de Terra Goiânia,Nordestina,1,Goiânia,3.5,8,Descontraída
+icqw9v4kgNNzDEcijuclV3kVF9l1,Cheiro de Terra Goiânia,Nordestina,1,Goiânia,3.5,8,Noturna
+icqw9v4kgNNzDEcijuclV3kVF9l1,Cheiro de Terra Goiânia,Nordestina,1,Goiânia,3.5,8,Cafeteria
+j3wR5cHzDgUFoh7pW9grQwq2Nxe2,Panela de Barro,Brasileira,1,Belo Horizonte,3.9,10,Familiar
+jJ5XpykrH0MLbnOKWV3vqgBpABU2,Hanami,Japonesa,2,Rio de Janeiro,,0,Sofisticada
+jJ5XpykrH0MLbnOKWV3vqgBpABU2,Hanami,Japonesa,2,Rio de Janeiro,,0,Tranquila
+jJ5XpykrH0MLbnOKWV3vqgBpABU2,Hanami,Japonesa,2,Rio de Janeiro,,0,Noturna
+jPbGuBWN22eKTDR0OdbrRM1szEJ2,Osteria del Ponte Florianópolis,Italiana,2,Florianópolis,3.6667,6,Familiar
+jPbGuBWN22eKTDR0OdbrRM1szEJ2,Osteria del Ponte Florianópolis,Italiana,2,Florianópolis,3.6667,6,Sofisticada
+jSfWBoQmYIM49whWStLPWgM5fgw2,Margherita & Co,Pizzaria,1,Anápolis,4.5,8,Alegre
+jSfWBoQmYIM49whWStLPWgM5fgw2,Margherita & Co,Pizzaria,1,Anápolis,4.5,8,Descontraída
+k02fVSybQPMjo39wyRodH8vvG7z2,Tasca Lusitana Goiânia,Portuguesa,4,Goiânia,3.8333,6,Familiar
+k02fVSybQPMjo39wyRodH8vvG7z2,Tasca Lusitana Goiânia,Portuguesa,4,Goiânia,3.8333,6,Descontraída
+k02fVSybQPMjo39wyRodH8vvG7z2,Tasca Lusitana Goiânia,Portuguesa,4,Goiânia,3.8333,6,Noturna
+l4CpZCM2tGSyonKKGyYeHLiT8M52,Jardim de Pequim,Chinesa,2,São Paulo,3.0,5,Familiar
+l4CpZCM2tGSyonKKGyYeHLiT8M52,Jardim de Pequim,Chinesa,2,São Paulo,3.0,5,Descontraída
+losH7rYMciPER9eWeSbGTJYdAw72,Osteria del Ponte,Italiana,2,São Paulo,4.6667,3,Familiar
+m49RAhyipMUp1uSTKIJL3L5wl6g2,Terroir Goiânia,Contemporânea,3,Goiânia,4.0,6,Cafeteria
+m49RAhyipMUp1uSTKIJL3L5wl6g2,Terroir Goiânia,Contemporânea,3,Goiânia,4.0,6,Romântica
+m49RAhyipMUp1uSTKIJL3L5wl6g2,Terroir Goiânia,Contemporânea,3,Goiânia,4.0,6,Alegre
+m4Vd4ONXrXMA41E1gQv8ySYATqA2,Panela de Barro Goiânia,Brasileira,4,Goiânia,4.0,3,Familiar
+m4Vd4ONXrXMA41E1gQv8ySYATqA2,Panela de Barro Goiânia,Brasileira,4,Goiânia,4.0,3,Descontraída
+m4Vd4ONXrXMA41E1gQv8ySYATqA2,Panela de Barro Goiânia,Brasileira,4,Goiânia,4.0,3,Noturna
+mQ67YAEHpQOaT5wSng9bGKTNuc73,Peixe na Telha,Frutos do Mar,4,Salvador,,0,Romântica
+mQ67YAEHpQOaT5wSng9bGKTNuc73,Peixe na Telha,Frutos do Mar,4,Salvador,,0,Tranquila
+mRlxKNrVLbQEQHaM3daLZxp85yl1,Casa do Baião Jericoacoara,Nordestina,1,Jericoacoara,4.0,10,Descontraída
+mplleegbwlVUqVFj76T42sEVHvq1,Casa do Porto,Portuguesa,3,Rio de Janeiro,3.3333,3,Romântica
+mplleegbwlVUqVFj76T42sEVHvq1,Casa do Porto,Portuguesa,3,Rio de Janeiro,3.3333,3,Sofisticada
+mvrFia69mggQmaa8ZZWGOG6dwfv2,Pasta Fresca,Italiana,4,Brasília,3.4,5,Familiar
+n2ASm5fB9yfQd2PWDPf9qhaf66s2,Il Forno Gramado,Italiana,3,Gramado,3.1667,12,Sofisticada
+n2ASm5fB9yfQd2PWDPf9qhaf66s2,Il Forno Gramado,Italiana,3,Gramado,3.1667,12,Romântica
+n3QS9ybwgNYzg1SwebNDAuYgZnr1,Brasa Viva Rio de Janeiro,Churrasco,3,Rio de Janeiro,3.7778,9,Noturna
+n3QS9ybwgNYzg1SwebNDAuYgZnr1,Brasa Viva Rio de Janeiro,Churrasco,3,Rio de Janeiro,3.7778,9,Cafeteria
+nMTqaGFxm0Rowd4C8WIgza84WWV2,Burrito Loco,Mexicana,1,Goiânia,4.5,2,Descontraída
+nMTqaGFxm0Rowd4C8WIgza84WWV2,Burrito Loco,Mexicana,1,Goiânia,4.5,2,Noturna
+nMTqaGFxm0Rowd4C8WIgza84WWV2,Burrito Loco,Mexicana,1,Goiânia,4.5,2,Cafeteria
+nPTNVBgi5OgaSkFaW6HcbucYZSj1,Barco Azul,Frutos do Mar,2,Rio de Janeiro,3.4,5,Familiar
+nPTNVBgi5OgaSkFaW6HcbucYZSj1,Barco Azul,Frutos do Mar,2,Rio de Janeiro,3.4,5,Tranquila
+nPTNVBgi5OgaSkFaW6HcbucYZSj1,Barco Azul,Frutos do Mar,2,Rio de Janeiro,3.4,5,Romântica
+niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Maresia Manaus,Frutos do Mar,4,Manaus,3.4286,7,Tranquila
+niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Maresia Manaus,Frutos do Mar,4,Manaus,3.4286,7,Familiar
+niI0jgu3sJQRPwVvRKxJ6lUbLmS2,Maresia Manaus,Frutos do Mar,4,Manaus,3.4286,7,Romântica
+nuWcyWJADKc4H9iblcBud7cRaa93,Pizzaria do Largo,Pizzaria,2,Santos,,0,Familiar
+oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Bistrô Lumière,Francesa,4,Brasília,4.0,4,Romântica
+oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Bistrô Lumière,Francesa,4,Brasília,4.0,4,Sofisticada
+oDrmAyvkaJbVZOZvaKT5JkbxDUH2,Bistrô Lumière,Francesa,4,Brasília,4.0,4,Tranquila
+pO1lVlzOKSSWGu3eoi3tTioFyl12,Smash Burger Co,Hamburgueria,2,Porto Alegre,4.5,2,Alegre
+pO1lVlzOKSSWGu3eoi3tTioFyl12,Smash Burger Co,Hamburgueria,2,Porto Alegre,4.5,2,Descontraída
+qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Petit Paris,Francesa,3,Brasília,4.5,12,Noturna
+qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Petit Paris,Francesa,3,Brasília,4.5,12,Cafeteria
+qVW4FVgnqBfPMlzuAbrjBuG0ZCz1,Petit Paris,Francesa,3,Brasília,4.5,12,Romântica
+qaN1cXhZzDNg2RDtGoxP3j5FGXz1,Vicolo Italiano,Italiana,2,Petrópolis,4.4286,7,Familiar
+r3VDZfVzefczTm5skgAhRYiHgMy2,Taj Mahal,Indiana,3,Brasília,4.0,10,Tranquila
+r3VDZfVzefczTm5skgAhRYiHgMy2,Taj Mahal,Indiana,3,Brasília,4.0,10,Sofisticada
+r3VDZfVzefczTm5skgAhRYiHgMy2,Taj Mahal,Indiana,3,Brasília,4.0,10,Familiar
+rhdWPErHrfdFWSEpbnlmGwcbSfM2,Chez Marie,Francesa,3,São Paulo,4.5,6,Tranquila
+rhdWPErHrfdFWSEpbnlmGwcbSfM2,Chez Marie,Francesa,3,São Paulo,4.5,6,Sofisticada
+s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Mesa do Chef,Contemporânea,3,Belo Horizonte,3.8571,7,Romântica
+s3LG8nYqgUaHBiGnbU8B0VSLq1A2,Mesa do Chef,Contemporânea,3,Belo Horizonte,3.8571,7,Sofisticada
+sPS22OxaGpWtukSirKjZVRdiAbB3,Casa da Vó São Paulo,Brasileira,2,São Paulo,3.0,2,Cafeteria
+sPS22OxaGpWtukSirKjZVRdiAbB3,Casa da Vó São Paulo,Brasileira,2,São Paulo,3.0,2,Romântica
+sPS22OxaGpWtukSirKjZVRdiAbB3,Casa da Vó São Paulo,Brasileira,2,São Paulo,3.0,2,Alegre
+scc34LM9dVeb0OafuVyk6KGybG13,Mesa do Chef São Paulo,Contemporânea,1,São Paulo,4.6667,3,Tranquila
+scc34LM9dVeb0OafuVyk6KGybG13,Mesa do Chef São Paulo,Contemporânea,1,São Paulo,4.6667,3,Sofisticada
+scc34LM9dVeb0OafuVyk6KGybG13,Mesa do Chef São Paulo,Contemporânea,1,São Paulo,4.6667,3,Familiar
+sf2DZijWUcMAPavQNeRLyjwzyqG3,Cheiro de Terra,Nordestina,3,Brasília,3.8333,6,Alegre
+sf2DZijWUcMAPavQNeRLyjwzyqG3,Cheiro de Terra,Nordestina,3,Brasília,3.8333,6,Descontraída
+sf2DZijWUcMAPavQNeRLyjwzyqG3,Cheiro de Terra,Nordestina,3,Brasília,3.8333,6,Familiar
+tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Horta Viva,Vegetariana,1,Brasília,4.5,2,Romântica
+tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Horta Viva,Vegetariana,1,Brasília,4.5,2,Alegre
+tYuN50Q3G2ZVaxeNo7XOG9o57yH3,Horta Viva,Vegetariana,1,Brasília,4.5,2,Tranquila
+tZOCQC5SPPec1jJFb0wxg1F9hGM2,Casa do Baião São Paulo,Nordestina,3,São Paulo,3.5,6,Romântica
+tZOCQC5SPPec1jJFb0wxg1F9hGM2,Casa do Baião São Paulo,Nordestina,3,São Paulo,3.5,6,Alegre
+tZOCQC5SPPec1jJFb0wxg1F9hGM2,Casa do Baião São Paulo,Nordestina,3,São Paulo,3.5,6,Tranquila
+thzihYT0TPS9YResd7sJDRIiYEN2,Osteria Aurora,Italiana,4,Brasília,5.0,2,Sofisticada
+thzihYT0TPS9YResd7sJDRIiYEN2,Osteria Aurora,Italiana,4,Brasília,5.0,2,Romântica
+u80YaNcNoCNmYZRtgmTcgU6UVeF2,Casa Libanesa,Árabe,2,São Paulo,3.5,8,Descontraída
+u80YaNcNoCNmYZRtgmTcgU6UVeF2,Casa Libanesa,Árabe,2,São Paulo,3.5,8,Familiar
+uu7b2EzekfgMsEBCMIqREUQ2w2H3,Maresia,Frutos do Mar,2,Recife,3.3333,3,Familiar
+uu7b2EzekfgMsEBCMIqREUQ2w2H3,Maresia,Frutos do Mar,2,Recife,3.3333,3,Tranquila
+uzPSSKT20lgUivLd0uU4uUdaxm42,Tasca Lusitana,Portuguesa,1,Brasília,4.6667,12,Familiar
+uzPSSKT20lgUivLd0uU4uUdaxm42,Tasca Lusitana,Portuguesa,1,Brasília,4.6667,12,Descontraída
+uzPSSKT20lgUivLd0uU4uUdaxm42,Tasca Lusitana,Portuguesa,1,Brasília,4.6667,12,Noturna
+v2UOvqHCH9NgqtOEuvPRxsMZbd72,Bacalhau & Vinho,Portuguesa,2,São Paulo,3.8,10,Cafeteria
+v2UOvqHCH9NgqtOEuvPRxsMZbd72,Bacalhau & Vinho,Portuguesa,2,São Paulo,3.8,10,Romântica
+v2UOvqHCH9NgqtOEuvPRxsMZbd72,Bacalhau & Vinho,Portuguesa,2,São Paulo,3.8,10,Alegre
+vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Trattoria Bella Salvador,Italiana,3,Salvador,4.7,10,Romântica
+vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Trattoria Bella Salvador,Italiana,3,Salvador,4.7,10,Familiar
+vDb5BmHL6ZWn2HO3ra8JqbpxQ9U2,Trattoria Bella Salvador,Italiana,3,Salvador,4.7,10,Sofisticada
+vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Il Forno Goiânia,Italiana,2,Goiânia,4.25,8,Tranquila
+vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Il Forno Goiânia,Italiana,2,Goiânia,4.25,8,Sofisticada
+vE26MAH97GT4Wk8Qxd1uKm8GDnt1,Il Forno Goiânia,Italiana,2,Goiânia,4.25,8,Familiar
+vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Rancho da Picanha,Churrasco,4,Anápolis,5.0,2,Alegre
+vWMTSvdCrNSdkTJv6KEnpvpXP5W2,Rancho da Picanha,Churrasco,4,Anápolis,5.0,2,Familiar
+vYVsKOgxYPMXtANrgIQbKGnbyJk1,Lima Cevicheria,Peruana,4,São Paulo,3.7778,9,Alegre
+vYVsKOgxYPMXtANrgIQbKGnbyJk1,Lima Cevicheria,Peruana,4,São Paulo,3.7778,9,Sofisticada
+vcCg31M7I1eNvhO5w1XevB7qiPo1,Ostra & Mar Rio de Janeiro,Frutos do Mar,1,Rio de Janeiro,4.3636,11,Familiar
+vcCg31M7I1eNvhO5w1XevB7qiPo1,Ostra & Mar Rio de Janeiro,Frutos do Mar,1,Rio de Janeiro,4.3636,11,Descontraída
+vnYeTiDsofgVtemkOm26e0AfJfI3,Azeite & Sal Brasília,Mediterrânea,4,Brasília,3.6667,12,Sofisticada
+vnYeTiDsofgVtemkOm26e0AfJfI3,Azeite & Sal Brasília,Mediterrânea,4,Brasília,3.6667,12,Familiar
+vnYeTiDsofgVtemkOm26e0AfJfI3,Azeite & Sal Brasília,Mediterrânea,4,Brasília,3.6667,12,Descontraída
+wNAp8JFAzFXg7lVbUePDQITFhzF2,Massa Madre,Pizzaria,1,Pirenópolis,3.0,10,Descontraída
+wUTEYKXPxScw8SRMrTuQQQbrATm1,Cais do Porto,Frutos do Mar,3,Salvador,4.5,2,Romântica
+wUTEYKXPxScw8SRMrTuQQQbrATm1,Cais do Porto,Frutos do Mar,3,Salvador,4.5,2,Familiar
+xH3bfX78XnbdiUXK2LoWeuPNaEI2,Casa Libanesa Brasília,Árabe,4,Brasília,3.5714,7,Cafeteria
+xH3bfX78XnbdiUXK2LoWeuPNaEI2,Casa Libanesa Brasília,Árabe,4,Brasília,3.5714,7,Romântica
+xH3bfX78XnbdiUXK2LoWeuPNaEI2,Casa Libanesa Brasília,Árabe,4,Brasília,3.5714,7,Alegre
+xXkfJqv8ngftW7JJZ3ZSynJeQ053,Cantina Azteca,Mexicana,2,Brasília,4.4,10,Descontraída
+xXkfJqv8ngftW7JJZ3ZSynJeQ053,Cantina Azteca,Mexicana,2,Brasília,4.4,10,Noturna
+xXkfJqv8ngftW7JJZ3ZSynJeQ053,Cantina Azteca,Mexicana,2,Brasília,4.4,10,Cafeteria
+xhlnGcz5oFhIL0FMZDxIMLc3de02,Quintal Mineiro,Brasileira,2,Rio de Janeiro,3.0,2,Descontraída
+xhlnGcz5oFhIL0FMZDxIMLc3de02,Quintal Mineiro,Brasileira,2,Rio de Janeiro,3.0,2,Familiar
+xhlnGcz5oFhIL0FMZDxIMLc3de02,Quintal Mineiro,Brasileira,2,Rio de Janeiro,3.0,2,Tranquila
+xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizza Nostra,Pizzaria,2,São Paulo,4.1667,12,Alegre
+xwbAIIGqGSW59qnlxe3Shv2IjIm2,Pizza Nostra,Pizzaria,2,São Paulo,4.1667,12,Familiar
+yJLMaelXgFYymQwgBsQi7QIhKKm1,Maré Cheia,Nordestina,3,Salvador,4.1111,9,Descontraída
+yzA8lUKfxzRKvznjZmB22TTngb03,Yume Izakaya Niterói,Japonesa,3,Niterói,2.8889,9,Tranquila
+yzA8lUKfxzRKvznjZmB22TTngb03,Yume Izakaya Niterói,Japonesa,3,Niterói,2.8889,9,Sofisticada
+z2lrmLtvXONaYdrJELsXlHvuQp32,Café Quintal,Cafeteria,1,Brasília,4.3636,11,Tranquila
+z2lrmLtvXONaYdrJELsXlHvuQp32,Café Quintal,Cafeteria,1,Brasília,4.3636,11,Cafeteria
+zEuprxc9HMQ01GtMzMOZX9EGq7K2,Yume Izakaya,Japonesa,3,Rio de Janeiro,2.8889,9,Sofisticada
+zEuprxc9HMQ01GtMzMOZX9EGq7K2,Yume Izakaya,Japonesa,3,Rio de Janeiro,2.8889,9,Noturna
+zSLudZ49vnM8ieBAYNisC3yAWsj2,Costela & Cia Caxias do Sul,Churrasco,3,Caxias do Sul,4.5556,9,Familiar
+zSLudZ49vnM8ieBAYNisC3yAWsj2,Costela & Cia Caxias do Sul,Churrasco,3,Caxias do Sul,4.5556,9,Alegre
+zSLudZ49vnM8ieBAYNisC3yAWsj2,Costela & Cia Caxias do Sul,Churrasco,3,Caxias do Sul,4.5556,9,Descontraída
+zkZJFYar6hflIoS7L3gNggmjnHG3,Yume Izakaya Curitiba,Japonesa,2,Curitiba,4.625,8,Sofisticada
+zkZJFYar6hflIoS7L3gNggmjnHG3,Yume Izakaya Curitiba,Japonesa,2,Curitiba,4.625,8,Tranquila
+zkZJFYar6hflIoS7L3gNggmjnHG3,Yume Izakaya Curitiba,Japonesa,2,Curitiba,4.625,8,Noturna
