@@ -35,7 +35,7 @@ Ciência de Dados e Aprendizagem de Máquina · Sistemas de Informação · 2026
 ## Estrutura da pasta
 
 ```text
-crisp-dm/
+Projeto_datascience/
 ├── fase1 … fase6 (.md)   documento de cada fase
 ├── notebooks/            fase2 · fase3 · fase4 · fase5 (executados, com saídas)
 ├── dados/
@@ -60,7 +60,7 @@ cd notebooks
 jupyter nbconvert --to notebook --execute --inplace fase2-entendimento-dados.ipynb fase3-preparacao-dados.ipynb fase4-modelagem.ipynb fase5-avaliacao.ipynb
 ```
 
-No Colab: `!git clone https://github.com/gabriellandimdonadel/aprendizado-maquina-udf.git`, depois `%cd aprendizado-maquina-udf/crisp-dm/notebooks` e execute os notebooks em ordem.
+No Colab: `!git clone https://github.com/gabriellandimdonadel/aprendizado-maquina-udf.git`, depois `%cd aprendizado-maquina-udf/Projeto_datascience/notebooks` e execute os notebooks em ordem.
 
 **Ambiente usado (25/11/2026):** Python 3.11.9, pandas 3.1.1, numpy 2.4.6, scipy 1.17.1, scikit-learn 1.9.1, matplotlib 3.11.2, seaborn 0.13.2, openpyxl 3.1.5 e firebase-admin 7.8.0 (só para exportar). **Semente:** 42.
 

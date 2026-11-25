@@ -27,16 +27,16 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 
 ## Projeto GastroMatch — CRISP-DM (fases 1 a 6)
 
-Tudo fica na pasta **[crisp-dm/](crisp-dm/README.md)**:
+Tudo fica na pasta **[Projeto_datascience/](Projeto_datascience/README.md)**:
 
 | Fase | Documento | Notebook executado |
 | --- | --- | --- |
-| 1. Entendimento do Negócio | [fase1-entendimento-negocio.md](crisp-dm/fase1-entendimento-negocio.md) | — |
-| 2. Entendimento dos Dados | [fase2-entendimento-dados.md](crisp-dm/fase2-entendimento-dados.md) | [fase2-entendimento-dados.ipynb](crisp-dm/notebooks/fase2-entendimento-dados.ipynb) |
-| 3. Preparação dos Dados | [fase3-preparacao-dados.md](crisp-dm/fase3-preparacao-dados.md) | [fase3-preparacao-dados.ipynb](crisp-dm/notebooks/fase3-preparacao-dados.ipynb) |
-| 4. Modelagem | [fase4-modelagem.md](crisp-dm/fase4-modelagem.md) | [fase4-modelagem.ipynb](crisp-dm/notebooks/fase4-modelagem.ipynb) |
-| 5. Avaliação | [fase5-avaliacao.md](crisp-dm/fase5-avaliacao.md) | [fase5-avaliacao.ipynb](crisp-dm/notebooks/fase5-avaliacao.ipynb) |
-| 6. Implementação | [fase6-implementacao.md](crisp-dm/fase6-implementacao.md) | — |
+| 1. Entendimento do Negócio | [fase1-entendimento-negocio.md](Projeto_datascience/fase1-entendimento-negocio.md) | — |
+| 2. Entendimento dos Dados | [fase2-entendimento-dados.md](Projeto_datascience/fase2-entendimento-dados.md) | [fase2-entendimento-dados.ipynb](Projeto_datascience/notebooks/fase2-entendimento-dados.ipynb) |
+| 3. Preparação dos Dados | [fase3-preparacao-dados.md](Projeto_datascience/fase3-preparacao-dados.md) | [fase3-preparacao-dados.ipynb](Projeto_datascience/notebooks/fase3-preparacao-dados.ipynb) |
+| 4. Modelagem | [fase4-modelagem.md](Projeto_datascience/fase4-modelagem.md) | [fase4-modelagem.ipynb](Projeto_datascience/notebooks/fase4-modelagem.ipynb) |
+| 5. Avaliação | [fase5-avaliacao.md](Projeto_datascience/fase5-avaliacao.md) | [fase5-avaliacao.ipynb](Projeto_datascience/notebooks/fase5-avaliacao.ipynb) |
+| 6. Implementação | [fase6-implementacao.md](Projeto_datascience/fase6-implementacao.md) | — |
 
 Documento de definição do projeto: [GastroMatch_Definicao_Projeto_CD.docx](GastroMatch_Definicao_Projeto_CD.docx) (versão 1.1). Base: 3.075 registros (1.751 avaliações) do banco de **demonstração** do GastroMatch, com dados **fictícios** e sem dados pessoais.
 
@@ -74,7 +74,7 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 
 - [x] CRISP-DM Fase 1: entendimento do negócio (GastroMatch).
 - [x] CRISP-DM Fase 2: entendimento dos dados (GastroMatch, mais de 1.000 registros).
-- [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([crisp-dm](crisp-dm/README.md)).
+- [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([Projeto_datascience](Projeto_datascience/README.md)).
 
 - [x] Aula 1: quadro comparativo e problemas justificados ([01](01-aula1-conceitos.md)).
 - [x] PBL Biblioteca em Foco ([02](02-pbl-biblioteca.md)).

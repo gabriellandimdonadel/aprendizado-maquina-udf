@@ -26,7 +26,7 @@ O projeto é um **pipeline reprodutível de análise de dados** acoplado à arqu
 | Rodar os notebooks das fases 3 → 4 → 5 | Rafael | Logo após a exportação |
 | Revisar as verificações (`avaliacao_verificacoes.csv`) e publicar os indicadores no painel do restaurante | Equipe | Se todas as verificações passarem |
 
-Comando de reprodução (a partir de `crisp-dm/`):
+Comando de reprodução (a partir de `Projeto_datascience/`):
 
 ```bash
 pip install -r requirements.txt
