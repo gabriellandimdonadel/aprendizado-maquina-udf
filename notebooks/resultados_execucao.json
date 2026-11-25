@@ -1,0 +1,23 @@
+{
+  "acuracia_treino": 0.8133333333333334,
+  "acuracia_teste": 0.78,
+  "acuracia_referencia": 0.5933333333333334,
+  "matriz_confusao": [
+    [
+      75,
+      14
+    ],
+    [
+      19,
+      42
+    ]
+  ],
+  "profundidade": 5,
+  "mae": 28.592371891051485,
+  "r2": 0.8774401457921505,
+  "mae_referencia": 84.73054077484917,
+  "sklearn": "1.9.1",
+  "pandas": "3.1.1",
+  "numpy": "2.4.6",
+  "matplotlib": "3.11.2"
+}

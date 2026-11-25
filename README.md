@@ -12,6 +12,7 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 - Estudante ou equipe: **Gabriel Landim Donadel de Farias e Rafael Batista Mota (GastroMatch)**
 - Turma: **Sistemas de Informação — UDF, 2026.2**
 - Repositório: **https://github.com/gabriellandimdonadel/aprendizado-maquina-udf**
+- Uso de IA: **assistente Claude (Anthropic) usado para organizar documentos, escrever código de análise e revisar a redação. Todos os resultados foram conferidos pela execução dos notebooks, e a responsabilidade pelo conteúdo é da equipe.**
 
 ## Atividades
 
@@ -75,11 +76,11 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 - [x] CRISP-DM Fase 2: entendimento dos dados (GastroMatch, mais de 1.000 registros).
 - [x] CRISP-DM Fases 3 a 6: preparação, modelagem, avaliação e implementação ([crisp-dm](crisp-dm/README.md)).
 
-- [ ] Aula 1: quadro comparativo e problemas justificados.
-- [ ] PBL Biblioteca em Foco.
-- [ ] Aula 2: notebook ou fluxo Orange e relatório.
-- [ ] PBL Apoio à Permanência.
-- [ ] Revisão e autoavaliação.
+- [x] Aula 1: quadro comparativo e problemas justificados ([01](01-aula1-conceitos.md)).
+- [x] PBL Biblioteca em Foco ([02](02-pbl-biblioteca.md)).
+- [x] Aula 2: notebook e relatório ([03](03-aula2-laboratorio.md), [notebook executado](notebooks/laboratorio-equipe.ipynb)).
+- [x] PBL Apoio à Permanência ([04](04-pbl-permanencia.md)).
+- [x] Revisão e autoavaliação ([05](05-revisao.md), [06](06-autoavaliacao.md)).
 
 ## Fonte da atividade
 
